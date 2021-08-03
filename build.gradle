@@ -1,0 +1,85 @@
+plugins {
+    id 'java'
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+tasks.withType(JavaCompile) {options.encoding = 'UTF-8'}
+
+group 'org.Fetcher'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+    jcenter()
+    google()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+
+    //-----------------------------------------------------------------------------------------------
+
+    // JDA (Java Discord API)
+    //implementation 'net.dv8tion:JDA:4.2.0_228'
+    compile("net.dv8tion:JDA:4.2.0_168")
+
+    //-----------------------------------------------------------------------------------------------
+
+    //google sheets API
+    compile 'com.google.api-client:google-api-client:1.30.4'
+    compile 'com.google.oauth-client:google-oauth-client-jetty:1.30.6'
+    compile 'com.google.apis:google-api-services-sheets:v4-rev581-1.25.0'
+
+    //-----------------------------------------------------------------------------------------------
+
+    //Web Scraping -> https://www.youtube.com/watch?v=1a7esDg4JQY
+
+    // https://mvnrepository.com/artifact/net.sourceforge.htmlunit/htmlunit
+    //implementation group: 'net.sourceforge.htmlunit', name: 'htmlunit', version: '2.47.1'
+
+    // https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind
+    //implementation group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.12.1'
+
+    // https://mvnrepository.com/artifact/org.jsoup/jsoup   -> https://www.youtube.com/watch?v=BEvRZUEQ3Dc
+    implementation group: 'org.jsoup', name: 'jsoup', version: '1.13.1'
+
+    //-----------------------------------------------------------------------------------------------
+
+
+    //To fix the error: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+    // https://mvnrepository.com/artifact/org.slf4j/slf4j-api
+    implementation group: 'org.slf4j', name: 'slf4j-api', version: '1.7.30'
+    // https://mvnrepository.com/artifact/org.slf4j/slf4j-simple
+      //testImplementation group: 'org.slf4j', name: 'slf4j-simple', version: '1.7.30'
+    // https://mvnrepository.com/artifact/org.slf4j/slf4j-jdk14
+      //testImplementation group: 'org.slf4j', name: 'slf4j-jdk14', version: '1.7.30'
+    // https://mvnrepository.com/artifact/ch.qos.logback/logback-classic
+      //testImplementation group: 'ch.qos.logback', name: 'logback-classic', version: '1.2.3'
+
+    //-----------------------------------------------------------------------------------------------
+
+    //To make a button action work.
+    // https://mvnrepository.com/artifact/net.sourceforge.htmlunit/htmlunit
+    implementation group: 'net.sourceforge.htmlunit', name: 'htmlunit', version: '2.50.0'
+
+    //-----------------------------------------------------------------------------------------------
+
+    //Ir order to read the XML files, we need this library.
+
+    // https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind
+    //implementation group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.12.3'
+
+    // https://mvnrepository.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformat-xml
+    implementation group: 'com.fasterxml.jackson.dataformat', name: 'jackson-dataformat-xml', version: '2.9.7'
+
+    //-----------------------------------------------------------------------------------------------
+
+
+}
+
+test {
+    useJUnitPlatform()
+}
