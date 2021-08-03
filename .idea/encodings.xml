@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/discord_bot/Commands.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/google_sheets/Library.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/google_sheets/SheetsQuickstart.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/google_sheets/Library.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/google_sheets/SheetsQuickstart.java" charset="windows-1252" />
+  </component>
+</project>
