@@ -17,6 +17,13 @@ public class Getting_the_MP3_link_2 {
       //This will be returned. This's where the file (MP3) was saved in the computer
     private String filePath = "";
 
+
+    /**
+     * Starting the private methods
+     * @param theMessage a string message a user sent
+     * @return the path that contains the directory of our vocaroo audio
+     * @throws IOException just in case we couldn't find a link in the message
+     */
     public String Scraping_to_get_the_link_2 (String theMessage) throws IOException{
 
         this.theURL = theURL;
@@ -36,9 +43,11 @@ public class Getting_the_MP3_link_2 {
 
 
     /**
-     * Returns a list with all links contained in the input
+     * Returns a list with all links contained in the String sent by a user (input)
+     * @param text a String sent by a user
+     * @return the first url found in the user String
      */
-    public static List<String> extractUrls(String text) {
+    private static List<String> extractUrls(String text) {
         List<String> containedUrls = new ArrayList<String>();
         String urlRegex = "((https?|ftp|gopher|telnet|file):((//)|(\\\\))+[\\w\\d:#@%/;$()~_?\\+-=\\\\\\.&]*)";
         Pattern pattern = Pattern.compile(urlRegex, Pattern.CASE_INSENSITIVE);
