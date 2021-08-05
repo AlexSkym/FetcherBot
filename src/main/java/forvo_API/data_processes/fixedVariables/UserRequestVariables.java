@@ -6,9 +6,10 @@ public class UserRequestVariables {
      * Aliases allowed
      */
     enum AliasesAllowed {
-        ALIASES(".,fetchPronunciation",
+        ALIASES(".,fetchPronunciation", ".,fetchPronunciacion",
                 ".,fetchPro", ".,fetchPr", ".,fetchP", ".,fp",
-                "pronunciation",".,pronounce", ".,pron", ".,pro", ".,pr", ".,p");
+                "pronunciation", ".,pronunciacion",".,pronounce", ".,pronuncia",
+                ".,pron", ".,pro", ".,pr", ".,p");
 
         String[] complex;
 
