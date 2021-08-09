@@ -1,0 +1,45 @@
+-----------------
+- Global errors -
+-----------------
+
+- it needs to have a general "corrector" to accept only aliases well-written ".,ALIAS"
+
+
+
+
+----------------
+----- WOTD -----
+----------------
+
+- it doesn't work finely because it is sent two times (1 hour of difference)
+-
+
+
+
+----------------
+- TextFetching -
+----------------
+
+-
+
+
+
+-----------------
+----- forvo -----
+-----------------
+
+- it detect "female" as a command, but not to send feminine voice.
+
+
+
+
+-------------------
+----- Vocaroo -----
+-------------------
+
+-
+
+
+
+
+

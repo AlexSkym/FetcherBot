@@ -166,7 +166,7 @@ public class GettingWordOfTheDay {
         embedBuilder.setColor(new Color(32, 173, 47));
 
         embedBuilder.setDescription("" +
-                "> " + role.getAsMention() + "\n" + " <@826545054105075762> <@826545054105075762> <@658804803916529685>" +
+                "> " + role.getAsMention() + "\n" +
                 "> " + "\n" +
                 "> <:YellowBallicon:821400709839978506> [EN] **" + item.getSubtitle_spanishWord().substring(0, 1).toUpperCase() + item.getSubtitle_spanishWord().substring(1) + "**\n" +
                 //  "> " + "\n" +

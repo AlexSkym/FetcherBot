@@ -44,6 +44,7 @@ public class Main0 {
         //Call the WordOfTheDay_FetcherBot
         SubmainWOTD mainWOTD = new SubmainWOTD(prefix, jda);
         SubmainVocaroo submainVocaroo = new SubmainVocaroo(jda);
+
     }
 
 }

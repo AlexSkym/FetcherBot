@@ -6,18 +6,25 @@ forvo_API/data_processes/ItemLists_processes/Searching_inside_ItemsList.java
  forvo_API.data_processes.ItemLists_processes.Searching_inside_ItemsList$GettingAFilteredList_withUserSpecs
 discord_bot/SubmainVocaroo.java
  discord_bot.SubmainVocaroo
-discord_bot/SubmainForvo.java
- discord_bot.SubmainForvo
+forvo_API/data_processes/fixedVariables/AutomatedMessages.java
+ forvo_API.data_processes.fixedVariables.AutomatedMessages
+forvo_API/data_processes/ItemLists_processes/ItemListCreator.java
+ forvo_API.data_processes.ItemLists_processes.ItemListCreator
+ forvo_API.data_processes.ItemLists_processes.ItemListCreator$1
 vocaroo_scraping/DownloadingAudioFromVocaroo_3.java
  vocaroo_scraping.DownloadingAudioFromVocaroo_3
-discord_bot/Main0.java
- discord_bot.Main0
+forvo_API/UserPetition_Handler_simpleMode.java
+ forvo_API.UserPetition_Handler_simpleMode
 forvo_API/data_processes/fixedVariables/MapperEnumFixedVar.java
  forvo_API.data_processes.fixedVariables.MapperEnumFixedVar
 forvo_API/data_processes/DownloadingForvoAudioMP3.java
  forvo_API.data_processes.DownloadingForvoAudioMP3
-zUtil/MyProperties.java
- zUtil.MyProperties
+discord_bot/SubmainForvo.java
+ discord_bot.SubmainForvo
+zUtil/AddingNewStringUnicode.java
+ zUtil.AddingNewStringUnicode
+forvo_API/UserPetition_Handler_withThreads.java
+ forvo_API.UserPetition_Handler_withThreads
 forvo_API/data_processes/xml_processes/Reader_and_Writer_ForXML.java
  forvo_API.data_processes.xml_processes.Reader_and_Writer_ForXML
 google_sheets/SheetsQuickstart.java
@@ -30,11 +37,24 @@ discord_bot/SubmainWOTD.java
  discord_bot.SubmainWOTD
 wotd_scraping/ScrapingSites.java
  wotd_scraping.ScrapingSites
+storytime/data_processes/ReactionRequest_Handler.java
+ storytime.data_processes.ReactionRequest_Handler
+wotd_scraping/GettingWordOfTheDay.java
+ wotd_scraping.GettingWordOfTheDay
 forvo_API/data_processes/ItemLists_processes/Lists_Handler_strict.java
  forvo_API.data_processes.ItemLists_processes.Lists_Handler_strict
  forvo_API.data_processes.ItemLists_processes.Lists_Handler_strict$GettingASortedList_withUserNeeds
+forvo_API/data_processes/xml_processes/ReaderForXML.java
+ forvo_API.data_processes.xml_processes.ReaderForXML
+ forvo_API.data_processes.xml_processes.ReaderForXML$1
+zUtil/noSpanishAccents.java
+ zUtil.noSpanishAccents
 wotd_scraping/Item.java
  wotd_scraping.Item
+zUtil/MyProperties.java
+ zUtil.MyProperties
+google_sheets/Library.java
+ google_sheets.Library
 vocaroo_scraping/Getting_the_MP3_link_2.java
  vocaroo_scraping.Getting_the_MP3_link_2
 forvo_API/data_processes/fixedVariables/UserRequestVariables.java
@@ -52,21 +72,34 @@ forvo_API/forEachPetition_aNewThread.java
  forvo_API.forEachPetition_aNewThread
 forvo_API/me.java
  forvo_API.me
-wotd_scraping/GettingWordOfTheDay.java
- wotd_scraping.GettingWordOfTheDay
-google_sheets/Library.java
- google_sheets.Library
-forvo_API/data_processes/ItemLists_processes/ItemListCreator.java
- forvo_API.data_processes.ItemLists_processes.ItemListCreator
- forvo_API.data_processes.ItemLists_processes.ItemListCreator$1
-forvo_API/data_processes/xml_processes/ReaderForXML.java
- forvo_API.data_processes.xml_processes.ReaderForXML
- forvo_API.data_processes.xml_processes.ReaderForXML$1
 forvo_API/data_processes/xml_processes/WriterForXML.java
  forvo_API.data_processes.xml_processes.WriterForXML
-forvo_API/data_processes/fixedVariables/AutomatedMessages.java
- forvo_API.data_processes.fixedVariables.AutomatedMessages
-forvo_API/UserPetition_Handler_simpleMode.java
- forvo_API.UserPetition_Handler_simpleMode
-forvo_API/UserPetition_Handler_withThreads.java
- forvo_API.UserPetition_Handler_withThreads
+storytime/data_processes/fixedVariables/AutomatedMessages.java
+ storytime.data_processes.fixedVariables.AutomatedMessages
+storytime/data_processes/onTxtFile/OverwritingTxtFileAsNull.java
+ storytime.data_processes.onTxtFile.OverwritingTxtFileAsNull
+discord_bot/Main0.java
+ discord_bot.Main0
+storytime/data_processes/fixedVariables/VerifyingMsg.java
+ storytime.data_processes.fixedVariables.VerifyingMsg
+storytime/MessageReaction_Handler.java
+ storytime.MessageReaction_Handler
+storytime/data_processes/onTxtFile/WritingTxtFile.java
+ storytime.data_processes.onTxtFile.WritingTxtFile
+storytime/data_processes/fixedVariables/FixedVariables.java
+ storytime.data_processes.fixedVariables.FixedVariables
+ storytime.data_processes.fixedVariables.FixedVariables$AliasesAllowed
+storytime/test.java
+ storytime.test
+storytime/data_processes/onTxtFile/ReadingTxtFileAsList.java
+ storytime.data_processes.onTxtFile.ReadingTxtFileAsList
+storytime/MessageThreads.java
+ storytime.MessageThreads
+storytime/data_processes/StringRequest_Handler_firstPage.java
+ storytime.data_processes.StringRequest_Handler_firstPage
+storytime/data_processes/paragraphs/GettingParagraphs.java
+ storytime.data_processes.paragraphs.GettingParagraphs
+storytime/SubmainStoryTime.java
+ storytime.SubmainStoryTime
+storytime/Main.java
+ storytime.Main

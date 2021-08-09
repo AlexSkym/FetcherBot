@@ -150,7 +150,7 @@ public class UserPetition_Handler_simpleMode {
 
         //not working
         if (values == null || (values.get("word") == null || values.get("word").equals(""))) {
-            finalMessage = automatedMessages.getMessageOfError_sentenceTypo();
+            //finalMessage = automatedMessages.getMessageOfError_sentenceTypo();
             System.out.println(automatedMessages.getMessageOfError_sentenceTypo());
             nextAction = false;
 

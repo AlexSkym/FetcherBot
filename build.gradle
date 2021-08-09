@@ -2,12 +2,48 @@ plugins {
     id 'java'
 }
 
-sourceCompatibility = 1.8
-targetCompatibility = 1.8
+sourceCompatibility = 11
+targetCompatibility = 11
 
-tasks.withType(JavaCompile) {options.encoding = 'UTF-8'}
+//without all of this encoding options, everything worked exceptionally better. otherwise "ISO-8859-1" or latter
 
-group 'org.Fetcher'
+/*
+tasks.withType(JavaCompile) {options.encoding = 'UTF-8'}*/
+
+/*
+apply plugin: 'java'
+compileJava {options.encoding = "UTF-8"}
+compileTestJava {options.encoding = "UTF-8"}
+*/
+
+/*
+apply plugin: 'java'
+compileJava {options.encoding = "windows-1251"}
+compileTestJava {options.encoding = "windows-1251"}
+*/
+
+/*
+apply plugin: 'java'
+compileJava {options.encoding = "ISO-8859-1"}
+compileTestJava {options.encoding = "ISO-8859-1"}
+*/
+
+/*
+apply plugin: 'java'
+compileJava {options.encoding = "US-ASCII"}
+compileTestJava {options.encoding = "US-ASCII"}
+*/
+
+/*
+apply plugin: 'java'
+compileJava {options.encoding = "ISO-8859-16"}
+compileTestJava {options.encoding = "ISO-8859-16"}
+*/
+
+
+//compileOptions.encoding = 'windows-1251'
+
+group 'org.alexskym'
 version '1.0-SNAPSHOT'
 
 repositories {
