@@ -10,9 +10,9 @@ public class VerifyingMsg {
     FixedVariables fixedVariables = new FixedVariables();
 
     //useful variables of the class
-    private Boolean commandRight = false;
+    private Boolean commandRight;
 
-    private Boolean txtAttachmentRight = false;
+    private Boolean txtAttachmentRight;
 
     private Boolean nextAction;
 

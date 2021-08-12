@@ -72,7 +72,6 @@ public class UserPetition_Handler_simpleMode {
         //step 1    //getting the values from the user String
         if (nextAction) getAcceptableValues_ofAUserString(userMessage);
 
-
         //step 2    //getting the url and write the xml file
         if (nextAction) setCreatingUrl_and_WritingForXML(word);
 
@@ -166,8 +165,8 @@ public class UserPetition_Handler_simpleMode {
         }
 
         //printing everything
-        System.out.println("" +
-                "word: "+word+", "+"language: "+language+", "+"sex: "+sex+", "+"country: "+country+".");
+        //System.out.println("" +
+        //        "word: "+word+", "+"language: "+language+", "+"sex: "+sex+", "+"country: "+country+".");
 
 
     }
@@ -200,6 +199,7 @@ public class UserPetition_Handler_simpleMode {
      * @return a list<ItemForXML>
      */
     private List<ItemForXML> getReaderForXML() {
+
 
         //not working
         if (readerForXML.read_XMLFile() == null){

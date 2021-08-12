@@ -1,19 +1,19 @@
 package storytime.data_processes.paragraphs;
 
-import storytime.data_processes.onTxtFile.ReadingTxtFileAsList;
+import storytime.data_processes.onTxtFile.ReadingTxtFile_AsListOfParagraphs;
 
 import java.io.IOException;
 import java.util.List;
 
 public class GettingParagraphs {
 
-    ReadingTxtFileAsList readingFile;
     static GettingParagraphs gettingParagraphs; //instance of this class itself
 
     //Recurrent variables
     static List<String> paragraphsList; //list with all the texts to be sent
 
     int iterator = 0;
+    int listSize;
 
     //constructor
     private GettingParagraphs() {
@@ -60,17 +60,15 @@ public class GettingParagraphs {
      * @return the very First Paragraph
      * @throws IOException
      */
-    public String getVeryFirstParagraph() throws IOException {
+    public String getVeryFirstParagraph(List<String> paragraphsList) throws IOException {
         iterator = 0;
 
-        readingFile = new ReadingTxtFileAsList();
-        paragraphsList = readingFile.getListString();
+        listSize = paragraphsList.size();
 
-        String firstParagraph = "";
+        String firstParagraph = paragraphsList.get(0);
 
-        firstParagraph = paragraphsList.get(0);
-
-        return firstParagraph;
+        return "Page num: " + (iterator+1) + ".  |  P\u00E1gina num: " + (iterator+1) + "." +
+                "```"+firstParagraph+"```";
     }
 
     /**
@@ -80,9 +78,10 @@ public class GettingParagraphs {
     public String getNextParagraph (){
         iterator ++;
 
-        if (iterator >= paragraphsList.size()){
+        //not working
+        if (iterator >= listSize){
 
-            if (iterator > paragraphsList.size()) {
+            if (iterator > listSize) {
                 iterator--;
             }
             String str = "" +
@@ -93,7 +92,7 @@ public class GettingParagraphs {
                     "                      <:dot_green:869956933476565062>" + "\n" +
                     "";
             return  str;
-        }
+        }//working
         else {
             String nextParagraph = paragraphsList.get(iterator);
 
@@ -109,12 +108,13 @@ public class GettingParagraphs {
     public String getPreviousParagraph (){
         iterator --;
 
+        //working
         if (iterator >= 0){
             String previousParagraph = paragraphsList.get(iterator);
 
             return  "Page num: " + (iterator+1) + ".  |  P\u00E1gina num: " + (iterator+1) + "." +
                     "```"+previousParagraph+"```";
-        }
+        }//not working
         else {
 
             if (iterator <= -2) {

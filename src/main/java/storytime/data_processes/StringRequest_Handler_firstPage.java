@@ -3,7 +3,7 @@ package storytime.data_processes;
 import net.dv8tion.jda.api.entities.Message;
 import storytime.data_processes.fixedVariables.AutomatedMessages;
 import storytime.data_processes.fixedVariables.VerifyingMsg;
-import storytime.data_processes.onTxtFile.ReadingTxtFileAsList;
+import storytime.data_processes.onTxtFile.ReadingTxtFile_AsListOfParagraphs;
 import storytime.data_processes.onTxtFile.WritingTxtFile;
 import storytime.data_processes.paragraphs.GettingParagraphs;
 
@@ -21,7 +21,7 @@ public class StringRequest_Handler_firstPage {
     private AutomatedMessages automatedMessages = new AutomatedMessages();
     private VerifyingMsg verifyingMsg;
     WritingTxtFile writingTxtFile;
-    ReadingTxtFileAsList readingTxtFileAsList;
+    ReadingTxtFile_AsListOfParagraphs readingTxtFileAsListOfParagraphs;
     GettingParagraphs gettingParagraphs = GettingParagraphs.getNewInstanceOfParagraphs();
 
     //useful variables
@@ -50,10 +50,10 @@ public class StringRequest_Handler_firstPage {
         if (nextStep) savingFile(msg);
 
         //step 3 - readingFile
-        //if (nextStep) readingFile_and_gettingList();
+        if (nextStep) list_paragraphs = readingFile_and_gettingList();
 
         //step 4 - reading the very first paragraph and adding one (++) to the static Iterator of paragraphs
-        if (nextStep) readingFirstParagraph();
+        if (nextStep) readingFirstParagraph(list_paragraphs);
 
         //step 5 -
         //use public methods
@@ -106,7 +106,7 @@ public class StringRequest_Handler_firstPage {
      */
     private List readingFile_and_gettingList(){
         try {//working
-            readingTxtFileAsList = new ReadingTxtFileAsList();
+            readingTxtFileAsListOfParagraphs = new ReadingTxtFile_AsListOfParagraphs();
             nextStep = true;
             System.out.println("working 3");
         }//not working
@@ -116,7 +116,7 @@ public class StringRequest_Handler_firstPage {
             e.printStackTrace();
         }
 
-        return readingTxtFileAsList.getListString();
+        return readingTxtFileAsListOfParagraphs.getListString();
     }
 
     /** Step 4
@@ -125,11 +125,11 @@ public class StringRequest_Handler_firstPage {
      *  Note: This will read also the text file.
      *
      */
-    private void readingFirstParagraph() {
+    private void readingFirstParagraph(List<String> list) {
         String temporalString = null;
 
         try { //working
-            temporalString = gettingParagraphs.getVeryFirstParagraph();
+            temporalString = gettingParagraphs.getVeryFirstParagraph(list);
             finalCustomMessage = temporalString;
             nextStep = true;
             System.out.println("working 4");
@@ -180,10 +180,12 @@ public class StringRequest_Handler_firstPage {
         return finalCustomMessage;
     }
 
-    public boolean isAllRight(){
+    public boolean isAllRight() {
         System.out.println("all is right");
         return nextStep;
     }
 
-
+    public List<String> getList_paragraphs() {
+        return list_paragraphs;
+    }
 }

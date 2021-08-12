@@ -3,7 +3,7 @@
  */
 package google_sheets;
 
-import discord_bot.SubmainTextFetching;
+import discord_bot.submains.SubmainTextFetching;
 
 import java.io.IOException;
 import java.security.GeneralSecurityException;
