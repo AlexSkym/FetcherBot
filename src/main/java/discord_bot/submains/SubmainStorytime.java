@@ -6,7 +6,7 @@ import net.dv8tion.jda.api.entities.*;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import net.dv8tion.jda.api.events.message.react.MessageReactionAddEvent;
 import storytime.data_processes.StringRequest_Handler_firstPage;
-import storytime.data_processes.paragraphs.GettingParagraphs;
+import storytime.data_processes.GettingParagraphs;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
@@ -33,13 +33,12 @@ public class SubmainStorytime {
     //numOfMessage_nameOfUser
     //this is only to grab the name of the user and the message that user received to give him permissions to use Next, Previous and Stop.
     private User temporalUser;
-    private Map<Message,User> map_numOfMessageToBeEdited_and_nameOfUserWhoSentRequest = new LinkedHashMap<>();
+    private Map<Message, User> map_numOfMessageToBeEdited_and_nameOfUserWhoSentRequest = new LinkedHashMap<>();
 
-                    //Map <numOfMessage, Map<List<paragraphs>, iterator>
+    //Map <numOfMessage, Map<List<paragraphs>, iterator>
     //numOfMessage_listWithParagraphs
-    private List<String> temporalList;
-    private Map<String, List<String>> map_numOfMessageToBeEdited_and_listWithParagraphs;
-    private Map<List<String>, Integer> map_listWithParagraphs_and_iteratorOfParagraphs;
+    //private List<String> temporalList;
+    //private Map<String, List<String>> map_numOfMessageToBeEdited_and_listWithParagraphs;
 
     //instances
     //StringRequest_Handler_firstPage stringRequestHandler_firstPage;
@@ -55,10 +54,9 @@ public class SubmainStorytime {
     -if user message is-
     -------------------*/
 
-
     public void start_onMessageReceived(MessageReceivedEvent event) {
 
-        System.out.println("storytime Starting. Msg: "+event.getMessage().getContentDisplay());
+        System.out.println("storytime Starting. Msg: " + event.getMessage().getContentDisplay());
 
         Message msg = event.getMessage(); //object of the message of a user
         MessageChannel messageChannel = msg.getChannel(); //obj
@@ -78,10 +76,13 @@ public class SubmainStorytime {
           Step 2
          -------*/
 
-        if (jda == null) System.out.println("is null");
-
         //after executing all rightly the user request, the bot add the corresponding emojis to the message of the bot.
-        if (isAllRight_temporal && event.getAuthor().isBot() && event.getAuthor().equals(jda.getSelfUser())){
+        if (isAllRight_temporal && event.getAuthor().isBot() && event.getAuthor().equals(jda.getSelfUser())) {
+
+            System.out.println("---------------------------" +
+                                "id...: " +event.getMessage().getId() + "" +
+                                "--------------------------");
+            GettingParagraphs.setMessageID(event.getMessageId());
 
             addingEmojisToBotMessage(msg);
 
@@ -89,10 +90,12 @@ public class SubmainStorytime {
 
     }
 
-        /*------------------
-         if reaction are....
-         ------------------*/
 
+
+
+    /*------------------
+    -if reaction are....
+    -------------------*/
 
     public void start_onMessageReactionAdd(MessageReactionAddEvent event){
 
@@ -141,7 +144,6 @@ public class SubmainStorytime {
                     .setDescription(finalSimpleMessage + "\n" + finalCustomMessage)
                     .build()).queue();
 
-            temporalList = stringRequestHandler_firstPage.getList_paragraphs();
             temporalUser = msg.getAuthor();     //this is for HandlingReaction method actually.
         }
         //if something wrong, let's send the error message
@@ -163,7 +165,6 @@ public class SubmainStorytime {
         System.out.println("executing emojis....");
 
         map_numOfMessageToBeEdited_and_nameOfUserWhoSentRequest.put(msg,temporalUser);
-        map_numOfMessageToBeEdited_and_listWithParagraphs.put(msg.getId(), temporalList);
 
         editThis_messagesOfTheBot.add(msg); //ID of the bot message
 
@@ -185,7 +186,7 @@ public class SubmainStorytime {
         //if next
         if (reactionEmote_data.equalsIgnoreCase(emojiNext) && !event.getUser().isBot()){
             System.out.println("next");
-            GettingParagraphs gettingParagraphs = GettingParagraphs.getCurrentInstanceOfParagraphs();
+            GettingParagraphs gettingParagraphs = GettingParagraphs.getCurrentInstanceOfParagraphs(event.getMessageId());
 
             for (Message message :
                     editThis_messagesOfTheBot) {
@@ -195,12 +196,7 @@ public class SubmainStorytime {
                  then the bot will serve a new paragraph.
                  */
                 if (message.getId().equalsIgnoreCase(event.getMessageId()) &&
-                    event.getUser().equals(map_numOfMessageToBeEdited_and_nameOfUserWhoSentRequest.get(message)) &&
-                    (map_numOfMessageToBeEdited_and_listWithParagraphs.containsKey(event.getMessageId()))){
-
-                    //getting iterator from the specified message
-                    int iterator = map_listWithParagraphs_and_iteratorOfParagraphs.get(map_numOfMessageToBeEdited_and_listWithParagraphs.get(event.getMessageId()));
-
+                    event.getUser().equals(map_numOfMessageToBeEdited_and_nameOfUserWhoSentRequest.get(message))){
                     //editing the message
                     message.editMessage(new EmbedBuilder()
                             .setDescription(gettingParagraphs.getNextParagraph()).build()).queue();
@@ -210,10 +206,10 @@ public class SubmainStorytime {
             event.getReaction().removeReaction(event.getUser());    //just to clean the reactions from users
         }
 
-        //if next
+        //if previous
         else if (reactionEmote_data.equalsIgnoreCase(emojiPrevious) && !event.getUser().isBot()){
             System.out.println("previous");
-            GettingParagraphs gettingParagraphs = GettingParagraphs.getCurrentInstanceOfParagraphs();
+            GettingParagraphs gettingParagraphs = GettingParagraphs.getCurrentInstanceOfParagraphs(event.getMessageId());
 
             for (Message message :
                     editThis_messagesOfTheBot) {

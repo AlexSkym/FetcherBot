@@ -1,107 +1,25 @@
-wotd_scraping/GettingWordOfTheDay.java
- wotd_scraping.GettingWordOfTheDay
-zPrueba_de_OpenClosePrinciple_1/Subtraction.java
- zPrueba_de_OpenClosePrinciple_1.Subtraction
-wotd_scraping/GettingLocalTime.java
- wotd_scraping.GettingLocalTime
- wotd_scraping.GettingLocalTime$1
-forvo_defenitive/xml_processes/MapperForXML.java
- forvo_defenitive.xml_processes.MapperForXML
- forvo_defenitive.xml_processes.MapperForXML$1
-wotd_scraping/Scraper.java
- wotd_scraping.Scraper
-wotd_scraping/WOTD.java
- wotd_scraping.WOTD
-discord_bot/SubmainVocaroo.java
- discord_bot.SubmainVocaroo
-forvo_scraping/TheSpanishForvoCountries.java
- forvo_scraping.TheSpanishForvoCountries
- forvo_scraping.TheSpanishForvoCountries$MySpanishForvoCountries
-forvo_defenitive/xml_processes/ItemForXML.java
- forvo_defenitive.xml_processes.ItemForXML
-forvo_API/Item_FromXML_ToXML.java
- forvo_API.Item_FromXML_ToXML
-forvo_scraping/IForvoCountry.java
- forvo_scraping.IForvoCountry
-forvo_scraping/SpanishForvoCountries.java
- forvo_scraping.SpanishForvoCountries
+forvo_API/FirstTimeUsingJDA.java
+ forvo_API.FirstTimeUsingJDA
 forvo_API/Reading_FromXML.java
  forvo_API.Reading_FromXML
  forvo_API.Reading_FromXML$1
-zPrueba_de_OpenClosePrinciple_1/Addition.java
- zPrueba_de_OpenClosePrinciple_1.Addition
-google_sheets/SheetsQuickstart.java
+forvo_API/GettingXMLFile_fromAUrl_example.java
+ forvo_API.GettingXMLFile_fromAUrl_example
+forvo_API/SheetsQuickstart.java
  google_sheets.SheetsQuickstart
-zPrueba_de_OpenClosePrinciple_2/MainPrueba.java
- zPrueba_de_OpenClosePrinciple_2.MainPrueba
-zPrueba_de_OpenClosePrinciple_1/The_Interface_or_Class.java
- zPrueba_de_OpenClosePrinciple_1.The_Interface_or_Class
-forvo_scraping/EnglishForvoCountries.java
- forvo_scraping.EnglishForvoCountries
-vocaroo_scraping/Getting_the_MP3_link_2.java
- vocaroo_scraping.Getting_the_MP3_link_2
-zPrueba_de_OpenClosePrinciple_2/Subtraction.java
- zPrueba_de_OpenClosePrinciple_2.Subtraction
-ww_package_of_examples/Testeando.java
- ww_package_of_examples.Testeando
-wotd_scraping/JsoupRun_inglesCom.java
- wotd_scraping.JsoupRun_inglesCom
-wotd_scraping/JsoupRun_spanishDict.java
- wotd_scraping.JsoupRun_spanishDict
-google_sheets/Library.java
- google_sheets.Library
-discord_bot/Main0.java
- discord_bot.Main0
-discord_bot/sender.java
- discord_bot.sender
+forvo_API/WrittingToXML.java
+ forvo_API.WrittingToXML
 forvo_API/Enum_examples.java
  forvo_API.Enum_examples
  forvo_API.Enum_examples$transport
-vocaroo_scraping/DownloadingAudioFromVocaroo_3.java
- vocaroo_scraping.DownloadingAudioFromVocaroo_3
+forvo_API/Item_FromXML_ToXML.java
+ forvo_API.Item_FromXML_ToXML
+forvo_API/GettingLocalTime.java
+ forvo_API.GettingLocalTime
+ forvo_API.GettingLocalTime$1
 forvo_API/Properties_examples.java
  forvo_API.Properties_examples
-discord_bot/obtainer.java
- discord_bot.obtainer
-zPrueba_de_OpenClosePrinciple_2/The_Interface_or_Class.java
- zPrueba_de_OpenClosePrinciple_2.The_Interface_or_Class
-discord_bot/SubmainTextFetching.java
- discord_bot.SubmainTextFetching
-discord_bot/SubmainWOTD.java
- discord_bot.SubmainWOTD
-forvo_API/WrittingToXML.java
- forvo_API.WrittingToXML
-forvo_defenitive/xml_processes/Searching_insideXMLfile.java
- forvo_defenitive.xml_processes.Searching_insideXMLfile
-zPrueba_de_OpenClosePrinciple_2/TheResult.java
- zPrueba_de_OpenClosePrinciple_2.TheResult
-forvo_defenitive/MainForvo.java
- forvo_defenitive.MainForvo
-wotd_scraping/Item.java
- wotd_scraping.Item
-forvo_scraping/main.java
- forvo_scraping.main
-google_sheets/writeOnSheets.java
- google_sheets.writeOnSheets
-ww_package_of_examples/Treatment_of_dates.java
- ww_package_of_examples.Treatment_of_dates
-zPrueba_de_OpenClosePrinciple_2/Addition.java
- zPrueba_de_OpenClosePrinciple_2.Addition
-zPrueba_de_OpenClosePrinciple_1/TheResult.java
- zPrueba_de_OpenClosePrinciple_1.TheResult
-zPrueba_de_OpenClosePrinciple_1/MainPrueba.java
- zPrueba_de_OpenClosePrinciple_1.MainPrueba
-forvo_defenitive/AutomatedMsjs.java
- forvo_defenitive.AutomatedMsjs
-forvo_defenitive/me.java
- forvo_defenitive.me
-forvo_defenitive/CreatingTheURL_withinUserSpecs.java
- forvo_defenitive.CreatingTheURL_withinUserSpecs
-forvo_defenitive/UserRequestVariables.java
- forvo_defenitive.UserRequestVariables
- forvo_defenitive.UserRequestVariables$EnglishForvoCountries
- forvo_defenitive.UserRequestVariables$LanguagesAllowed
- forvo_defenitive.UserRequestVariables$SpanishForvoCountries
- forvo_defenitive.UserRequestVariables$VoiceSex
-forvo_defenitive/xml_processes/SortingOut_insideXMLfile.java
- forvo_defenitive.xml_processes.SortingOut_insideXMLfile
+testing/mai.java
+ testing.mai
+testing/Singleton.java
+ testing.Singleton

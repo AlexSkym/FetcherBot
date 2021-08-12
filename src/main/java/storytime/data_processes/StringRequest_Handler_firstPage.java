@@ -5,7 +5,6 @@ import storytime.data_processes.fixedVariables.AutomatedMessages;
 import storytime.data_processes.fixedVariables.VerifyingMsg;
 import storytime.data_processes.onTxtFile.ReadingTxtFile_AsListOfParagraphs;
 import storytime.data_processes.onTxtFile.WritingTxtFile;
-import storytime.data_processes.paragraphs.GettingParagraphs;
 
 import java.io.IOException;
 import java.util.List;
@@ -50,10 +49,10 @@ public class StringRequest_Handler_firstPage {
         if (nextStep) savingFile(msg);
 
         //step 3 - readingFile
-        if (nextStep) list_paragraphs = readingFile_and_gettingList();
+        //if (nextStep) readingFile_and_gettingList();
 
         //step 4 - reading the very first paragraph and adding one (++) to the static Iterator of paragraphs
-        if (nextStep) readingFirstParagraph(list_paragraphs);
+        if (nextStep) readingFirstParagraph();
 
         //step 5 -
         //use public methods
@@ -125,11 +124,11 @@ public class StringRequest_Handler_firstPage {
      *  Note: This will read also the text file.
      *
      */
-    private void readingFirstParagraph(List<String> list) {
+    private void readingFirstParagraph() {
         String temporalString = null;
 
         try { //working
-            temporalString = gettingParagraphs.getVeryFirstParagraph(list);
+            temporalString = gettingParagraphs.getVeryFirstParagraph();
             finalCustomMessage = temporalString;
             nextStep = true;
             System.out.println("working 4");
@@ -180,12 +179,10 @@ public class StringRequest_Handler_firstPage {
         return finalCustomMessage;
     }
 
-    public boolean isAllRight() {
+    public boolean isAllRight(){
         System.out.println("all is right");
         return nextStep;
     }
 
-    public List<String> getList_paragraphs() {
-        return list_paragraphs;
-    }
+
 }

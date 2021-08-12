@@ -1,9 +1,11 @@
-storytime/Main.java
- storytime.Main
+forvo_API/data_processes/ItemLists_processes/Lists_Handler_flexible.java
+ forvo_API.data_processes.ItemLists_processes.Lists_Handler_flexible
+ forvo_API.data_processes.ItemLists_processes.Lists_Handler_flexible$GettingASortedList_withUserNeeds
 discord_bot/GettingJDA.java
  discord_bot.GettingJDA
-discord_bot/Submain_EventManager.java
- discord_bot.Submain_EventManager
+forvo_API/data_processes/ItemLists_processes/Searching_inside_ItemsList.java
+ forvo_API.data_processes.ItemLists_processes.Searching_inside_ItemsList
+ forvo_API.data_processes.ItemLists_processes.Searching_inside_ItemsList$GettingAFilteredList_withUserSpecs
 zUtil/noSpanishAccents.java
  zUtil.noSpanishAccents
 storytime/data_processes/onTxtFile/WritingTxtFile.java
@@ -12,9 +14,8 @@ forvo_API/data_processes/fixedVariables/AutomatedMessages.java
  forvo_API.data_processes.fixedVariables.AutomatedMessages
 vocaroo_scraping/DownloadingAudioFromVocaroo_3.java
  vocaroo_scraping.DownloadingAudioFromVocaroo_3
-storytime/data_processes/fixedVariables/FixedVariables.java
- storytime.data_processes.fixedVariables.FixedVariables
- storytime.data_processes.fixedVariables.FixedVariables$AliasesAllowed
+forvo_API/UserPetition_Handler_simpleMode.java
+ forvo_API.UserPetition_Handler_simpleMode
 forvo_API/data_processes/fixedVariables/MapperEnumFixedVar.java
  forvo_API.data_processes.fixedVariables.MapperEnumFixedVar
 forvo_API/data_processes/DownloadingForvoAudioMP3.java
@@ -31,24 +32,25 @@ discord_bot/submains/SubmainWOTD.java
  discord_bot.submains.SubmainWOTD
 forvo_API/data_processes/fixedVariables/AcceptableValues_ofAUserString.java
  forvo_API.data_processes.fixedVariables.AcceptableValues_ofAUserString
+storytime/data_processes/ManagementOfMessages.java
+ storytime.data_processes.ManagementOfMessages
 wotd_scraping/ScrapingSites.java
  wotd_scraping.ScrapingSites
-storytime/data_processes/StringRequest_Handler_firstPage.java
- storytime.data_processes.StringRequest_Handler_firstPage
 discord_bot/submains/SubmainTextFetching.java
  discord_bot.submains.SubmainTextFetching
-storytime/data_processes/paragraphs/GettingParagraphs.java
- storytime.data_processes.paragraphs.GettingParagraphs
+wotd_scraping/GettingWordOfTheDay.java
+ wotd_scraping.GettingWordOfTheDay
 zUtil/AddingNewStringUnicode.java
  zUtil.AddingNewStringUnicode
 discord_bot/submains/SubmainVocaroo.java
  discord_bot.submains.SubmainVocaroo
-discord_bot/Main0.java
- discord_bot.Main0
+forvo_API/data_processes/ItemLists_processes/Lists_Handler_strict.java
+ forvo_API.data_processes.ItemLists_processes.Lists_Handler_strict
+ forvo_API.data_processes.ItemLists_processes.Lists_Handler_strict$GettingASortedList_withUserNeeds
 storytime/data_processes/fixedVariables/VerifyingMsg.java
  storytime.data_processes.fixedVariables.VerifyingMsg
-wotd_scraping/GettingWordOfTheDay.java
- wotd_scraping.GettingWordOfTheDay
+discord_bot/submains/SubmainForvo.java
+ discord_bot.submains.SubmainForvo
 storytime/data_processes/onTxtFile/ReadingTxtFile_AsListOfParagraphs.java
  storytime.data_processes.onTxtFile.ReadingTxtFile_AsListOfParagraphs
 wotd_scraping/Item.java
@@ -70,28 +72,26 @@ discord_bot/Aliases.java
  discord_bot.Aliases
 storytime/data_processes/fixedVariables/AutomatedMessages.java
  storytime.data_processes.fixedVariables.AutomatedMessages
-discord_bot/submains/SubmainStorytime.java
- discord_bot.submains.SubmainStorytime
+discord_bot/Main_EventManager.java
+ discord_bot.Main_EventManager
+discord_bot/Main0.java
+ discord_bot.Main0
 google_sheets/Library.java
  google_sheets.Library
 forvo_API/data_processes/ItemLists_processes/ItemListCreator.java
  forvo_API.data_processes.ItemLists_processes.ItemListCreator
  forvo_API.data_processes.ItemLists_processes.ItemListCreator$1
-forvo_API/data_processes/xml_processes/WriterForXML.java
- forvo_API.data_processes.xml_processes.WriterForXML
-forvo_API/data_processes/ItemLists_processes/Lists_Handler_flexible.java
- forvo_API.data_processes.ItemLists_processes.Lists_Handler_flexible
- forvo_API.data_processes.ItemLists_processes.Lists_Handler_flexible$GettingASortedList_withUserNeeds
-forvo_API/data_processes/ItemLists_processes/Searching_inside_ItemsList.java
- forvo_API.data_processes.ItemLists_processes.Searching_inside_ItemsList
- forvo_API.data_processes.ItemLists_processes.Searching_inside_ItemsList$GettingAFilteredList_withUserSpecs
-forvo_API/data_processes/ItemLists_processes/Lists_Handler_strict.java
- forvo_API.data_processes.ItemLists_processes.Lists_Handler_strict
- forvo_API.data_processes.ItemLists_processes.Lists_Handler_strict$GettingASortedList_withUserNeeds
 forvo_API/data_processes/xml_processes/ReaderForXML.java
  forvo_API.data_processes.xml_processes.ReaderForXML
  forvo_API.data_processes.xml_processes.ReaderForXML$1
-discord_bot/submains/SubmainForvo.java
- discord_bot.submains.SubmainForvo
-forvo_API/UserPetition_Handler_simpleMode.java
- forvo_API.UserPetition_Handler_simpleMode
+storytime/data_processes/fixedVariables/FixedVariables.java
+ storytime.data_processes.fixedVariables.FixedVariables
+ storytime.data_processes.fixedVariables.FixedVariables$AliasesAllowed
+forvo_API/data_processes/xml_processes/WriterForXML.java
+ forvo_API.data_processes.xml_processes.WriterForXML
+storytime/data_processes/GettingParagraphs.java
+ storytime.data_processes.GettingParagraphs
+discord_bot/submains/SubmainStorytime.java
+ discord_bot.submains.SubmainStorytime
+storytime/data_processes/StringRequest_Handler_firstPage.java
+ storytime.data_processes.StringRequest_Handler_firstPage
