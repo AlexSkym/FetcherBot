@@ -1,9 +1,6 @@
 package discord_bot;
 
-import discord_bot.submains.SubmainForvo;
-import discord_bot.submains.SubmainStorytime;
-import discord_bot.submains.SubmainTextFetching;
-import discord_bot.submains.SubmainVocaroo;
+import discord_bot.submains.*;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.events.ReadyEvent;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
@@ -16,7 +13,7 @@ public class Main_EventManager extends ListenerAdapter{
     static JDA jda;
 
     //Instances
-    //SubmainWOTD WOTD = new SubmainWOTD();     //defined directly in Main0.class
+//    SubmainWOTD WOTD = new SubmainWOTD();     //defined directly in Main0.class
     SubmainTextFetching textFetching;
     SubmainForvo forvo;
     SubmainVocaroo vocaroo;
@@ -37,6 +34,8 @@ public class Main_EventManager extends ListenerAdapter{
         System.out.println("API is ready! (SubmainWOTD)");
         System.out.println("API is ready! (SubmainStorytime)");
 
+
+//        new SubmainWOTD();    //it is not necessary
         jda = GettingJDA.getInstance().getJDA();
         textFetching = new SubmainTextFetching(prefix,jda);
         forvo = new SubmainForvo();
@@ -44,6 +43,14 @@ public class Main_EventManager extends ListenerAdapter{
         storytime = new SubmainStorytime(jda);
 
     }
+
+
+
+    /*--------------
+      Event methods
+     --------------*/
+
+
 
     /**
      * Determining what kind of events (messages) every functionality of the bot will receive.

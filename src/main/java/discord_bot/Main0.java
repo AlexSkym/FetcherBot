@@ -24,8 +24,8 @@ public class Main0 {
 
         //Actual token: ODE3ODIxMTUwODU1ODIzNDEy.YEPFTA.8ro0KnoOTUQ7y3IJqNfNl2Oank0     //to invite it: https://discord.com/api/oauth2/authorize?client_id=817821150855823412&permissions=2148005952&scope=bot
         jda = JDABuilder
-                //.createDefault("ODE3ODIxMTUwODU1ODIzNDEy.YEPFTA.8ro0KnoOTUQ7y3IJqNfNl2Oank0") //fetcherBot
-                .createDefault("ODU0NzUzODUyNTg1NDEwNTgw.YMohjw.zcsyfgroGI8gY1cSqST5iidsRus") //pruebaBot
+                .createDefault("ODE3ODIxMTUwODU1ODIzNDEy.YEPFTA.8ro0KnoOTUQ7y3IJqNfNl2Oank0") //fetcherBot
+//                .createDefault("ODU0NzUzODUyNTg1NDEwNTgw.YMohjw.zcsyfgroGI8gY1cSqST5iidsRus") //pruebaBot
                 .addEventListeners(new Main_EventManager())
                 .setActivity(Activity.playing("Type " + prefix + " help"))
                 .build();
@@ -37,7 +37,6 @@ public class Main0 {
         GettingJDA gettingJDA = GettingJDA.getInstance();
         gettingJDA.setJDA(jda);
 
-        new SubmainWOTD();
 
         try {
             jda.awaitReady();
@@ -48,6 +47,8 @@ public class Main0 {
 
         System.out.println("Finished Building JDA!");
 
+        //it's necessary to have this instance below of "jda"
+        new SubmainWOTD();
 
     }
 

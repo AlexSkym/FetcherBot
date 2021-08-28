@@ -28,8 +28,8 @@ google_sheets/SheetsQuickstart.java
  google_sheets.SheetsQuickstart
 storytime/UserPetition_Handler.java
  storytime.UserPetition_Handler
-discord_bot/submains/SubmainWOTD.java
- discord_bot.submains.SubmainWOTD
+discord_bot/submains/SubmainStorytime.java
+ discord_bot.submains.SubmainStorytime
 forvo_API/data_processes/fixedVariables/AcceptableValues_ofAUserString.java
  forvo_API.data_processes.fixedVariables.AcceptableValues_ofAUserString
 storytime/data_processes/ManagementOfMessages.java
@@ -72,10 +72,10 @@ discord_bot/Aliases.java
  discord_bot.Aliases
 storytime/data_processes/fixedVariables/AutomatedMessages.java
  storytime.data_processes.fixedVariables.AutomatedMessages
-discord_bot/Main_EventManager.java
- discord_bot.Main_EventManager
-discord_bot/Main0.java
- discord_bot.Main0
+storytime/data_processes/GettingParagraphs.java
+ storytime.data_processes.GettingParagraphs
+storytime/data_processes/StringRequest_Handler_firstPage.java
+ storytime.data_processes.StringRequest_Handler_firstPage
 google_sheets/Library.java
  google_sheets.Library
 forvo_API/data_processes/ItemLists_processes/ItemListCreator.java
@@ -89,9 +89,9 @@ storytime/data_processes/fixedVariables/FixedVariables.java
  storytime.data_processes.fixedVariables.FixedVariables$AliasesAllowed
 forvo_API/data_processes/xml_processes/WriterForXML.java
  forvo_API.data_processes.xml_processes.WriterForXML
-storytime/data_processes/GettingParagraphs.java
- storytime.data_processes.GettingParagraphs
-discord_bot/submains/SubmainStorytime.java
- discord_bot.submains.SubmainStorytime
-storytime/data_processes/StringRequest_Handler_firstPage.java
- storytime.data_processes.StringRequest_Handler_firstPage
+discord_bot/Main0.java
+ discord_bot.Main0
+discord_bot/submains/SubmainWOTD.java
+ discord_bot.submains.SubmainWOTD
+discord_bot/Main_EventManager.java
+ discord_bot.Main_EventManager
