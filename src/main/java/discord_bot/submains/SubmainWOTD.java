@@ -73,9 +73,11 @@ public class SubmainWOTD extends Thread{
                     System.out.println("El momento a llegado");
                     try {
                         //from spanishdict.com
+                        channel_1.sendMessage(role.getAsMention()).queue();
                         channel_1.sendMessage(gettingWordOfTheDay.GettingWordOfTheDay(
                                 embedBuilder, role, theURL_1, 1).build()).queue();
                         //from ingles.com
+                        channel_2.sendMessage(role.getAsMention()).queue();
                         channel_2.sendMessage(gettingWordOfTheDay.GettingWordOfTheDay(
                                 embedBuilder, role, theURL_2, 2).build()).queue();
                     } catch (IOException e) {

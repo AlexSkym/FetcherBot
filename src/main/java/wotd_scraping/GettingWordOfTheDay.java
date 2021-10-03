@@ -31,11 +31,11 @@ public class GettingWordOfTheDay {
 
         //spanishDict.com
         if (whatWebSite == 1) {
-            return embedMessageSpa1(embedBuilder, item, role, theURL);
+            return embedMessageSpa1(embedBuilder, item, role, theURL); //calling the method, returning an embed
         }
         //ingles.com
         else {
-            return embedMessageEng2(embedBuilder, item, role, theURL);
+            return embedMessageEng2(embedBuilder, item, role, theURL); //calling the method, returning an embed
         }
 
     }
