@@ -15,17 +15,21 @@ public class SubmainWOTD extends Thread{
 
 
     private JDA jda;
-//    private final long channelId_1 = 875576052532015115L, channelId_2 = 875576052532015115L; //testing... ("server" ("wotd" channel))
+//    private final long channelId_1 = 875576052532015115L, channelId_2 = 933225706924691507L; //testing... ("server" ("wotd" channel))
+//    private final long WOTD_RoleId = 823692348361932842L; //testing... (news role)
+
     private final long channelId_1 = 848415285768749076L; //796511380701708318 ID spamWOTD //848415285768749076 ID realWOTD
     private final long channelId_2 = 860236709916835900L; //796511380701708318 ID spamWOTD //860236709916835900 ID realWOTD
     private final long WOTD_RoleId = 826545054105075762L; //826545054105075762
     String theURL_1 = "https://www.spanishdict.com/wordoftheday";
     String theURL_2 = "https://www.ingles.com/palabradeldia";
 
-
     ZoneId zoneId = ZoneId.of("America/New_York");
-    int theHour = 12, theMinute = 0;
-    int sleepingTime = 1000 * 60 * 60 * 2;  //1000 milliseconds = 1 second . Here it is sleeping 2 hours.
+    int theHour = 10, theMinute = 0;
+//    int theHour = 0, theMinute = 29; //testing...
+    int sleepingTime = 1000 * 60 * 60 * 4;  //1000 milliseconds = 1 second . Here it is sleeping 4 hours.
+
+
 
     EmbedBuilder embedBuilder;
     GettingWordOfTheDay gettingWordOfTheDay;
@@ -36,7 +40,8 @@ public class SubmainWOTD extends Thread{
 
         if (jda == null) System.out.println("WOTD, jda==null");
         else System.out.println("WOTD, jda==!null");
-
+        System.out.println("\nactualHourTime: " + LocalTime.now(zoneId).getHour());
+        System.out.println("actualMintime: " + LocalTime.now(zoneId).getMinute());
 
         doThing_spanishDict();
     }
@@ -80,15 +85,14 @@ public class SubmainWOTD extends Thread{
                         channel_2.sendMessage(role.getAsMention()).queue();
                         channel_2.sendMessage(gettingWordOfTheDay.GettingWordOfTheDay(
                                 embedBuilder, role, theURL_2, 2).build()).queue();
+
+                        //making the message above not working. Sleeping for some minutes
+                        try {
+                            Thread.sleep(sleepingTime);
+                        } catch (InterruptedException e) {
+                            e.printStackTrace();
+                        }
                     } catch (IOException e) {
-                        e.printStackTrace();
-                    }
-
-                    //making the message above not working. Sleeping for one minute
-
-                    try {
-                        Thread.sleep(sleepingTime);
-                    } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
                 }

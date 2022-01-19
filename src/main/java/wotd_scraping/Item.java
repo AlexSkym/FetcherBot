@@ -18,8 +18,8 @@ public class Item {
     private String spanishExample_1;
     private String englishExample_1;
 
-    private String spanishExample_2;
-    private String englishExample_2;
+    //private String spanishExample_2;
+    //private String englishExample_2;
 
     //Constructor
     Item(){}
@@ -37,8 +37,8 @@ public class Item {
                 ", Example='" + titleExample + '\'' +
                 ", spanishExample_1='" + spanishExample_1 + '\'' +
                 ", englishExample_1='" + englishExample_1 + '\'' +
-                ", spanishExample_2='" + spanishExample_2 + '\'' +
-                ", englishExample_2='" + englishExample_2 + '\'' +
+                //", spanishExample_2='" + spanishExample_2 + '\'' +
+                //", englishExample_2='" + englishExample_2 + '\'' +
                 '}';
     }
 
@@ -110,20 +110,20 @@ public class Item {
         this.englishExample_1 = englishExample_1;
     }
 
-    public String getSpanishExample_2() {
-        return spanishExample_2;
-    }
+//    public String getSpanishExample_2() {
+//        return spanishExample_2;
+//    }
 
-    public void setSpanishExample_2(String spanishExample_2) {
-        this.spanishExample_2 = spanishExample_2;
-    }
+//    public void setSpanishExample_2(String spanishExample_2) {
+//        this.spanishExample_2 = spanishExample_2;
+//    }
 
-    public String getEnglishExample_2() {
-        return englishExample_2;
-    }
+//    public String getEnglishExample_2() {
+//        return englishExample_2;
+//    }
 
-    public void setEnglishExample_2(String englishExample_2) {
-        this.englishExample_2 = englishExample_2;
-    }
+//    public void setEnglishExample_2(String englishExample_2) {
+//        this.englishExample_2 = englishExample_2;
+//    }
 
 }

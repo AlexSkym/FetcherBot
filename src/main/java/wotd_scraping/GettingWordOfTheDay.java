@@ -103,8 +103,8 @@ public class GettingWordOfTheDay {
         item.setSpanishExample_1(scrapingSites.ex1_Word_SP);
         item.setEnglishExample_1(scrapingSites.ex1_Word_EN);
         //the examples 2 (spanish and english)
-        item.setSpanishExample_2(scrapingSites.ex2_Word_SP);
-        item.setEnglishExample_2(scrapingSites.ex2_Word_EN);
+//        item.setSpanishExample_2(scrapingSites.ex2_Word_SP);
+//        item.setEnglishExample_2(scrapingSites.ex2_Word_EN);
 
     }
 
@@ -137,9 +137,9 @@ public class GettingWordOfTheDay {
                 "<:yellowdash:846640358116032572> " + item.getEnglishExample_1() + "\n" +
                 "" + "\n" +
                 //"**" + "Example" + " 2**: " + "\n" +
-                "<:purpledash:846641287129858048> **" + item.getSpanishExample_2() + "**\n" +
-                "<:yellowdash:846640358116032572> " + item.getEnglishExample_2() + "\n" +
-                "." + "\n" +
+//                "<:purpledash:846641287129858048> **" + item.getSpanishExample_2() + "**\n" +
+//                "<:yellowdash:846640358116032572> " + item.getEnglishExample_2() + "\n" +
+//                "." + "\n" +
                 "");
 
         embedBuilder.setFooter("Practice until you have it.","https://i.pinimg.com/originals/43/d3/a3/43d3a3a86a32e7058384324132685dca.gif");
@@ -177,9 +177,9 @@ public class GettingWordOfTheDay {
                 "<:purpledash:846641287129858048> " + item.getSpanishExample_1() + "\n" +
                 "" + "\n" +
                 //"**" + "Example" + " 2**: " + "\n" +
-                "<:yellowdash:846640358116032572> **" + item.getEnglishExample_2() + "**\n" +
-                "<:purpledash:846641287129858048> " + item.getSpanishExample_2() + "\n" +
-                "." + "\n" +
+//                "<:yellowdash:846640358116032572> **" + item.getEnglishExample_2() + "**\n" +
+//                "<:purpledash:846641287129858048> " + item.getSpanishExample_2() + "\n" +
+//                "." + "\n" +
                 "");
 
         embedBuilder.setFooter("Practice until you have it.","https://i.pinimg.com/originals/43/d3/a3/43d3a3a86a32e7058384324132685dca.gif");

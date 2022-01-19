@@ -10,8 +10,8 @@ public class ScrapingSites {
     static String word_EN = "";
     static String ex1_Word_SP = "";
     static String ex1_Word_EN = "";
-    static String ex2_Word_SP = "";
-    static String ex2_Word_EN = "";
+    //static String ex2_Word_SP = "";
+    //static String ex2_Word_EN = "";
 
     ScrapingSites(Element theElementINeed){
 
@@ -38,8 +38,8 @@ public class ScrapingSites {
         ex1_Word_SP = receivingSpaEx1(theElementINeed_examples).text();
         ex1_Word_EN = receivingEngEx1(theElementINeed_examples).text();
 
-        ex2_Word_SP = receivingSpaEx2(theElementINeed_examples).text();
-        ex2_Word_EN = receivingEngEx2(theElementINeed_examples).text();
+    //    ex2_Word_SP = receivingSpaEx2(theElementINeed_examples).text();
+    //    ex2_Word_EN = receivingEngEx2(theElementINeed_examples).text();
 
     }
 
@@ -173,23 +173,23 @@ public class ScrapingSites {
         return englishExample1;
     }
 
-    private static Element receivingSpaEx2(Element element_examples){
+//    private static Element receivingEngEx2(Element element_examples){
+//
+//        Element englishExample2 = null;
+//        englishExample2 = element_examples.select("li div").get(3);
+//        System.out.println("englishExample2: " + englishExample2.text());
+//
+//        return englishExample2;
+//    }
 
-        Element spanishExample2 = null;
-        spanishExample2 = element_examples.select("li div").get(2);
-        System.out.println("spanishExample2: " + spanishExample2.text());
-
-        return spanishExample2;
-    }
-
-    private static Element receivingEngEx2(Element element_examples){
-
-        Element englishExample2 = null;
-        englishExample2 = element_examples.select("li div").get(3);
-        System.out.println("englishExample2: " + englishExample2.text());
-
-        return englishExample2;
-    }
+//    private static Element receivingSpaEx2(Element element_examples){
+//
+//        Element spanishExample2 = null;
+//        spanishExample2 = element_examples.select("li div").get(2);
+//        System.out.println("spanishExample2: " + spanishExample2.text());
+//
+//        return spanishExample2;
+//    }
 
 
 
