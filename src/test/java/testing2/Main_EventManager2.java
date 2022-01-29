@@ -2,10 +2,7 @@ package testing2;
 
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.JDA;
-import net.dv8tion.jda.api.entities.MessageChannel;
-import net.dv8tion.jda.api.entities.MessageEmbed;
-import net.dv8tion.jda.api.entities.Role;
-import net.dv8tion.jda.api.entities.User;
+import net.dv8tion.jda.api.entities.*;
 import net.dv8tion.jda.api.events.ReadyEvent;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import net.dv8tion.jda.api.events.message.react.MessageReactionAddEvent;
@@ -73,7 +70,7 @@ public class Main_EventManager2 extends ListenerAdapter{
 
             event.getTextChannel().sendMessage("hola " + user.getAsMention() + " . " + roleNews.getAsMention()).queue();
 
-            messageChannel.sendMessage(new EmbedBuilder().setDescription("Hola " + user.getAsMention() + " . " + roleNews.getAsMention()).build()).queue();
+            messageChannel.sendMessage((Message) new EmbedBuilder().setDescription("Hola " + user.getAsMention() + " . " + roleNews.getAsMention()).build()).queue();
 
 
 

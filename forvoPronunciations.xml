@@ -1,702 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items total="36">
+<items total="83">
   <item>
     <id>
-16113</id>
+1314393</id>
     <word>
-hi</word>
+hola</word>
     <original>
-Hi</original>
+hola</original>
     <addtime>
-2008-05-12 18:54:38</addtime>
+2011-11-01 12:12:40</addtime>
     <hits>
-10844</hits>
+2595</hits>
     <username>
-jpgine</username>
+joelnakuro</username>
     <sex>
 m</sex>
     <country>
-Andorra</country>
+Spain</country>
     <code>
 ca</code>
     <langname>
 Catalan</langname>
     <pathmp3>
-https://apifree.forvo.com/audio/2n3p1i392q3n311o342a381k33343n2c2h2l2j2q2m3k2i3e2n2l3q1n3j1m38282j1g2m3h1p2l2m3e222h3l38381p1o3e3a3f1g1f241i1k2p1p2q2j3o3n2d3f3l2p2q1l1i243i2b1f3c3q2e1m3b3g24363j3m1h2n2k371t1t_1n33342l2a3b2k3q3e3q2f21311b1b1g3k391l2m393n1t1t</pathmp3>
+https://apifree.forvo.com/audio/1k263p2i2o3q3q281f1b362e322f2d1p2m2626333j291k2g1m1i233b2k343h282g1h2i231h2c2q3j1l1g3q1g222m3o2b3b1k352a351o3m1g2g311f2c2c2i2g212932263l2h3h253a3b3m392l2g3j2o211b3l291p3k2h1t1t_232m1l2c3h282a2i3l2p32283332343c1j363c3h3a211t1t</pathmp3>
     <pathogg>
-https://apifree.forvo.com/audio/3p3j3j3732322a3i3d3f1l2c1n2m3n3e1m2a3n2b342l2o223h2j2e3p1k3e223g2e3o291i1j3l3m2e283i1j3e1n242j1b1g3q293731241b1o3c3f37211f3b363b2d2g1m1g2d3b2m2n2i362q343f1m1i281f3j2q2h312h1t1t_392i3g3f1f2g32372l3f312e1f3e1b2b242n262m3n211t1t</pathogg>
-    <rate>
-0</rate>
-    <num_votes>
-0</num_votes>
-    <num_positive_votes>
-0</num_positive_votes>
-  </item>
-  <item>
-    <id>
-4717934</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2016-12-19 23:05:18</addtime>
-    <hits>
-1042</hits>
-    <username>
-IsaacAGC</username>
-    <sex>
-m</sex>
-    <country>
-United Kingdom</country>
-    <code>
-cy</code>
-    <langname>
-Welsh</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/332q322q1l3h1i2n2m291p2d1o3a212c3j2d1n2q22252o2f1p23263n1n2e1g372f263g2e2o3o3b1l2437393n2h3i1k271k2m3k3l2i2l1j3g372i1j2d24333a29_1f3d2a1m2g3e2f3o1m251h3k1o1m3n1l331g222a3m2h1t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/2l2j1g292k2k2m2i382b1g1o382e341j293p241o1n241m3d3a2o3e1b3n37253b1h1m2b3h32262a2o36282l373o23363g341o2i292e1b1b1n1i252k2l313n3a2e_1o2f2k342d3c3m233p2m1n2c1m213k252n373q243q3n1t1t</pathogg>
-    <rate>
-0</rate>
-    <num_votes>
-0</num_votes>
-    <num_positive_votes>
-0</num_positive_votes>
-  </item>
-  <item>
-    <id>
-5613977</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2018-04-08 14:15:56</addtime>
-    <hits>
-238</hits>
-    <username>
-CMunk</username>
-    <sex>
-m</sex>
-    <country>
-Denmark</country>
-    <code>
-da</code>
-    <langname>
-Danish</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/392l312g3c2f2k253d1m3i2a3n2b1i1p383i2i3a3f3d342637312p1n33363d34373q3q2a1i22273e211p1i2g2a3e2k3c3j2m2q2n3j2l1p2e3a3c3a2p2f1i1l3i_3p1k241i1b1k232l372l29383q3c3e2j2p2n2h3d2a3n1t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/1k3q1j3i3g2f313l341b2j3a1m2n2a392l3p3g1m2g362c381o232j2o3d282522283n282d373l2f1h3o262k3c213p352n3235292k33323o2a3m3i242o3f1b382q_3c3m1k1l32371l2k3a1p3i1j3q22232q212j352e3l3n1t1t</pathogg>
-    <rate>
-0</rate>
-    <num_votes>
-0</num_votes>
-    <num_positive_votes>
-0</num_positive_votes>
-  </item>
-  <item>
-    <id>
-96568</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2009-01-08 22:16:25</addtime>
-    <hits>
-3270</hits>
-    <username>
-Vortarulo</username>
-    <sex>
-m</sex>
-    <country>
-Germany</country>
-    <code>
-de</code>
-    <langname>
-German</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/3h3c2e3i3n351m1o2q2b1o1k3a2q25322j35291i352k253a3g3q36223p383d3d3c362n293a1o2i1i3a3b2i1n2k2c3q3i2m2f3h243g3j34292d3j1p3h3f1b332d2a3c2d3i2i1n2j1f362f2g2n3f31262e3l2c2q2d2n2h1t1t_3e2i29231k2l2n221m2l3b212m2d351o2d1f343a2o3n1t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/333m1i3f1g2g3j282m3i2q2p2h1k1m2m353n3j1o241j3b383g1m2n3b312d1o3d3h1p393i223a391j273m313h1l1k2d1h2d3h3j3a2n3j1n341o272l1j34333n261m3f2n3e3b1k293m3l1l2l28333d231p1f1l2q3m363n1t1t_243n2d1g3i1i3j1g343m3n3d293d3o2c2b3g1k1m3a3n1t1t</pathogg>
-    <rate>
-2</rate>
-    <num_votes>
-2</num_votes>
-    <num_positive_votes>
-2</num_positive_votes>
-  </item>
-  <item>
-    <id>
-2108891</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2013-04-29 12:17:13</addtime>
-    <hits>
-1893</hits>
-    <username>
-Thonatas</username>
-    <sex>
-m</sex>
-    <country>
-Germany</country>
-    <code>
-de</code>
-    <langname>
-German</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/3a1h353j252a272i1f322b3m24391k1p3g372c2j231j3k1o2d21391p37293k2o2i2c2f343k3d3d2l2d1j3m2q1h3726271k3e2f2f3j2j372k2e1f2n243b2m1j3e_31372a3d1i2n2i2k1h3f252e2m2q36242m2l2c1m3c3n1t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/1n393h1m391n33332439332n281g2a1p27233q372d2c1k2i371p263a3j3422253m3e2k3o262p35343f1f3g2j1i2n1n3q282l3q2o3f3a2l2i1f2g352g3h2m1o1n_262f1h1m362e1h1j2j231k2d251n332g1m1l2j383f211t1t</pathogg>
-    <rate>
-0</rate>
-    <num_votes>
-0</num_votes>
-    <num_positive_votes>
-0</num_positive_votes>
-  </item>
-  <item>
-    <id>
-5129022</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2017-08-03 23:07:30</addtime>
-    <hits>
-468</hits>
-    <username>
-Desideria</username>
-    <sex>
-f</sex>
-    <country>
-Germany</country>
-    <code>
-de</code>
-    <langname>
-German</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/3d2p2k2d3e3e372b222a293l322c3h3m3o243h292q2j2d342e331n2n3e271l1f2p2m2o2k24323h2929242g3j2a243j1o343o1n321o2e2h3e3k1p232q2k31252k_3g341i3p22282b3m3e2a382c2j3324292f1i3f3o34371t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/3k3p361i272i2h29392f1l3q2i1l233f3q24332c3l2o1b352d3c3d3c2a1k1i253n3q26261i2p3m3e3o242q2d213a2k283q1f2m371i2e3i3j2e2a2n382p233c2e_1i1j1o3d2q273f1k1m2f1h2q332b2l3i2q2a263p2m2h1t1t</pathogg>
-    <rate>
-0</rate>
-    <num_votes>
-0</num_votes>
-    <num_positive_votes>
-0</num_positive_votes>
-  </item>
-  <item>
-    <id>
-5555127</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2018-03-08 12:34:49</addtime>
-    <hits>
-280</hits>
-    <username>
-Makkusu</username>
-    <sex>
-m</sex>
-    <country>
-Germany</country>
-    <code>
-de</code>
-    <langname>
-German</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/2k2f1j1b1l213j1j2f3f1b3b2232283q2m3o3i3c1h2l353p211p3n1i331b2f352p2l1h1f3o3b2a3f323f322m31263n1o212b3h1n252q1k2o1m28281l1b312d2b_2a1m392l1g212f1i28361h25322n233i292i363g2m3n1t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/362e2d232p372e3l1i392q1k2b1g2b1j352b333h3q312h33281b3g2f2l1h3q221l3g1p2q2m372f1h2g231i21293h2i1m363k2f2g3k3n251i2o3o361k2q2j3e25_2i23391l1m1g3n1l3o35322f3a363q372d1k3j1m23211t1t</pathogg>
-    <rate>
-0</rate>
-    <num_votes>
-0</num_votes>
-    <num_positive_votes>
-0</num_positive_votes>
-  </item>
-  <item>
-    <id>
-38992</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2008-09-12 20:02:11</addtime>
-    <hits>
-62584</hits>
-    <username>
-anakat</username>
-    <sex>
-f</sex>
-    <country>
-United States</country>
-    <code>
-en</code>
-    <langname>
-English</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/1i3f223n2p2d1k2a231k273h3e22322m3e21363h3i3o3i31222p2p1m3l2i2f2p252g2a1b2q2n3g232j243h2a3q223q362g1p3h2j1b243f2b3d3l2h3l2n3n1g1l1g312d283d263k27322p322h342a2b3l1p1p3i2p3f371t1t_1m353c2c1k332b392k2g23363c2e2b372l272m213g211t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/2i1n3b3e2h263q3g1l3a353c2q29253k362b26273g271g1l1k2d2i2f2k3235342g373d1l251j2h271b253d1l1f1l231j2g3c3i2c1g3b3h1p2j3o382o33342k1g222f231n1o26282d22283a231p2b2333223h273d29211t1t_1g2b2g2h2b1h1m3f332o2a322e1m3k1g2q3o1l1i38371t1t</pathogg>
-    <rate>
-13</rate>
-    <num_votes>
-13</num_votes>
-    <num_positive_votes>
-13</num_positive_votes>
-  </item>
-  <item>
-    <id>
-1594424</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2012-05-30 06:02:38</addtime>
-    <hits>
-47783</hits>
-    <username>
-mightymouse</username>
-    <sex>
-m</sex>
-    <country>
-United States</country>
-    <code>
-en</code>
-    <langname>
-English</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/283i262l3f1h31292j3c3b1f2q3g382b2n1p3f1j3b37251p3p3c1n323o351k2q273i2k3p2d2a363c2l371j37262f293c361g1j2o212l232m38351g1g1o31242a392q1j3o26282j2a2e3d253i1k2h212l2b362c2n2h3n1t1t_3p34221o2h3l2n2i1p372k2f2l1n32333j3p252a25371t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/36393e33293p273j3d3q2f2e3c2829261n2e272c3p2n1b23243q2k3j2j3b3b3e2m3p291m1f1g1n1m2d3h38322g2q1k1k1n1p221g1k282l2839223l2c1m3c31271f3k1h3i2p26342i3o33292533262m3d2f271h28262h1t1t_2l34332i2g3n343k32343f2f3o273d3231242c3l1o3n1t1t</pathogg>
-    <rate>
-8</rate>
-    <num_votes>
-8</num_votes>
-    <num_positive_votes>
-8</num_positive_votes>
-  </item>
-  <item>
-    <id>
-2009234</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2013-02-15 19:30:07</addtime>
-    <hits>
-44742</hits>
-    <username>
-chicaleek</username>
-    <sex>
-f</sex>
-    <country>
-Somalia</country>
-    <code>
-en</code>
-    <langname>
-English</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/2f3j2c2e3e3k1m3333222q1g2m1j1n2l3e222n3o2d1p3o272q1f2a27273q32373734362m21233f3p3j3k1n2g382a3o2p2k2k3c1k1n2a2j2b2c352e3b3k2m2d213o2p3i24351n35262i372p3c1o3c2l363b2m2h3c28211t1t_3p1h1h3j1h1l2f322n3c231h3o1h3d3n1b212o1l273n1t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/3q3d263p221i3a3o1j3p2g322127251g2n2b2o2n1b2l3f2h2m3a3p3o2c3o2p2p243j313l392b1f3h3q3k3n233g37362a2d29221k2a2c1p37373p3n3j3q211m2d2p273l331n1n3a3p1b1h382d2m291b1j3l33363o1g2h1t1t_3f3m3d3q381m3a32342n3a2l221f3e1l1b242n2g2o211t1t</pathogg>
-    <rate>
-1</rate>
-    <num_votes>
-1</num_votes>
-    <num_positive_votes>
-1</num_positive_votes>
-  </item>
-  <item>
-    <id>
-3158360</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2014-08-26 03:12:42</addtime>
-    <hits>
-171244</hits>
-    <username>
-JessicaMS</username>
-    <sex>
-f</sex>
-    <country>
-United States</country>
-    <code>
-en</code>
-    <langname>
-English</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/3i1b1j3h27373e1m251l2h221b1m221k3d3e222a313c1k1b2m2g3i3j3o3l3l3g2i3b363d3m313a2d2h2f393b3o24272q3q2d2d323c3k2i1n2o2p3h2c3a271n2h_36272f32281l331b3j3i1b3h263d2m2q2p2a3n213i371t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/3m2h35233k2i3d2p2d2a3j3o2d1n3d2i233o29223d3l3b37343h2l1i3e2g3o382d2c3o3326363a3l2e213o1p1i2k3q2h3a1i2h1k3h382f38292d2b1b3c3l3n22_2f3o1b363a283l3c1h1f2g1o1b3e1i2k2a3e2n2p2c211t1t</pathogg>
-    <rate>
-1</rate>
-    <num_votes>
-1</num_votes>
-    <num_positive_votes>
-1</num_positive_votes>
-  </item>
-  <item>
-    <id>
-3964323</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2015-11-02 19:54:32</addtime>
-    <hits>
-14770</hits>
-    <username>
-RachelAngelo</username>
-    <sex>
-f</sex>
-    <country>
-United Kingdom</country>
-    <code>
-en</code>
-    <langname>
-English</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/283333352j1g1o1b1m3h3n1b3c242o363b1n1f3j1o3p252937243k3i1l361f1p2b1l2q322c3i1o3o3q3p2b362634213e1j2a3m2p1p3b333k1h1f3c391m262e34_3i212c35361k2i1m1k1i2o383g3229391b3g3l1o3f211t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/2g1f3j283p1m262k322i3m1i2e3822223b1j1o3o1p2e3d292c3f2b3q3k34333p3n1j292921242q291l2h3o3n1m312l2n1n223e261l2a2p3938213n2h332h2i23_1o271b282l242i3e3i1m323i23331n1i242e2a1k35211t1t</pathogg>
-    <rate>
-0</rate>
-    <num_votes>
-0</num_votes>
-    <num_positive_votes>
-0</num_positive_votes>
-  </item>
-  <item>
-    <id>
-4190180</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2016-03-10 18:24:26</addtime>
-    <hits>
-14938</hits>
-    <username>
-bex78</username>
-    <sex>
-f</sex>
-    <country>
-United States</country>
-    <code>
-en</code>
-    <langname>
-English</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/3a3n352j3i2k3n1o1o2i3i2o2c3c1p36283h391o3l1o1f2f323h3a1h1o323k3d361o2h2i2b34372c313o2f28292c212c2c2g223h2m1j2o2e3g271g352c353d2p_282b2b3i3f1f2n3g3o282l3b2j2q271b2q1b3j2d2i211t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/2b2a1l26312d2b3n1h351p1o2c3c2e3b311i3m3g2h3q2c3c2p2o32233l2b1n3g2l3j3o2d2723232437271i3h243m1g312g3c28273i1b3a34241g3o232d31383i_2g392n2i1b242d3833352c3j232k2e2628233c1i2a2h1t1t</pathogg>
-    <rate>
-0</rate>
-    <num_votes>
-0</num_votes>
-    <num_positive_votes>
-0</num_positive_votes>
-  </item>
-  <item>
-    <id>
-4341294</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2016-05-25 13:18:03</addtime>
-    <hits>
-15546</hits>
-    <username>
-Mantis</username>
-    <sex>
-m</sex>
-    <country>
-United Kingdom</country>
-    <code>
-en</code>
-    <langname>
-English</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/1n3g1j383b2p2e3c3b313e1b3l2c3b2n2m3423333e321g253b3l233p3a1i333621232e3i2o21333a2138342k231l2c3m3f1k3n2p3k3q2i262k291k2m273g3q3a_1b1j311g1h3c3b2i2b3i2l31372g233a2o2b2p2i3e2h1t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/3n1i1b2h2o333n2o3p371b3g3p3d3o231f333q3j2m1n2l1p3c3e3f1f3c3o3k36332p371f2d1l3k3h3d1i2c341o3l3c1h353b1m31361n2f323d3a1k3b1g22321i_3j2d3n2j251k1n3j372q2j1k2o3p2c2l332i3d372b3n1t1t</pathogg>
-    <rate>
-1</rate>
-    <num_votes>
-1</num_votes>
-    <num_positive_votes>
-1</num_positive_votes>
-  </item>
-  <item>
-    <id>
-4483836</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2016-08-14 12:32:44</addtime>
-    <hits>
-1992</hits>
-    <username>
-yadny</username>
-    <sex>
-m</sex>
-    <country>
-Australia</country>
-    <code>
-en</code>
-    <langname>
-English</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/383d1j3a322m1l2p382b262o1b1l2h1m2l3o391n23333l3k1l2n3m2a1f273l1m261n232q2l1n331l1f393j243j2g1l2e2f2227321g2o353n1i282i2c25282a26_1h291n3j3h2a261h1o1n3b321k3f1p3c3p211l1g2a211t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/3p252i253b213m1b3f292n1p2a1p1h2b1m2i393b292631372d21312f261b3j293p2b2n2k243i3m253m2d2d3c3n3m2h3h2c241f2k3f2p2n353h223b3n2j292q1m_2h2f1i1o273q3q3l232j3c37282b322c2p1g353f3a2h1t1t</pathogg>
-    <rate>
-1</rate>
-    <num_votes>
-1</num_votes>
-    <num_positive_votes>
-1</num_positive_votes>
-  </item>
-  <item>
-    <id>
-5987339</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2019-01-27 10:05:33</addtime>
-    <hits>
-418</hits>
-    <username>
-ConchitaCastillo</username>
-    <sex>
-f</sex>
-    <country>
-Spain</country>
-    <code>
-es</code>
-    <langname>
-Spanish</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/3e2f2d2q2o2i3h2p31353e393a3e3a2d2c2d3k2a2f1m2l253a2i3g1k2a3a1k3935212a2k3o2l2o293h35381m2q1i312b292c3k3f1b1i1p37273f3q292b3k2g2o_3f1i223f262p3i2p2b2f22283j3l3l2d3c373e1o2d2h1t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/1o2g1p3e3l2c3g1j321p3f223837291b3n1p2c2m1j2q353c231j3l1m29292k231o27262o373h2l352j2e3p3439353n3o28293l1m3h1h272h342d3i261i212g2o_271k3d3b1m2l3d1h2c2j1h1k2g2j2e2g1j21353e252h1t1t</pathogg>
-    <rate>
-0</rate>
-    <num_votes>
-0</num_votes>
-    <num_positive_votes>
-0</num_positive_votes>
-  </item>
-  <item>
-    <id>
-3318830</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2014-11-26 09:37:29</addtime>
-    <hits>
-698</hits>
-    <username>
-</username>
-    <sex>
-m</sex>
-    <country>
-</country>
-    <code>
-eu</code>
-    <langname>
-Basque</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/2e3b29373j1f3m2c38333i1l1p282j222f3l1n373n1l371l1j292d28363l2k3g3i343a3n2b331h2j2g342a361k3i2c3c3f2m2d2q261i341n32363o1j241b1l2o_3p2l382d3k1m2g3i2k1k1h38343d2m1f2c3i2b2j3f2h1t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/32243o3f1g242k3b2b1i1b3o372a2f2b3a1i3n2c3e3j1k343i1o1i2k2a3c273n2i3k1j2j3o37371o221l211i243o3k253j3a1n2n1n282m1l2g1g1f2e31231l2q_3l38381h272g3q3h333o2b383m352i3q2i2b2q2g1p211t1t</pathogg>
-    <rate>
-0</rate>
-    <num_votes>
-0</num_votes>
-    <num_positive_votes>
-0</num_positive_votes>
-  </item>
-  <item>
-    <id>
-4204799</id>
-    <word>
-hí</word>
-    <original>
-hí</original>
-    <addtime>
-2016-03-17 20:38:13</addtime>
-    <hits>
-547</hits>
-    <username>
-Frankie</username>
-    <sex>
-m</sex>
-    <country>
-Hungary</country>
-    <code>
-hu</code>
-    <langname>
-Hungarian</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/3b2k26292c1f2c3q383o3d292i2k3l25363g3o312o29292k1l2m2a2q1g3m2q2q2q1f2p3i1f212i2k3g2k283p213b26242c2i1k352i2l3q342p363a1j213m1k323n3n283i3q1l3c3k2q3d233c2d1m2e3c36312e1b272h1t1t_272k2b3j2a27383a1h3h1b1f1m2n213o392f3a2c23211t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/3q3g37262o1g3921392e1k1j2k2n3c283n351b1h3i2d1p2j2a1p35243k3d1h233d3d36321l2b2q232n1i3b2o3d1k242c371l2b3p3a352p2e3n2524272a2e2e1m2q3n1m2q241i223f3h3i2d2c3o2h3q291n2e2k1b3a211t1t_36272k3e331m3e2f1f2q242i253o3p1b332m1n2q1f211t1t</pathogg>
-    <rate>
-0</rate>
-    <num_votes>
-0</num_votes>
-    <num_positive_votes>
-0</num_positive_votes>
-  </item>
-  <item>
-    <id>
-4362340</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2016-06-07 01:13:29</addtime>
-    <hits>
-512</hits>
-    <username>
-evolaska</username>
-    <sex>
-m</sex>
-    <country>
-South Korea</country>
-    <code>
-ko</code>
-    <langname>
-Korean</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/33373q232p3135371i3h1j3f212o1j3p2j3o3f391j2l3p3l1l2j213h25252g2i1g3a1h1k1h251l332i3i332o372n2a371b2k3d2h271m1p1j2c2b2126272g3p1b_3j37321m3k353m29233334363g2g233l1l212q2f3j3n1t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/3j1f3k3q1b1k3e282h2a3l2c351j263c2q2c351k3m39212k1m2m332h1k1o3g382n2e1o3f383634253p24362p2p1n322c3k2e1f1k1p292h333a3c343f1p3h2f3b_1g393738281m3h1o2e3q2p2j2q3q39223c2j2i3b1h2h1t1t</pathogg>
-    <rate>
-0</rate>
-    <num_votes>
-0</num_votes>
-    <num_positive_votes>
-0</num_positive_votes>
-  </item>
-  <item>
-    <id>
-7536296</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2021-01-04 04:07:52</addtime>
-    <hits>
-59</hits>
-    <username>
-koreanlounge</username>
-    <sex>
-m</sex>
-    <country>
-South Korea</country>
-    <code>
-ko</code>
-    <langname>
-Korean</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/2e281g3a3q341b3h362h2n2n2f2m3n3q2j3b1h373n373i3b1j1l2a2g35391p1j1p2q1h293h2p212j291m263l26253d39391j3h1g2p1o221g3i3o3h1p2n362329351i2j3q3l1p2l371p1m3g3523312n1p3e3l3p2a3j211t1t_273k28312i221n2l2j27363e361h1k36281n373l33211t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/2k273e1k3k232h34281b351h1o3a3d2l3m3b2i3k1l1j2a2m2j21263j3q1o3p2j3o3h211f3n263d1m291b251i2i3l26213c3j383b252j3q3i3l3o3b2i3o2m32253m3g3b393k231m253e2f1j3l252c3h281o3j383e23371t1t_291g251m3j3d1k2i3b251p3c1g3o373l3n311f1h2g3n1t1t</pathogg>
-    <rate>
-0</rate>
-    <num_votes>
-0</num_votes>
-    <num_positive_votes>
-0</num_positive_votes>
-  </item>
-  <item>
-    <id>
-590644</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2010-05-20 23:23:20</addtime>
-    <hits>
-722</hits>
-    <username>
-jowan</username>
-    <sex>
-m</sex>
-    <country>
-United Kingdom</country>
-    <code>
-kw</code>
-    <langname>
-Cornish</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/3e3i3437391h3726221p2p2p3n2j24363b1l3l1n3a1i2b3j2d1l25223q213q3538361g1f252o1g1h311l1j3j1n2g232m241f2g1m333b392g342i291n3m3n313g2g2c3g1g2b2d2o1l373n2b312c352d1g343436212l3n1t1t_2p2n3h3o292l1f362i373m2133332a2q392l2g1m312h1t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/2m353o3n2m3k222p2f3n2p2k343q312m2e1n391l1o1l2c3p2g2l2h3a2g1f211b1i281i2g1n2k231l1p2f222n3o351h2a3f2o2c3l2i2h1p3k351g1i2f2o1f3o3n363j1g1n2o3831313a1p3c2c2j1j27382b332g2q2k2h1t1t_1o3d213q392k3q3n2k1k3d232g36333q1h392d313h211t1t</pathogg>
-    <rate>
-0</rate>
-    <num_votes>
-0</num_votes>
-    <num_positive_votes>
-0</num_positive_votes>
-  </item>
-  <item>
-    <id>
-451529</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2010-01-27 23:44:30</addtime>
-    <hits>
-1170</hits>
-    <username>
-gmaranca</username>
-    <sex>
-m</sex>
-    <country>
-Argentina</country>
-    <code>
-la</code>
-    <langname>
-Latin</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/2d3o321l373e1h2i213b2636262g2b1m232k351i313b3p3f3e3m1g252e351k33282q3n3i2833242c2e2j3a363b3q3e2o2k3c2n3p223k1f35213g3a1o1g211j3f3j3d3f383d3b1b221g3g3m1k2f2g1p2e3m1p2k2l29211t1t_382c3b3l1i1h36232b3a2m3p2j351h3e381j3p3a2c371t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/33353a3h3m3b3e372j3p233d3h323m1f3i3f3e3k2d1n383925241k3n2i2l3a3m2i2l213e211g33282p3j1o233o232633373l31312k3i2334222q2e3231382b2a281b253j3b231n322b2d3a36332i1g2938223a3p3o371t1t_2l3d321o2a282f331n1b3c361f3g3i2m351h3q332j211t1t</pathogg>
+https://apifree.forvo.com/audio/2f272c1l3l2k3h2a3h2m2m3f271l213p2a2d3d1n3l1j2g262o382c3k1l2i1l333g3n1p1f1f3l373c1h28212h24213o1h342c332n3l1i2q1j3126213i333b342m3434383i1h1k293j3e2k2k2o1h273c3i3h3l241g27211t1t_3h3a2524283k3m1o2f222o3p2q1b38333m2n253i1j2h1t1t</pathogg>
     <rate>
 -1</rate>
     <num_votes>
@@ -706,93 +34,93 @@ https://apifree.forvo.com/audio/33353a3h3m3b3e372j3p233d3h323m1f3i3f3e3k2d1n3839
   </item>
   <item>
     <id>
-7294725</id>
+2158393</id>
     <word>
-hi</word>
+hola</word>
     <original>
-Hi</original>
+hola</original>
     <addtime>
-2020-09-01 16:05:21</addtime>
+2013-05-20 19:55:09</addtime>
     <hits>
-769</hits>
+10549</hits>
     <username>
-Sobakus</username>
+RGGN</username>
     <sex>
 m</sex>
     <country>
-Russia</country>
+Spain</country>
     <code>
-la</code>
+ca</code>
     <langname>
-Latin</langname>
+Catalan</langname>
     <pathmp3>
-https://apifree.forvo.com/audio/1o3i3i2m2a1h323h3j323i3m3l3j222o3a1h2h27282d21363a2o2q2i1i3c3f3q283c271o2h2h2e2e1i312p2m343n3j293732341b3f3c2l312g1k3k213f1f2o31_3k3i252q322j3o362g1h212936232o2j23343i3a3f2h1t1t</pathmp3>
+https://apifree.forvo.com/audio/363h342o2f3127272i2n273f3g3q3h2d2n3q3q24393q2526242h2b3b3131343f2k1f3p26313m3n2p3e3k271g2p23212f352j3d222b3b3j251l3o1n3a282c3k2o3d3o33232a1j232f313b373c2o222l371f2n1p1f3h371t1t_2727331p2f2m1n351n322i3i3e2g3i3a1h29373j32371t1t</pathmp3>
     <pathogg>
-https://apifree.forvo.com/audio/26353g343l2g2l3b3d2c1l2q3k1m222n1h2n3c2j3e373j2i3j3f2j24233c1h1j38372k2m3i1f3j3q2n2b2e3l272k1g2h1o3q392f342e332c2n1n2m3e1p1p282n_313g3k3m3o1g37293p392f2k2c2k2f3g3q2k2d2g1p371t1t</pathogg>
+https://apifree.forvo.com/audio/3n3o2g3g1m3q2d3c233o3d1h252e231n2j1k1o3i2135291h333b1m1p2q3d2n1i3b3b3k2o3i323n1j3o1k2n382m3q3n3l2h1h252o2l3j241b2j1g371p2n2d21391i33331k2i233h37263b3a2h2l2n353p2j2m391j3n211t1t_2b2l242n3l3g2j3b3k1j32283l2k1m3p3o342o29312h1t1t</pathogg>
     <rate>
-0</rate>
+1</rate>
     <num_votes>
-0</num_votes>
+1</num_votes>
     <num_positive_votes>
-0</num_positive_votes>
+1</num_positive_votes>
   </item>
   <item>
     <id>
-6949737</id>
+2178621</id>
     <word>
-hi</word>
+hola</word>
     <original>
-Hi</original>
+hola</original>
     <addtime>
-2020-03-20 15:06:57</addtime>
+2013-05-28 09:05:38</addtime>
     <hits>
-196</hits>
+2567</hits>
     <username>
-grinta</username>
+sezen</username>
     <sex>
 f</sex>
     <country>
-Lithuania</country>
+Turkey</country>
     <code>
-lt</code>
+ca</code>
     <langname>
-Lithuanian</langname>
+Catalan</langname>
     <pathmp3>
-https://apifree.forvo.com/audio/343l3l31241k1h1f1g2h352i3a37383d252l2d2i2k3j3a2j1f2c2e272239343d2o3h2g3g321l3n3d1p3n2f32312g3q2m2e2e2f1p3a1j392c223o2l1f2n283f2n_3e1h322d3h2a1k313a3a243k2c3l1b332a3e2e1j2l3n1t1t</pathmp3>
+https://apifree.forvo.com/audio/3i34233d2p1p3a3q2m3h242922371f372b2p3k37352h3429362a26343i1k3n1l2g1h2o2k3g2f241j2g2e223n3c2b2c27291m1b323632392l1g381k2l3n27362f342e2e1g3p3q2d1m272m3m34383p2i342j3a2k2j272h1t1t_1i3k3k23332d2c2q2d1k381m2l1l3i261l1f1j2a213n1t1t</pathmp3>
     <pathogg>
-https://apifree.forvo.com/audio/3m3l352f2n2e2d3f1f2i3d212o2a2g233q3o253j372m1b362c2l3l3k2f2q3i393j353e1g2q1p271g1h3g1l1n1f2i2k212p34283a1i1k391l28331b25351n2m3p_1l2a3e263b2j1o3h293d3238273g3l1p382n1i2b1i3n1t1t</pathogg>
+https://apifree.forvo.com/audio/3g242h372a1j2d2k3h2o1l1j1m3q33312626272b24292o3d293f332m222e2k3i1l261b3m2k232h3l2f341b383h2f2i3p221m3i3e1g3e2c2e1m251k3j392f3c1m2h1f3f3i3l3k3n2b2e3q1o2i3l39262e27311j222h2h1t1t_223m331p211o1n1o2c222e3e383c3m3n3m3h273o233n1t1t</pathogg>
     <rate>
-0</rate>
+-1</rate>
     <num_votes>
-0</num_votes>
+1</num_votes>
     <num_positive_votes>
 0</num_positive_votes>
   </item>
   <item>
     <id>
-5237815</id>
+5142226</id>
     <word>
-hi</word>
+hola</word>
     <original>
-Hi</original>
+hola</original>
     <addtime>
-2017-09-29 09:07:20</addtime>
+2017-08-09 21:04:55</addtime>
     <hits>
-929</hits>
+954</hits>
     <username>
-ilgrauls</username>
+jmmarti</username>
     <sex>
 m</sex>
     <country>
-Belgium</country>
+Spain</country>
     <code>
-nl</code>
+ca</code>
     <langname>
-Dutch</langname>
+Catalan</langname>
     <pathmp3>
-https://apifree.forvo.com/audio/3e3q2h3p3e2f24272i2p2n252p2d22273l1g242p2p263a242b2c2n3q1g372l1j2c3b233c1j2i3i2923312a383l3h3i2g3l223k3h1f2i3c3m1o1k1p3n24242q251n222b271p2f3c3g2g2k381k312e3a1n3h1l3o3i3n211t1t_3a222d3c3j282c2e1k1o3b3m3p243i1p1i373n2f2g2h1t1t</pathmp3>
+https://apifree.forvo.com/audio/272o243i332o2f213e2n2o1k33292i3e2g363p2p1l2l313q1o2p3q2l2k2i321g1n1f29283m2d1n3h382n2e363a2o2j3n37323a1k2f1j2d1i2d1n1i1b1b313a3d1i1m3b343j3b291j1g3c1b2h2c1k35323d2m3c331k2h1t1t_3333271m2q353235291j2l322j252b2i3q2f1j1h223n1t1t</pathmp3>
     <pathogg>
-https://apifree.forvo.com/audio/242q3c2i2n3d211j1k3e3826392n1h2b33371l1b33372p1k3i1i3f3m3a3k3n2b2b2f352d3j1b2e3a2f29233p312n3n393j261i3n291j1o2q1n392e2i2l3j2c1p2c342m1p232k2e1p1p24321j1p3c2n27332i3a2p2j211t1t_36332q2f2h2f233q353b1b242l233n34322i2b213i3n1t1t</pathogg>
+https://apifree.forvo.com/audio/3c323c3c292j1i1f373g3734323e2m263p222a391p2b3q3j3j3k3b321m2p2a2e3o211k272g1n242j2n1i2q3o2j271h1f1m1i1b31242p332b3h2q2o1p3i251k3a2g2a2b3j3a352h1k281f2j34212d2i2o1k293o3q333n1t1t_232f1i31212f31393n3l2g2k3o32351f2o3a223a322h1t1t</pathogg>
     <rate>
 0</rate>
     <num_votes>
@@ -802,29 +130,1053 @@ https://apifree.forvo.com/audio/242q3c2i2n3d211j1k3e3826392n1h2b33371l1b33372p1k
   </item>
   <item>
     <id>
-5419218</id>
+5757795</id>
     <word>
-hi</word>
+hola</word>
     <original>
-Hi</original>
+hola</original>
     <addtime>
-2018-01-12 12:12:15</addtime>
+2018-07-09 17:28:34</addtime>
     <hits>
-258</hits>
+664</hits>
     <username>
-killopez</username>
+ivanvlc</username>
+    <sex>
+m</sex>
+    <country>
+Spain</country>
+    <code>
+ca</code>
+    <langname>
+Catalan</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3q2c371f263k3c1i3c3d271h1p32332i1h3i1f3j2k2h3k2k3g3e1l2m3l1p2n22292835393f37212f2m1n1j1j2q2l2l2k2c3l2b2k3n3m2b3a1m342b3m221b1j2j1l1b361l262421232j2b2m3b2m2n2o3g392e1f2n37371t1t_2i383f1f1i2b381o283b2b2m2g3o1o36291p2o333b2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/342q1k2o35382i2e1h1o1i2a3o2l2g323q3k2o271f1m3p3d3k3l28263226233o2h2d3f3p2p2b1k2j3e22373e3h3l262n242l2l1p2h2f3b253h2c36353i3p1h3b363n2j2h3a332e3o393c27313e292p1k1o321b3d2p371t1t_223q391o342j1f2e1i2j1n3d2e1i3j232p1m2i2b3f3n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+7336558</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2020-09-21 21:49:21</addtime>
+    <hits>
+145</hits>
+    <username>
+werther1967</username>
+    <sex>
+m</sex>
+    <country>
+Spain</country>
+    <code>
+ca</code>
+    <langname>
+Catalan</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/22352p37233o1b3g1n3a1o2a321o2k35272f321b1o1m2n3m372f2o26333j362m2n31223d263d3i24282c223h3j3a1m373j1j3f2c3l1i3e3c1j2p2n3l23282e3k31261f3g1i1i2h312925353m2f3k2q2335263c3c3b3n1t1t_3i1m371g231i29313p1k383o2k1i3f3l3l233j2g3d2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/341h2g232b2j2h2b1o3l1b1g1g25211i361i3821333q382c3d2j263a2c2p1l3o1j3i2e393q311m3d1f2k2h2q262l233a271k3f3l361i3d1p2h2p222l3q3c3g232h1f3e3a1m3j3o392c2h2d1f1k1h3e212n3d2l292f3n1t1t_3a3h2a2j1p2a3f312e3p2o3g312l3h1m37382e2f363n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+5628726</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2018-04-15 10:44:42</addtime>
+    <hits>
+968</hits>
+    <username>
+Mili_CZ</username>
+    <sex>
+m</sex>
+    <country>
+Czech Republic</country>
+    <code>
+cs</code>
+    <langname>
+Czech</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3b34342h282j3q1h3724281g2i3q3323223p3h29342a2e2c2m293i38323l3i1l1f332o2q2g2e281h3h3m3q1f242b2j1p2e2e333q23363d2h342h272q39352l253l1o1l2m1m2123321h1o3l1h1f1p2c3e3h1f243325371t1t_1g39242f2l3e213c282n2k22211l331k3b253a2e2p371t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/1b2k3b2f3l3f2o2b1j2g242m3o3b3p3f3h3g382f1g3p3q312m273c3l2o3239362d3m1j3f342c1g383p2h3m35212j3b3d342c3q1m232c1p1p353h1o26323m392a1i3c1g272h3o271n3k381k2g1b292o3m1f231l3l253n1t1t_3b3e3i392c1b3j1f1j2g313b3n3i1l1b1i262l3q282h1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+63774</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2008-11-19 21:58:33</addtime>
+    <hits>
+656564</hits>
+    <username>
+Sunny1</username>
+    <sex>
+f</sex>
+    <country>
+Costa Rica</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3k1k2i1n1g271b26312l283f1n3n3h323c1p282i3h2n1k391h3g262o392j392o31293k333b231j1p1o2q3h262m1o3n3c1h2g3o3n1m1j3h3c2i273f3f3q3128312b373n2g3i242j2i3q3h353q1j311j361o2e342k26371t1t_3m3d3k2h3f2a333n1g2l2n1f3i2334321m2j2g243j211t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/1n3n2e3k3i2d1m3k332k2m2l353g3i1j3g331g372b222b26233h2c3e2p222i3b3n233f353n1k3f3o3k3k3q2c39392j2i3c373j3j222f3d342j3j383h1m2i232328382o361o2c223i393p2q2d243a312a231b2p382g3n1t1t_362g3e353p3d343a1l3q341j3h263g1f211l362138211t1t</pathogg>
+    <rate>
+2</rate>
+    <num_votes>
+4</num_votes>
+    <num_positive_votes>
+3</num_positive_votes>
+  </item>
+  <item>
+    <id>
+120420</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2009-02-03 07:37:24</addtime>
+    <hits>
+655119</hits>
+    <username>
+jsonador</username>
+    <sex>
+m</sex>
+    <country>
+Nicaragua</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3q2j1i3d3b2p24292a283l213g3i3p282n2n2k2f2p343q1b262o362f3m212p2f321k2o1h242n313l2p2n2c3k1k1f2q2e1j1j3i2i35243l2j2i2l33342j3j2b1i2k1l3b2c31262c3f1k2d323m291g2p3c2f3i2m27332h1t1t_3o2l312f2h2p2p3a1n1b2n2b3m3o2i261f3d2p353f371t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/1o1f362h1f2e3b231p2o323h2q3h1h2j3g1k2p1k1i2f3333372729362o3m3e3f3i3e311n1n332j391o282o2a1j1g2c353q1i3a2c1b1n1h3b342d352q3k312k2f3k283734253b291o2o3e1b291o393j3b1k1i311l3e211t1t_2c1m2g2k3a23362p3i263k3n2j28291l1g2d3e342l211t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+6</num_votes>
+    <num_positive_votes>
+3</num_positive_votes>
+  </item>
+  <item>
+    <id>
+191403</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2009-05-20 20:18:31</addtime>
+    <hits>
+654161</hits>
+    <username>
+juanfranciscotr</username>
+    <sex>
+m</sex>
+    <country>
+Chile</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/233p3g363f3m2p1b3f332l243c3f3p322c2i2i3l263i3b2l1g1m3k1j1p1j23393e3j2h2p3m232f1g293e2a3g24292f2d28363d3o2l1n1h271k1f3l1n343g3b3e2p2o2i312l1k3e241n1m3m3a2o3a333p3o24341o29211t1t_3o1b362k343p272e1l1p1o273n1b1k362f231o2c1o2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2l3l382f3o3g2k3l2a2e362g1i33353k2d2l3a2e222p3o212436362l262k1o2j3m1i283n2m2l1m1m2621381f233c3k1n392e352e2e1m2g31213l1j311j3l3j1i1g2k2f2j1o2l2p2m3q352k253222352n382832222p3n1t1t_1f253o2f23383p3h2e3f1b232o2f253d1m1l3d3p3j2h1t1t</pathogg>
+    <rate>
+-1</rate>
+    <num_votes>
+1</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+242248</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2009-07-03 04:52:13</addtime>
+    <hits>
+655660</hits>
+    <username>
+Yaschua</username>
+    <sex>
+m</sex>
+    <country>
+Colombia</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/27322h252a2636233q2k242p1k3e3m332h1l1n2l3k2f2c3d1p3b21212f2g1j292l1j2n2q1p391h2j1k233c3g3f3c1i1k3a3o34382f312f22263i3h232a383d3m3d3q1j3921253h372e1j311n1o233f333c2c243m3m2h1t1t_3c2j2a2n1k3c3g3k241b2a2c372g3c3i353a2q1o2n371t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3d2o2p2b1m1l1f3p3o3b382g3q211n1o2k383539372q213c3c1k311i3c2k2h322a233e2p261l373p3c1i341i2k212k252p2m223c1j212e2g3l3n241i3a31383n1l1i383f3l322o332b33232k2g3o3d3i3p382c3i2d2h1t1t_23221m2p3i2j222d2o382l3m3j1p1m362d29271o23371t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+6</num_votes>
+    <num_positive_votes>
+3</num_positive_votes>
+  </item>
+  <item>
+    <id>
+258146</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2009-07-25 16:32:15</addtime>
+    <hits>
+657077</hits>
+    <username>
+Neqitan</username>
+    <sex>
+m</sex>
+    <country>
+El Salvador</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/1b31231g2q2k341f2n333j3p2e3j1f322n27331m3o2p2f1b3i393j1f2k342c3125311i3m2q2d3g3o1f3p2f3g1f3c3c242h2e1n2m28291j2q1p2h2a2b1n2q1h3g222c2k3i373l1h343k3n1l1g1j3o2g3f3p1o2n3k23371t1t_3e291i3m3b3m312d2f3o2h3p3q2h2m2g372p2e2l262h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3c3b3g3l1o3h291b1f2a3b3525243o3o2m273k3m3f1h29212a352c333m2p3421222d2m3o273g3d3a3o351b1h1b2l3438393f291h381o251k2q2c222q2o3j2l241h3k2j213q2n1f2q3k1n1j241i32282b2b3e2h2c3q2h1t1t_2e1l2q24293f1g3c392e1o262g29283l242d3n2g32211t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+6</num_votes>
+    <num_positive_votes>
+3</num_positive_votes>
+  </item>
+  <item>
+    <id>
+261460</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2009-07-29 07:56:13</addtime>
+    <hits>
+654064</hits>
+    <username>
+Aradia</username>
+    <sex>
+f</sex>
+    <country>
+Argentina</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2827312h1l271g3932351p2n24291j3232293f211l1l1l1o2l3o323h3p3f3q2l291g2b373q1m23351j2a2p3q2c341b3c1m1b3o2g323m342o3c1o1l2l1i3l1h233i3a281j271p1k2q2p3c2a3931252j2d2h3p213g3e371t1t_3o362b1m2n262p3j3h2d291h271k33371l1n3b323d211t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/1o233l2j2n352m1p3f2e1n2h221g2n1n3o2i2m3p3d273n242h3f2l1m3b3o2b1g2e3a2f2a392a281j3d2n29242i322i3m2h3q313j1n37212p1f3l2o1b1f1m3j3c293l2234362d2a3422373a2m2m3o342o3l211j1j1j371t1t_3n362a292b323h3n1l2a37393m371p233l342c213p371t1t</pathogg>
+    <rate>
+-1</rate>
+    <num_votes>
+1</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+289741</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2009-08-27 00:09:06</addtime>
+    <hits>
+655249</hits>
+    <username>
+ablaert</username>
+    <sex>
+m</sex>
+    <country>
+Chile</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3m22373f241o1g3c243c3p2d361i321m273c3a221k3j283n3f2e3p331j2f2g1b352g1g1m3m3j1b281i323i3g382e1k3d3g3e3l2e2j2p243834242c312l2l3a3d3n3p2i1o3f3q272828232f221i3d3e2636293i2a2a3n1t1t_32291l233f33382g1l3d1f1k3l332p1h382b3h3j2p3n1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2q2g1b2l2a3p2g253p2o2d352m252k2i3a3q3n3a3p2h2e2f341i3o2a37332a2n2b3d311g2o2g2i2i2n281g2b3c1h1f313j2p1h2j1f3g1k263n343k3i2g3j1l3i2k2q222o2p2g241n242a2m2i3c3d1o243f1g2j29222h1t1t_3o3i311l2p3m2g27273j3f2c312f2m3p2i2j2q39213n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+10</num_votes>
+    <num_positive_votes>
+5</num_positive_votes>
+  </item>
+  <item>
+    <id>
+419596</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2010-01-09 04:23:36</addtime>
+    <hits>
+656702</hits>
+    <username>
+javiernomade</username>
+    <sex>
+m</sex>
+    <country>
+Spain</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2g3n2g2g2624373i3a2d3n3l383p3q2n1k1k2c3c2j1m253b393l1h1j2a372i2q243l2f1f3i243e2q2q27381b2h1k1k2f2j3d2c382a34372e223o3a2j1m331i1h1n311m1g2i3l1h3b3p1h3223372b282q282k2a232a371t1t_2b1f3i3n2a1k1l381l2f3l2p3c2h2l3f3e253k382q3n1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/1f3j2h2f272j392g2a393a1f2k2h3f3d3m3c3b283g32282n3a2g2o2937363o342n3m281g2g39371l1g2q2n2c3d1p221l1j3d232q292j3i3532231l343l2b271o3d2k2c282d22353f2o1n3b253o2c2h2n3m313h3j3i3n1t1t_3l381l1b2l3c36283d2g2g2k1g343b2a3o2o21392l3n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+2</num_votes>
+    <num_positive_votes>
+1</num_positive_votes>
+  </item>
+  <item>
+    <id>
+424002</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2010-01-11 18:49:49</addtime>
+    <hits>
+654733</hits>
+    <username>
+achopijo</username>
+    <sex>
+m</sex>
+    <country>
+Spain</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2739283b372l2o2o3g3b26383l263c3n2n2m3n2k1i3m3b1k3q1n1m361i3m322c2k2q1p1o283h2o3h2m2b2n2b1n2e3b3n3i3a1b1i252f2m3p232k3423222o2l3n241l3o2j3o2f1i3f1h2n2835283e1j2l2i333f3p1i211t1t_2j2j323e1p2g3i3i222e2a343f3l1h3n233c343h1k211t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3g3j1k2d3d3d2m333o3i1j1k262h2p2k3h26293e21283h222c2j312k1g323m252e1k2c3g3i3h2n3h3n253e2626381k3a2o353k2b1i3f1p2n2e2p3526333j2f1i3m1l1b3c2i2g2o1n3j1b1h2l3m3c293736362h2e3n371t1t_252p36342d2d3p1f3j283c3e1l1b223p253n1b2o23371t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+918755</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2010-12-16 05:05:10</addtime>
+    <hits>
+663919</hits>
+    <username>
+barbydiaz</username>
+    <sex>
+f</sex>
+    <country>
+Mexico</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/222j3f2k2n2727352i292h233p232k3p3h3a3i3m1j3b272j221g3p2d2g3g243d2c3k2h211h3d362j232f3l1f3i2a3n3l2b2p2n2l26323i243m323q3n2q1m2e361j2l2b3g3h3d2f3h323n312f3e1b3e241h273h3q3q3n1t1t_1p2h2c241m3i3933211o2b37261n1n2e3l2i3m362j2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2p2c28271o3m3q2d1g3b1h1j3m2k3n3j2i3f2d3h353n3a3l312m2l38213q2m373p3b3p3i1i1h26373l392q263f1p363f2c2k3n3h1g2q211h1b3h3p372c1f1h3h3b212c25333i2k3o1b1m3p243k3h1h3g2j311k1i3f371t1t_281b2k241h2e2d1n1p312e3k2e3m2c3p3q373f2j2o211t1t</pathogg>
+    <rate>
+9</rate>
+    <num_votes>
+11</num_votes>
+    <num_positive_votes>
+10</num_positive_votes>
+  </item>
+  <item>
+    <id>
+1021461</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2011-02-15 05:42:43</addtime>
+    <hits>
+654286</hits>
+    <username>
+jackabrams</username>
+    <sex>
+m</sex>
+    <country>
+United States</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/323a2b2f37343l3q3b3g34371p2k1l2f3m2p2b2b2j1h3h1h3q3d2n1j253j25382e1b3o26332b2m3p3j1p1o343637221l223d36381b3p1n2j3k1h2b2k2g2h362m212g1i2p3p3o1f2q3k3j292p1g2h2c391j3c3p1i32371t1t_3q1p2p1f331b211p3i1f2j24251f2421333437223f3n1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2o251m1h2c293l2m3l2i1f2o3g1p3d2h342q3q3a263f3n3b2b1h2c3e1p213g3d2h251m283n3a2h1m371m3a2h2g31243o2k2h2a37343h3f1k3j35393o1g3a3q1i2n363k2p3d2q3b3i223i2i362q3h3k2f1h2o2i28322h1t1t_2m3j253q3j3h2a2e1n3j3o1k3j1p322l2i2q1f382l2h1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+1024374</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2011-02-17 21:32:39</addtime>
+    <hits>
+654955</hits>
+    <username>
+mechi</username>
+    <sex>
+f</sex>
+    <country>
+Argentina</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2b2l1h3f3h2h3n1m3k3c3d2b2q1n211h2m1l21272f1n1f1j2d2g293m2i3c3a1l1b3p1f3f2q21342433323k3o251o371n1p3h35262p243k283i2g2h2b3k3n2537343g2f2o1o1k1m3k33321i211k2e1b1f361j282a36211t1t_2j34211m1p3n22393k1k3p22353k3l2d1p3339322e2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2e2m3g3g2g262a3a3p3m3m342a3n3m2g1j1b25393q271j3f2f221l2i253o3g1m1j313f1m211h2j233l3o251b3g2i2a242o253h1g3n37353i1f3g1o253b3b2l2q3j2b333k3h1l3n3h1m2m1k31343d3e3i1n3f3e3e2f211t1t_293a1l1m1n2f311k3l2k2d2m311g2e281o3f1p3n282h1t1t</pathogg>
+    <rate>
+-1</rate>
+    <num_votes>
+3</num_votes>
+    <num_positive_votes>
+1</num_positive_votes>
+  </item>
+  <item>
+    <id>
+1099446</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2011-04-15 03:00:17</addtime>
+    <hits>
+653906</hits>
+    <username>
+caosorio</username>
+    <sex>
+m</sex>
+    <country>
+Colombia</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2q3p273f1f1i262j3p3q213q1k2c3l342k3j2m37322p3h312h1f3g392i3d1h351m1b2f1i2a1j2j3k1b2o1g1h2o3339341i213i28393p232c1g3b1o2o3g3d2i2p251h1f292h2q271k212m321l29243o1k36381o2721211t1t_1k2p1h233o252e3n392l3k3n2a1l2c3a3g223728263n1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/393q22381b3f1j33222a2d273a2h1m3p2n1f22331b1n21253g2g3539382n3q3b3a1o232c2g1j213b3o243e32321b353f3j1b322p241g38273b2c2k331p1l3g2l2i1o1m2m3q2p2l3m263c3j1j2h1h1l3d1k2j2j2k3e2h1t1t_2o213l1m2i35381n3p363l2l252l26381b3k2h343j371t1t</pathogg>
+    <rate>
+-2</rate>
+    <num_votes>
+2</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+1324166</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2011-11-16 18:35:07</addtime>
+    <hits>
+774481</hits>
+    <username>
+erobledo</username>
+    <sex>
+m</sex>
+    <country>
+Spain</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3b2f3e24312c2k3j273h1l2n3n3j3f383n3e242g2k2q3q1h37381h3b34241k1p2c211k3d2a2d2f3q2f3e391b2i2d1g3n3e1j3l283c3o2m3p3q242o2p3e2j26381p3d1f373a292f341g2i322c3j3k2j3q322o2e261p3n1t1t_362m3m2l3p2o3828381n29242639391j3g2h253b3n2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/293636332c3l2h3c3l3j39242j1m3g2b3o3i222m3f273a3a3l2j1b261k3p1o2p2d372f2e2q3g1h2n271l3f3m1g3h2f363m3g3c1b1g2q3c2h243f2e293o3q1b2g232k3a2q31333n2h3i2f3h2d373a1f1j34272i1o2h2h1t1t_1k362q3b292a3c2p2q2m2i3m1m293g3q2l1j3b3o1o2h1t1t</pathogg>
+    <rate>
+10</rate>
+    <num_votes>
+20</num_votes>
+    <num_positive_votes>
+15</num_positive_votes>
+  </item>
+  <item>
+    <id>
+1430243</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2012-02-12 22:21:23</addtime>
+    <hits>
+653821</hits>
+    <username>
+fernando_tala</username>
+    <sex>
+m</sex>
+    <country>
+Chile</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3c243m1m3o34353p2o3e3a2m232c323c3a383h28231l2e2f343b2q3o1b291g3j2j3b3o3o2a2m3j2b24282c3d222h3h2l242d1i311b1j1m2k1m222a1k3h2e1f3f1f2i242j2n2a211j273l1l1o3k3i1j3a1f233p3m1o211t1t_2m28233h2p36262f3a23362m2i2q1o392h3f3a1k392h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3l3a2n232l3f3n1j1i2e2h393a2d331h1p2e1p3k2j2n2k313d391k281k3l2b3k3b291n3q1g21332g221g3l3k1j331m3c1l2j3q1k243n2p3k2d3g1l27271j353h2p222a313c2n1m2936231i2n3o26272c1i1i3m1l38211t1t_221f3832362i343b272g322a3m3g261g2k1m363g1i3n1t1t</pathogg>
+    <rate>
+-2</rate>
+    <num_votes>
+2</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+1491168</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2012-03-30 17:37:51</addtime>
+    <hits>
+654413</hits>
+    <username>
+xued</username>
+    <sex>
+m</sex>
+    <country>
+Argentina</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2727313k223p1k3e3p3c2m3n2q2j2d3b2g2l2q371h1o2h3q27252p3d281b1p3n3o2c332k342g3a3p1n3k283h3k3a1n3q3i38251h3q293n2f273q322b3l363k1g3j242i1j2b373p3c1n2g2n1f2i3j2o1j21332f3o3d2h1t1t_2a2e2f3j2i1j1o1o3e221h2b2k3f1o39341g3d232m2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/1g3j3i2q3c273q333k3l321j3j2q34341l3b2m1j2e1i393d1i383e3e23323e2p293f3o1j1n1i3j3i2g2h3c272g1p282m1h36391p1j342b2a232929222n362i2j343c272n321m392b2c3d293q3f2i362c3n2p1l3q363n1t1t_1n2e252n3c3j3b332f3b3n261h2k2d2f24282e1o3c371t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+2</num_votes>
+    <num_positive_votes>
+1</num_positive_votes>
+  </item>
+  <item>
+    <id>
+1657207</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2012-07-11 00:12:00</addtime>
+    <hits>
+654364</hits>
+    <username>
+Rafaelito</username>
+    <sex>
+m</sex>
+    <country>
+Paraguay</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2p3e2d2i3h3h3g1j2o3a263p393g3p2a3j3h2g3p2c331p2f323e3f2k353l1p2n3b3b3k2n1n2b3d3c21241j2k1k383g3o2i3f1f25263m3g2f2j3j25371b3q3d28321o292l3m3g1l2k2h3e1h2e2m1k3m3c3g2q313j212h1t1t_381n1g341n1l3c2a2h1h2829223i2f3i3l1i2h323d211t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3c2q2i2923233h38213g393l2i3o243d3o1f3l3d2b3j3d3g2b1k28323g2j1m3p3m252l251m2e2b1p2e3p323d3i3p2c2n2o1i3l293d2d3k363h3m2a2j212m342n2p1j211n2a3q3l3a322p3g332o2f3k362p243m3h3h211t1t_353p3g2f1k2k1h1n3p3h313o3i3d3k3c3h2a2h3p3d371t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+2</num_votes>
+    <num_positive_votes>
+1</num_positive_votes>
+  </item>
+  <item>
+    <id>
+1744391</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2012-09-21 20:29:22</addtime>
+    <hits>
+653867</hits>
+    <username>
+Mighel</username>
+    <sex>
+m</sex>
+    <country>
+Peru</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/1o281l2i312b221l1o1g1m2c1p3d2k1i3p1l2h212q2m2e1i3q3k321o392a39222q2q332p211n1o1l2j263f353n1m351g3o2b2o2f3l3l2j383d3q253q312l2q393p26382f31343d2h232k2g1b332j3f393f31371m1l211t1t_1k2g3i3j2i3e293m2b2p272m1j3a1l25263a352g312h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3l221i3m1i3i1b3m292j3k343l1m311o3n1i2a2d3l29353j2n2624311j3d232b23352j39321p353o1f2i312j3j223p2j241m3n1p3l2n1j283m342m333p2a1b3l311m1m3f3i2j271k363n2d2b343q3p243d3o3c1b34371t1t_32272d2d213l36373j3n2n392e3q3e1n382p3h2h283n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+1754161</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2012-09-26 22:45:35</addtime>
+    <hits>
+664546</hits>
+    <username>
+JamesBrown</username>
+    <sex>
+m</sex>
+    <country>
+Spain</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2h2e3c1n3o2n2g293c2a27331f351n3i3a213j2k273k2m3j3k292l3l3q2c273c3c2q1k1p2b3d1g392o2j2b3b282e263f1l1g2b3e3l272d1f3b3a3f272732313a39272p1j1m212l1h372o1k25262e352g2o243d2c3q2h1t1t_3j1n2k2c3b1p2c2g3g2p3k34343d2c311k292b323e211t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/1b1k2q1o263d36263i2e1b3p2k24273f2a1m2d25222m1o352l363m39213627342b2i2f311k212n2e312c383m39312l3o323h331j2h2k1k1k2n1h2e1p3i2n3d3m2h2h3l3o2f1n3l393f3c3132393d393e1o1n3b2m3q3n1t1t_381l2o2b1m2j3c3e1j2j2q1f1b1j261l2n2k3c212o2h1t1t</pathogg>
+    <rate>
+1</rate>
+    <num_votes>
+9</num_votes>
+    <num_positive_votes>
+5</num_positive_votes>
+  </item>
+  <item>
+    <id>
+1754869</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2012-09-27 15:44:27</addtime>
+    <hits>
+653823</hits>
+    <username>
+adroguense</username>
+    <sex>
+m</sex>
+    <country>
+Argentina</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2p243k3p2p2e2b1o2j3724262c3d3c2n36361p1h3n3n3h1m3l3d3o1j3o1h362f373h1b2l3q213a1o3g1f213j1m2h381l1j322b3n23243b2e272d1g3e1h2m39333m353g38313e1f3p1p1h1g1m2m3m321b2q1f3b373h2h1t1t_3d3j1i2j2g2i3i3333292p2a3e1p1p1o2h3d372q2q3n1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/353h3l3i3l2d343b233i363c2a312p2e332b2l1n2o233n24252j1n21341h3h382l2n2k3k29382m3d1n2b2q3g212i3o3i1k36342b3g2p1b2j1h1n3e39321o3i3m31313k31342p263m3e2b3o1l1l1m1b1f271j242p352h1t1t_31252637212c3e2a2e2d1b373q2g221m2k2g2d291g371t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+1803098</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2012-10-20 19:26:28</addtime>
+    <hits>
+655593</hits>
+    <username>
+Pablo2012</username>
+    <sex>
+m</sex>
+    <country>
+Argentina</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3q353k26382f1l252d1j2f23213b3c322a2h3c343f2d333f2n1l2f3n2p2d1p1h3d2l2i212e3e1o2p2237393i1l251f3a3b3h3h2e373a2h3136293m351m2c1n3b242c2n3g352d3o2h1l2q2b3k3k2o1m1i2j1b29243m211t1t_2i2a2g1m3336373j1j3i3j2i213b3h2b1p1m3h3h35371t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3b2l1j2p261m3h3l1k3m361m2n3l3f222h2p373c311l3n1l3i2l33313h3l3c2g293o2n2j36382l2b222j1m2b25222n2l2i1n1k1o213a1i2d2l3c222i273a2b3m2p2n383l2g211g1j332h2i2o3k373a1j39373a1f293n1t1t_3o2g1h282j3g2h261m2a2i2b283c1p1m362q2729213n1t1t</pathogg>
+    <rate>
+1</rate>
+    <num_votes>
+1</num_votes>
+    <num_positive_votes>
+1</num_positive_votes>
+  </item>
+  <item>
+    <id>
+1827982</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2012-11-03 10:31:32</addtime>
+    <hits>
+653759</hits>
+    <username>
+mardelmi</username>
+    <sex>
+m</sex>
+    <country>
+Costa Rica</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/251o35213d3e2m2n1g251n2n342a3a1l2n2432292b2q24363m2d3l1h25282d371k3e3q3f2l2j372a3722223a3k2f3e3d281g1g1n1p322i1l2e263i3i1l213l271l3g3c26213g2d3c1i321o2p3n2j1j3c2d3l3d2125211t1t_3l262p1b3k2i273g3l3g1b3m3a3i1f3q362c1i3f1o2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/222b1l1i3i2e231k3i2j3b2e3n3m2f2i1j2l3h3e25372j1m1h331b2c3o1j3a2m3e1m2g1m22243o2138291j2o3o213g243b313h3l392e2j3n3c1l2c32251o2j3g2j3p353n273b23313a2i2m32242l3k2a2g1g38331m3n1t1t_3p1h223n1i2p3g3p3b3b24333a262q292h3a363f3o3n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+2008821</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2013-02-15 06:26:59</addtime>
+    <hits>
+653876</hits>
+    <username>
+Steve04</username>
+    <sex>
+m</sex>
+    <country>
+Colombia</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/353o3o27211g1k2p1f281f392n2b3o3e35351g2k232c3e383e1o1j3h3i1f2c331j1n1k292d2g28321m38231j3k2j221f363i2l322i2c2l2m352a3m1g32253q2427331m221p2p293h2i3g1l333k2b3o1m353e3e3i3a371t1t_323n2g2n3g1g3c1f312q2e3k3m3k362e243b3b2f27371t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/382k371m2i1i33332b2g2g3q393o2p243h342a1f2c2j3p1n2a1j1l2k1h2l341o2g1k3b2i1n27353d2g1j2e1i3b3p2h3e1f251l2n1i1p213g27321n272d1p3i231j1g2c213f2q332q351l242d1b2k2f3c3i3m2e243d2h1t1t_1l2o3d3k3p3h1h342n342c2i1l3b232i2332291n3m3n1t1t</pathogg>
+    <rate>
+1</rate>
+    <num_votes>
+1</num_votes>
+    <num_positive_votes>
+1</num_positive_votes>
+  </item>
+  <item>
+    <id>
+2052594</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2013-03-27 18:10:03</addtime>
+    <hits>
+655152</hits>
+    <username>
+elharni</username>
+    <sex>
+m</sex>
+    <country>
+Argentina</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/23341p2g3j3p3n1g2b3b2h3j1k3i373i2e393f2g213f3e2e2h1p1b1f323e3b283o3a3c283b2q1i2e211i283a1k352n3j1l251b263a1g283o2j2q24292l3d21362g3h3q1g2927343m28382c24341f3j3c222o3a2k2f371t1t_2524341p2l2d2q1m352i1k3n1b2c2f33393m2k243l3n1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2n3a312p3i362n3m21231f3q1j3j323i1j2i1o2e1i3a2o3n2a3k2l1f231p1p3g2b3k2c222o2924223b2h2k1k2g223e3o3g1m3n1k38381j3o2l1j2n2k213m3d2p2j3c1o2c313q3d3q222f312j38322n363j2k3k1g233n1t1t_1l2h3n3d2b2j313i351h3m1p2837253h2j3o3i3g3l211t1t</pathogg>
+    <rate>
+1</rate>
+    <num_votes>
+1</num_votes>
+    <num_positive_votes>
+1</num_positive_votes>
+  </item>
+  <item>
+    <id>
+2052998</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2013-03-27 22:30:01</addtime>
+    <hits>
+653942</hits>
+    <username>
+iepvctorres</username>
+    <sex>
+f</sex>
+    <country>
+Peru</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3j2h1b373c2a3p2c37343n3o3g2d1i1l291k3h3a2p2a3524343g3h271j2g1l1f1o29283e233d2b1l293d232c341b3a3q37361l323d283p3g361f3j3c243d1b312836311n3h2q391f3g2e1n2g2l1f1h3b2j1j361n1n211t1t_313b2o2j3j242j322d3l2g2l3k1i3d1h381j21221m2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3o1o36362q1f22383i273k1b3f3l1i2d372c323k1p3o3h1k2f2j2m39313q3c1h3a2g2c282l342m3j1j1l362p3g2921273o3h26291f3l3f1i2b3p251b3e233o3o223i233o2h2a2l3p231n1f2l2l231g3p1o3l341g1i371t1t_3g261f3m3l2o3e393b1h231n1l3k2i371m2c2q363m2h1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+2054766</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2013-03-28 21:27:37</addtime>
+    <hits>
+655038</hits>
+    <username>
+Quasimodocrc</username>
+    <sex>
+m</sex>
+    <country>
+Costa Rica</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/273a2e2m3h3l213p3j1j2p2f2b2a2k1b1f2h3a242i341h1j251p2h1o36243g293n2n1m3a1i3c333n282j1g391k1p2b273e2n272a2c253935323g3k3b2n311p2d2c1l223e2l1m2c2l2b2p322n3c212n1p3p1i1f2e3f371t1t_3h3a2n2p1n2d3c2k272i373636352h1n3h231j2h1o2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/1o3i3m2h38341n3i3n2b3p283a38272p333m213j33353i3b2q1p3k2a2b3f3k3o3b242e2n2a2d3h38373f1j35352h3n1g293m311o1b3q2f292i3q293c233j29211b2q39382g283p2d1j3k2k3o3q1g3a3238241p1i342h1t1t_1i1i1f3j1m333d2d1b211o2j263e3m212n2q2g3i1b211t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+2</num_votes>
+    <num_positive_votes>
+1</num_positive_votes>
+  </item>
+  <item>
+    <id>
+2312730</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2013-07-22 02:39:36</addtime>
+    <hits>
+655190</hits>
+    <username>
+Magabi</username>
+    <sex>
+f</sex>
+    <country>
+Venezuela</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3c2l263f2m342q1o2j3g2h1o36352p3m3m3b2m2j1p2n1k332b373h2933372k37263j1o1f1g352q2c1p3k1n1p3o1b1j2j2i2n381n3c2a3g1m1f2q2h291f1b2j3a2f243d2f27362n2n1i3m2c2p2d1j3a26381n2o2437371t1t_212c2j32223n3g3d322i3p32272h2f231b292j333m2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/323a1m341k25283q283n2n3m3q3737381l1j3m1k382h3c3e1j2d3526373m1k1p2f3e2i361m223n3g2a3q3k21373f3g1g3d3l3b23231l2k323m3b3d2a2j3f262h3e2d23353p2j2b1h2k1b2p2d1f3f3e2p1m3d2e1g31371t1t_3b3q252h1h2m2j361l1i3i2l2n1j24252j2m3g2a383n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+2</num_votes>
+    <num_positive_votes>
+1</num_positive_votes>
+  </item>
+  <item>
+    <id>
+2367577</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2013-08-10 05:50:44</addtime>
+    <hits>
+654282</hits>
+    <username>
+Lalocurae</username>
+    <sex>
+m</sex>
+    <country>
+Mexico</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/381p1k3m1i3o223k352h21221b1g293i2i352m281g1b3n3h1o3e3d2l2q3o3j2e2m2a2n1n232k2g3h3l342o3i2g2d1o3n2a292j1o363n3q1l2m2o3m1n1i2i3f33213j1b3q2f2a1o38361g3l27312e2h241h2m1m3g2d3n1t1t_2n223p2m3q3o3q362e222o2m3q31311k2d2p1i1h3i2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2i3h3n2n2f3j222j2j312o2l342l3c1o34283i2i3c2i283f3n1m2b3j2f353d353n1m1k373b3835332n3q362o3g323n3q2f1p1m2h2m242i1g2p2l283k362k2j233m1h351l1n333d381f3g1m363p3n2k3j3o3l2p3p3l2h1t1t_1i2m282p2c2c3p3e271b2q2j353m1j3e3g2b2a1i1j3n1t1t</pathogg>
+    <rate>
+-1</rate>
+    <num_votes>
+3</num_votes>
+    <num_positive_votes>
+1</num_positive_votes>
+  </item>
+  <item>
+    <id>
+2410983</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2013-08-26 17:08:21</addtime>
+    <hits>
+654049</hits>
+    <username>
+nick26</username>
+    <sex>
+m</sex>
+    <country>
+United Kingdom</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3k3g2l3c313g313k262d3m2o3i253o2g2a261p21271j1k233935343a2b3e2k3k3m383m33392d2b311k2b1o371k213j1p353g28281k26381o33393i2o3p1i2n342338362e39361o333b252m3q2o262m3f3c1p2a1f392h1t1t_343a362l3c3k1m1k212h1m32292e3d272j2h3q353a3n1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/212b3a3d2f382g393q2p1o1i321h1i3a3d293d3n241o3n39233h3j3l21351o333o1j2n3o2b351p1k3q322c3o373m261p3l362j1f3n1h233c3j1f2l282i2g3a2623211j3j34291f353n272c1p393d2f2h2a363c1p1f371t1t_3d3i3i2g233k1p1b2d2c2g21381l362p2e223q2q2k211t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+2420798</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2013-08-30 07:05:03</addtime>
+    <hits>
+654736</hits>
+    <username>
+novita2013</username>
     <sex>
 f</sex>
     <country>
 Spain</country>
     <code>
-pt</code>
+es</code>
     <langname>
-Portuguese</langname>
+Spanish</langname>
     <pathmp3>
-https://apifree.forvo.com/audio/371i261h2p2q2e3o2l1k3j1k3p1j2225262i261h2i2f2a38271o1n2h3q2k3m1g3b1j3c2m332b1l252n3f3d1g313f1k2p3b37363d2h373f2d1o342c3a2e2537313n27353j261m3f1p323i382a263328232a1n21382h371t1t_2c1g2i35363i2q2c2n2h322o3939292f2n1h3e2j2o211t1t</pathmp3>
+https://apifree.forvo.com/audio/3i2d3m293n2o3o3e3f2k281i3h1j2e2a1k2m253k3d3f3d37371m2g3p31261n3k311h31251k3g3f382i3728263j2f3e3p1f1i3f2e3a213n2q3b3f1j1l1f1k36221g2o3h3b2e2d292a331b3c1j3324392i1l263a372o371t1t_3i3o2k282p3g3p2g3a212n3n1g3n2j382e1b2g283i3n1t1t</pathmp3>
     <pathogg>
-https://apifree.forvo.com/audio/2k1k2d242f3n1o3g3l1k2a2f3a34221i1b3q341g27373g312k31222o3d1j2q1l3e2o3b212c3o232n3h1p3b1h2h3533283g3334282m233h3n3p2g373a333q392n2h27341k2k24253d3f1m1h3m211j2c3k1h3k1g3e2j3n1t1t_1k23341o371m391g2e2n3a2k372f1i251f2a1h2o1j371t1t</pathogg>
+https://apifree.forvo.com/audio/3j3m373n2l2n343g3p3m3f3o3m3o2m383c3921261l3k1g2e241i221h2k243c1b1b3m2g2a271h2o1j3o3f263l3q222i2i1h2g1p333m271l1i1o253b35381i3h2k252n3c2k1b3c333l2q2k2p2p2e1o392m2k1k1j3b3k3n1t1t_2g3b292q3a3134343m2a1h1p2g2n3q29351b2h3o3f371t1t</pathogg>
     <rate>
 0</rate>
     <num_votes>
@@ -834,61 +1186,125 @@ https://apifree.forvo.com/audio/2k1k2d242f3n1o3g3l1k2a2f3a34221i1b3q341g27373g31
   </item>
   <item>
     <id>
-7278426</id>
+2511096</id>
     <word>
-hi</word>
+hola</word>
     <original>
-Hi</original>
+hola</original>
     <addtime>
-2020-08-20 22:38:00</addtime>
+2013-10-07 16:32:34</addtime>
     <hits>
-101</hits>
+653934</hits>
     <username>
-revrogerio</username>
+Liliana18</username>
+    <sex>
+f</sex>
+    <country>
+Panama</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/372p383e2p33352l2c2h392k283f31292i2m3l2j3k2o28211g273d282k24263g2b1l2d3b2g2q2p25252p331g3a263p3e3c2g1j3o2f1j38262l3j383l22391f223j3p2238382q2o363q3h3d322e1k2q1j28342g1g2o371t1t_2c3l3e3a393q3i2f3n1p333p2e253f3j371j2l3e1k211t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/1j1m2o332d1p1i2b3m1n1o2i391f1h352q2j2d1g232h282q342a25253p1g3h2m1k2o3f2l3j3p243n272j1n2a1f2e3h1b33213e3a361l2a2c2926212a362i2f2b1n3g1f1n3k2o3c1f1p2d383e2q2j2k323b2n3a2p1m3n1t1t_3k2o28261h242f243l3h2o312o2f371o1j3h3i2f262h1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+2608834</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2013-11-17 04:15:22</addtime>
+    <hits>
+654610</hits>
+    <username>
+alish</username>
+    <sex>
+f</sex>
+    <country>
+Uruguay</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/1k21292l1k1n33233i1o252j332h372j1p3c212d2j2m2o2a392j3k3i1h312j1f2q2q2q1i37341n2835392c3f2e3e1l1j1o361g24383b211o3g213j3n3h1p262m273n341f1h3i2b311g3g1m3h1n2j3a212k1b223o1f371t1t_263l1g3n21321l262824292b2k271k3p273a3e3e1n2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2m3k1g2c1n1i2o2j2929371h3d3d311n1i1n23361b263a3c233m1i2p3a3n242a2k241f2e3q3i37383o2i3p291p2j3m393j363e243m272d2h212j1o2q293h3j1h2o2k3h3d2q2n3k373o2g3c3a3f381k2h2c3q2j3p2c3n1t1t_2l2a3i2e2p3l2e323d3n1k3f27262f222g362n2p21211t1t</pathogg>
+    <rate>
+1</rate>
+    <num_votes>
+1</num_votes>
+    <num_positive_votes>
+1</num_positive_votes>
+  </item>
+  <item>
+    <id>
+2613825</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2013-11-19 01:47:36</addtime>
+    <hits>
+654565</hits>
+    <username>
+Ricardocanul7</username>
     <sex>
 m</sex>
     <country>
-Brazil</country>
+Mexico</country>
     <code>
-pt</code>
+es</code>
     <langname>
-Portuguese</langname>
+Spanish</langname>
     <pathmp3>
-https://apifree.forvo.com/audio/2c3o1f1o3l2m3o3i1l3j3k3m2i3g25353h39332g2629361h293i221o3j3a1j3q2j213c2n3g1l1h221h3h2k211f1o1p29242h3p2a1h3o1m3j2c3p3o3l3k3p2d2d1k1h3f1m2q3d3n2c272c2k253h1f3f21281g24242c2h1t1t_3n2d1b3d1k2b22383739273h2e3j353a2o3a3p212k3n1t1t</pathmp3>
+https://apifree.forvo.com/audio/3l342k3j3d223h3f1m3m3n3e1p3237271f322j3p2o3536291h1f3f22293b1k3a3d1m282n383c393e1b2e371g25372k1n3h29273j3f2c2b362m1k233q3h2n351j3b3p3i2q2e2a1i3n282k1g1p3i1f2k3c29391g2j1n371t1t_311b1g3a313k2p1h2f3k2m1h1o1n38241m273m2l3k2h1t1t</pathmp3>
     <pathogg>
-https://apifree.forvo.com/audio/2j2b2f2o1g29381g1p1f3j2d1k2d1h2e2l322i333c3m212e3i2l3f3e3p282a3c2e282f223d361j1l3k2g2j241o1o221h3o3h3638252j2c2l2n212m381m3j27341g1l1g2i2n1g3c2e3o1n1i382o1i3o2o1k2c3q1p233n1t1t_1i2e392n392g343l24282k252m3a1p33373i1h3l1f2h1t1t</pathogg>
+https://apifree.forvo.com/audio/383l2h363l1h3i272e34232l1o1n1k3o3g2k2i3g22262d1b1o342h2b2e3j3o2j3l2c2m2b2i2o2k2g343k2j1h23213i3m2f3q3f2m1p3n2g231p2a2j2n1f2k1b3e3k22353e2h3m2p223j3b3l1f1l3e393i262h2p1p3n2h1t1t_2j2228253b33213h3n1h1h272q1o211j2g3h3a3a3l3n1t1t</pathogg>
     <rate>
 0</rate>
     <num_votes>
-0</num_votes>
+2</num_votes>
     <num_positive_votes>
-0</num_positive_votes>
+1</num_positive_votes>
   </item>
   <item>
     <id>
-7044294</id>
+2765132</id>
     <word>
-hi</word>
+hola</word>
     <original>
-Hi</original>
+hola</original>
     <addtime>
-2020-04-28 07:16:18</addtime>
+2014-01-31 01:08:09</addtime>
     <hits>
-381</hits>
+22205824</hits>
     <username>
-Sham2019</username>
+JmGomez</username>
     <sex>
 m</sex>
     <country>
-Russia</country>
+Spain</country>
     <code>
-tt</code>
+es</code>
     <langname>
-Tatar</langname>
+Spanish</langname>
     <pathmp3>
-https://apifree.forvo.com/audio/1j213p2e2k3936323e3j3f3c1n313f3h2h1f3e223f2j2m2a3j3a212q2c221k351b2b1j2m1i2c3p38381b2k2m1m373m2n2a1m3q2k1l3p1f2n1o2d1m3c2h1i3d2o371j382k3q1k2q1m272g3c1i291l1f2e2a361m3l272h1t1t_322q2a3p321p27383p2f1o212q3d1j343l3q332n27211t1t</pathmp3>
+https://apifree.forvo.com/audio/2m2q3o3j2b372o373i3j243l3n1p1p1p222527362i322q2h3g2e213l2h391p362832213e291b261b273c3i2d3q1i2m2k2m1j2l223p243n2n3g313i2i312i21211m3e3j2b3l1j2n1i323e372e3h232g3p3d3q2k2c2q211t1t_312k362i3i2d3m3a392n212e2m232p1j1j2k2a1p3d371t1t</pathmp3>
     <pathogg>
-https://apifree.forvo.com/audio/1l1f1n2i2q273p2e3i3c3k1l2g3534352f1g2o2n3i28242c3n2h252c3n2d2m3n3o2m343p273l3e293l2e3c1h392i3h2d2a282g2p1f2o3h2l3a2e2k1m2n3p3g342436282g2e1k3k1j2a2q3f2o3o1g212c2f3b31292i211t1t_292c2o2n232e3q1o332m2h25211g352g2g36222h1k211t1t</pathogg>
+https://apifree.forvo.com/audio/1b353j1b3p2c1l322e3h2e2q2j2o1g1o32261m3g1m3b3h1m28242d3f2c3k3e1l2e3d2k1l212a29371o3427211n23233n3p253i3n3l1k1l3c2d2e1b3f352n2a2p33382j1g262q393a3o2j1k1p2m1g2o3e2h3f3k1j3h2h1t1t_3m1m1f2j2a2n32212o1p2h212e2i23391n313a373k371t1t</pathogg>
     <rate>
 0</rate>
     <num_votes>
@@ -898,29 +1314,61 @@ https://apifree.forvo.com/audio/1l1f1n2i2q273p2e3i3c3k1l2g3534352f1g2o2n3i28242c
   </item>
   <item>
     <id>
-1899206</id>
+2817045</id>
     <word>
-hí</word>
+hola</word>
     <original>
-hí</original>
+hola</original>
     <addtime>
-2012-12-09 08:04:49</addtime>
+2014-02-22 20:38:37</addtime>
     <hits>
-1978</hits>
+22205763</hits>
     <username>
-activexcth</username>
+beitter</username>
+    <sex>
+f</sex>
+    <country>
+Spain</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2l3d2e1g3b1h1m1f1p2i2a353o3f2o3m212e2b3b1g3g3h2e2m292n371i2o3c3p2m3o2e2b392k2f3q3n2k213j3j3k213o2m3c1i3h3m1f23342m1n3m3o3o2d22371l333f2a2c2k1g2i242j272l3m3o233k2d2i35251f2h1t1t_222a2i3k2k2j3j1h353e1h3g3c362929392a1n382l2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/1k362m3o3o333q3n263k2o2o3b2a3l3q3p283o3i292l3l2j1p1n1i1i311p3f3o3n2g2c311i373d282h2e1h2d1k2b3i26353q1k2n1p2m322c3o2a353p1k211g2p353m233p323f2e332m271h311h2q1n353q311o1o253n1t1t_1i271k1n383h1i2c3j1k333b1o2j342g1o2g251b2k371t1t</pathogg>
+    <rate>
+-1</rate>
+    <num_votes>
+1</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+3229750</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2014-10-08 17:04:38</addtime>
+    <hits>
+58652</hits>
+    <username>
+prinva</username>
     <sex>
 m</sex>
     <country>
-Vietnam</country>
+Spain</country>
     <code>
-vi</code>
+es</code>
     <langname>
-Vietnamese</langname>
+Spanish</langname>
     <pathmp3>
-https://apifree.forvo.com/audio/2g1j1n3a1k1b273p2c2k3l3j2e2d3p1k1l3m3d222i382n2g2n2j2f1b283f1l2h2g2o1b3h2h343i3c2f1o362e1h3h3m1p2g3a3q3b1l2f3a311l221h3j3o26321b393e353a3q3l2p33243p3c3n2b1f3c2e3m2l1l2h2m371t1t_3n3l3l3o1k281g3532371h2d3q252i323p1p3q3j1n211t1t</pathmp3>
+https://apifree.forvo.com/audio/223p1h3o1b2o3m3q2b243f2c3l1n2f3a1k2f2o3p2m2m343o311l233n363a3a333j3n2b2f332e3c1m3b1o2b3j1m1p3k212p2g1i3m2o2k2j3o2h243p3b3o2e2o2d2n233c223c2m3g271i2i3d35312k282q2k29383d33371t1t_371o2e212e2c1b3h3o3e2a1f3b2g33222a3d252e282h1t1t</pathmp3>
     <pathogg>
-https://apifree.forvo.com/audio/2l3f2l1k2f333c3q2l3p2b371f362g26322m2p2b293m2f2q3l1g3f2b3b3d3b3f2q3m3g2o352c373f2q2431292e333g3a2g2i3i223d362o2q3j3e263b241f271b2g2c233o3e272m27363f3j222f3p332e1k3i2b3i323n1t1t_2n3g1o2f32281l2o3c2o2m1l3c3n2h3c3b37283321371t1t</pathogg>
+https://apifree.forvo.com/audio/2q3b3q3i3m2i22213l1p3q2o27213b2i2n2q3b3i1m2d2m1n3l2l2g211m2b35212p3c2a1l272q3q32362f232a323k372g382a3q282o2h331h3n3e3f213a1k2q3m2l261i332q2j2b1o2e3c1i2f362d382c2f3p39251n2h1t1t_1i2o3p253l1m2d2m363o3o3e1o1i36353q3e2n1i363n1t1t</pathogg>
     <rate>
 0</rate>
     <num_votes>
@@ -930,29 +1378,61 @@ https://apifree.forvo.com/audio/2l3f2l1k2f333c3q2l3p2b371f362g26322m2p2b293m2f2q
   </item>
   <item>
     <id>
-5051765</id>
+3245859</id>
     <word>
-hi</word>
+hola</word>
     <original>
-Hi</original>
+hola</original>
     <addtime>
-2017-06-16 12:15:05</addtime>
+2014-10-18 10:43:23</addtime>
     <hits>
-3307</hits>
+22217907</hits>
     <username>
-lonngoc</username>
+kiraaa</username>
+    <sex>
+f</sex>
+    <country>
+Spain</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3m3j333q211g361i1o34282n2g391o1l2q2h3b2a2l371g3c3m273124331i1k3m2c3p3e343k252e29351n3p22283b371o2f3o313b3l3i2g3f3g331b3q2p342j21252e1b3i251h1n2c2e21243q38251f3o3q37361g36371t1t_363o2c2f21291g2b3m1h382a262a282n3c2124353b371t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3j3b1o2b3a311o3d1b2f2l1l3i3l3m221n2q22323g1l353d3n1f1h1k243a2c2f2b1b3h2k2625391b3b24263q211n2c3p3g1k2h3k3e1f1g3h3n3529253m373j322n2f2o211j1f212i31332e2p3c1i38263e2o2h3333211t1t_1b3c3b3k31281m3m1k3j292d3q252g3m2q2l1b28382h1t1t</pathogg>
+    <rate>
+3</rate>
+    <num_votes>
+9</num_votes>
+    <num_positive_votes>
+6</num_positive_votes>
+  </item>
+  <item>
+    <id>
+3248395</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2014-10-19 18:09:37</addtime>
+    <hits>
+22205645</hits>
+    <username>
+crlsM</username>
     <sex>
 m</sex>
     <country>
-Vietnam</country>
+Spain</country>
     <code>
-vi</code>
+es</code>
     <langname>
-Vietnamese</langname>
+Spanish</langname>
     <pathmp3>
-https://apifree.forvo.com/audio/1k252k3f3p223b241f1j3m1n3h2b3p273o1l1m251k1j2k1b2h232d3c3i3d3a1l1f1j261k2g2a3c1p292d2j2c332j212n1h3c3e3d2m3n1o3h1g3q3m323b3l1o372i2g2q2o313e3b292721283k263p2a3d2e3l262p1h2h1t1t_343n371l34252i2e3n3d2c2f3g2g2g222m3p341o1b3n1t1t</pathmp3>
+https://apifree.forvo.com/audio/3f1m333l2q1h342h352q212h3h1k273n292e1j1i353c2f1o3e3a2n3q2p3h3e233j2b3n3b2a2g1o313b1g3e1g28332n1m2a3m1h1h311o2h343h372p361l3j2j2n3o3m2k2c1j3c372o373p3b2i1k3m1b293k2j3b25312h1t1t_3a352k3b221i2o2j2f272i252c312k3i1k3f1p2q24211t1t</pathmp3>
     <pathogg>
-https://apifree.forvo.com/audio/3i383b392j3l2k1g3j3e1b342f1k392c373q2l271j212l34252l3i3e3j24253j3a2n2a2n3d313g242i1n2h371p3e2629362l1f1j2h2a2c3m273k251p3437323j243d1k31332j2b3a2i3m1j3m3q363l322e38262a273n1t1t_272h273828312l23243a39243k3h292e2g213f2a263n1t1t</pathogg>
+https://apifree.forvo.com/audio/2j323q2e1h373g2m1f2e2p2a243c2a3a3b371f1l1o1h382g3p362p2c1o1p2d373q273f1g3p2i2c1b2434382a211n2a1k272h333o3f3c1n312o1j2f2k3k3p3j3j3q223d1f3k2k1l1g1j243f3b362c281b211b1h3m3b2h1t1t_2m2h3b2m2j2h1i1n271m2h1o313j221k2o3m291h322h1t1t</pathogg>
     <rate>
 0</rate>
     <num_votes>
@@ -962,29 +1442,29 @@ https://apifree.forvo.com/audio/3i383b392j3l2k1g3j3e1b342f1k392c373q2l271j212l34
   </item>
   <item>
     <id>
-7371315</id>
+3305213</id>
     <word>
-hỉ</word>
+hola</word>
     <original>
-hỉ</original>
+hola</original>
     <addtime>
-2020-10-11 11:24:21</addtime>
+2014-11-19 22:34:37</addtime>
     <hits>
-3</hits>
+22205678</hits>
     <username>
-huynhkimhieu</username>
+Teknad</username>
     <sex>
 m</sex>
     <country>
-Vietnam</country>
+Spain</country>
     <code>
-vi</code>
+es</code>
     <langname>
-Vietnamese</langname>
+Spanish</langname>
     <pathmp3>
-https://apifree.forvo.com/audio/2a2c2m1i36213e2p22243m1l321k1o2k2p253a383g3m333l3d2q1g3a2f3c3222212p2p1p222g3p3n1n1i25332m1p2l2d362g2e2i2f393k2c1i393c342h3m1h1g2c1j3f223f1b2j3g262j3q253i382q211g3o353b2b3n1t1t_2k1o2o2e2f251n251f34381f3j222l331k28213f283n1t1t</pathmp3>
+https://apifree.forvo.com/audio/1o3323261n2o1b3i392b293f2q2k2g2p253k3b243c2q3k263q1b3a2j2l2p1p2q2o3l2h2e2b323k2i3e1j2m281l292a1m3q3d282o2j392b2722252m1g2n2c293e3d1l3n3k1m29341b373i362l272e313n26251j2o3q3n1t1t_3o3a2o3l2n31332a331l1b3a3f27331b2n3q3d2q323n1t1t</pathmp3>
     <pathogg>
-https://apifree.forvo.com/audio/2g2534273o362e283o1m33322q1h2a3a3j3n1m312o2l3j2f271i25371o321b3n3d1n3q323f2c2j2o2j1m1h2n3h2n3b3m383k2g291j2j363f383l2p1b3i1k3d392d1g3f2n372h231g3h1k2m2a21223j2f372b212g1k2h1t1t_2c2p382l242n1p2k313c2b3j31252e1g1l293m2h1h371t1t</pathogg>
+https://apifree.forvo.com/audio/2n382p3334231g27253a2a3b323e3h3j2i1i343h1k1i3n2n3l363h3l333q2a212n3n1n3j222d3p1h3c243c2b2c2g1h2g2e3k3p3f2i212g2o1j2j3e273f1g1n262q2f3l2p3o3f342l3q312i1h2a2k332h1n292n1p3e371t1t_271g3p3c3h1f2n333c313p2f1i2q243g3e2j2l3g2a211t1t</pathogg>
     <rate>
 0</rate>
     <num_votes>
@@ -994,29 +1474,29 @@ https://apifree.forvo.com/audio/2g2534273o362e283o1m33322q1h2a3a3j3n1m312o2l3j2f
   </item>
   <item>
     <id>
-96567</id>
+3417378</id>
     <word>
-hi</word>
+hola</word>
     <original>
-Hi</original>
+hola</original>
     <addtime>
-2009-01-08 22:15:44</addtime>
+2015-01-26 02:52:57</addtime>
     <hits>
-1002</hits>
+58668</hits>
     <username>
-Vortarulo</username>
+mayorcatorce</username>
     <sex>
 m</sex>
     <country>
-Germany</country>
+Spain</country>
     <code>
-eo</code>
+es</code>
     <langname>
-Esperanto</langname>
+Spanish</langname>
     <pathmp3>
-https://apifree.forvo.com/audio/22352b2m3a3h38263o1b2n3k3f3q292c313m2j1i34233m2d252328222k1b293c3d2a3f1i233l373p3c3c3k3m232h3p24272m1n2j373c343e1o3j3n1h1n282f3c32361m2o3a2n2j3n3i3i2a211b3l2c2g2b3m352e3m2h1t1t_371g2o1p3i2g2l1j1j3i1j3f27321o2h3d2h1n1l36211t1t</pathmp3>
+https://apifree.forvo.com/audio/363j3a2g3q213a1o34332k3g3n2p382k31311g2m3k1j2c2i3232362h35263o312o2d232n3o39273l2b263m2j2k3h1g2d1b3l342g372q372n2c2q2p2q2c241k3m372m2l1j2c2o1o2p1n2g262k2a3g233o3i1k3e3236371t1t_2h2b1h3i271b2l1h2c293p2e29383a3k363e35262g3n1t1t</pathmp3>
     <pathogg>
-https://apifree.forvo.com/audio/1l2q1p2a1k3n27331l3p393e1k242m283i233n2m2e3j3i2c2g3e283k3i2g1o2e3g2k1p342e1h241o1h2q26252f2n281b2j3b1h3m2q283i3o3i372n3c2i293q373q1j3j281h3d2k282e253q213b1o3b2e3a3m283a1f211t1t_263e34383d2l3i2o2i2k3o3f1o34252m2i273a2i3q3n1t1t</pathogg>
+https://apifree.forvo.com/audio/3o3k3f2m3j3g1b321m3a2e1j2a2n1g383p3p261f3h211m1p3i2k1l3p2i2n2i2f2n3c2a3c31222l2d2a241l1l3l3a362g333q253h253p2o1k1n1g1n3b332e353l2l37291j2p1m2k351b311j271o3h3c3m2b3a253n3e371t1t_3b22342m2l363f293h3b1o2j243i383b363k1j2k3c211t1t</pathogg>
     <rate>
 0</rate>
     <num_votes>
@@ -1026,15 +1506,847 @@ https://apifree.forvo.com/audio/1l2q1p2a1k3n27331l3p393e1k242m283i233n2m2e3j3i2c
   </item>
   <item>
     <id>
-6417245</id>
+3531172</id>
     <word>
-ĥi</word>
+hola</word>
     <original>
-ĥi</original>
+hola</original>
     <addtime>
-2019-12-11 22:10:52</addtime>
+2015-04-04 23:52:14</addtime>
     <hits>
-10</hits>
+58427</hits>
+    <username>
+ichje</username>
+    <sex>
+m</sex>
+    <country>
+Mexico</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3i3e332m3d213g1m263d3b332m292q331h1j371f1f3q1k262d3b22393c23262m323n2h343l2i1p1j2g3i2d2e1o31352m2o2b3h3j282a242h3l262o293g2d2g1p2e2d3839392c351n3c2p24273i1l2i2o1o1k3b2n3f211t1t_3a323m291b283f313a2m1o1g2m3q2b3d3p2i232f1i371t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/1i32312m253k3h2p22291b2i2j3a3h3i261n2a3g3p28272e3i2c2e281p2q1k3q1h2l223l1o2n363n3d233d1f2j2p231i212g22332927313l2f27293p323j2f1b1f251l1j371k1g292i1i3m281j1g1n3127261j223e2h1t1t_2k3h3d1h333839352833313926223k2k21371i313e211t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+3740350</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2015-07-13 06:56:07</addtime>
+    <hits>
+58311</hits>
+    <username>
+josueesosa</username>
+    <sex>
+m</sex>
+    <country>
+El Salvador</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/1l2o1p25263h3l28283e1g253p2o361m1l383a3225232f2j3a21263m1h2c2c25373d1b3a3g1p3p3m2o2m2b1f2535381o3c3i3k32292m1l3a21363b1l28342e29291k231f3i2j1b2g1m3j352c3d2d1f362l262m38373n1t1t_3f293125222g36282f1f1h2d2928243j1m3o391l2i211t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/1b2p271b2p1g332l2c2q211p3k21292i212d3d1p3m1g353h263h213p243p1p2m3q372q3f2g37382d3f2n1m2e3g1n3833271m2m2o2929293l1j1o26322e1l3n1p233o38392b3g2c1k213n1m273b3b1k1l3f2m3d1n3k211t1t_3i1l2p1l313b392f3k2e2i1i263i353m333h2b2k283n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+3740499</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2015-07-13 08:57:20</addtime>
+    <hits>
+58760</hits>
+    <username>
+Yadai</username>
+    <sex>
+f</sex>
+    <country>
+Mexico</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3m2p2d2f1m313d2f1n2g323f29321g3j1j1h2g3d1j3h2439292k1m3e293p2a2c3m382829313i332a253i2736382m3k2n373n2b3i2e392a1f3g2q232h341f263225281h2e2g3o3a3j2p2b1p3738221g3a2337323m2p211t1t_3d3g1i34351f3n2o1p3m33352c3i3n371k2a3l3l1o371t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/1n252b232m1n271g1m283m3c3k1n3q1o3a2i3c2m1m3l25331l253k2e3c3o2n21353p2g1k2h282j1i3a1n3p1g3i2g2q24212i3o2l2q2q1f3o3m1n2f3p373o26392o23243d28352c292m253d2b2d3f282c223c2e3l1m371t1t_26362f3l292l2d2o1l1p3a2f2n232g1l1k211h222d2h1t1t</pathogg>
+    <rate>
+1</rate>
+    <num_votes>
+1</num_votes>
+    <num_positive_votes>
+1</num_positive_votes>
+  </item>
+  <item>
+    <id>
+3856967</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2015-09-14 08:01:48</addtime>
+    <hits>
+58388</hits>
+    <username>
+ctellezn</username>
+    <sex>
+m</sex>
+    <country>
+Mexico</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/331h1h1n36363l1l3a2j3j3e2f1m3d1h2q2133211i2j312g1g33282l1k2e2e2b1l1j3i2839372f392f2h1l323p3b392m3238262j2i2a3m2k3h382k2i1h222n3q2a25233d3e2p3k24312e1l3a2n1b1p3p1j3i233g2b211t1t_38242c372l3g34243k223o273e232m2e36362n2h2o2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2q2i1m2b3e2n3k3i223p3c2l3e3h1m3d1j3p3a2j3o2e3a1k2n3d2n343b3h3i342o3c3a2b3i1p1f2534221k2g1g312c2a313h3e1m2c1i243n1l3i3d25362n3n2k3o3j27331h3e3h3f352g1i3q3k2c253j1j3a3m3m3l2h1t1t_25341h1h3j3j3922222b2p1p1n2c1l3b282n2q21293n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+3995763</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2015-11-17 08:27:02</addtime>
+    <hits>
+59308</hits>
+    <username>
+diegolacra</username>
+    <sex>
+m</sex>
+    <country>
+Spain</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/1j3k3c2b2n1f333l352n391o3c3f2j3j2f2p3c2g222q3f2o2d3731293b1k1i2b311o241h1k223f3h3p2l1n3b1p3i392n343p1n26361p2p3q3n233h3l312h2b2b2l2q2l261g3h2j1l1n26333h2j3838282g2k2c392n211t1t_1k1n3e373m3q2n3l1j35252n3d391j1l2m291f2l22371t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/1g26341m221g353h262k283e3i21231b1f23243a331f3p242d1g2b3l3p3g2d313b3p3j3d27291h3o35342f2i383i2d2k1o2m3b211f2p253n3a3o1j2e2b1f2c3j1f38331p2n2f1o3h223133382o3k2n1o2a3j2n2h2q2h1t1t_3n1n3b3l3m2b342h2i3m2f283o2f1n363837293729371t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+4014099</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2015-11-26 21:04:48</addtime>
+    <hits>
+59351</hits>
+    <username>
+tenpao</username>
+    <sex>
+m</sex>
+    <country>
+Spain</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3p3o232n27353i253j2427233o331l2c1p3k1i1b232p2b3g283m2l353339382e3j3n211g2b1o3j3l213n3k222f2e33353n272m2c222m313f3e3p2n373h2g3e3o313d361f392b2e3p2c1l2933331k2j3j3n273f2d2j371t1t_3o3q382a3g262f2f3n3g2a2q262c2e1j1f2i3c2a213n1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2g1i2b3c1h2e263j35251b2h3j1k3j3o1b3f1n3e2h3j2l212j23321b263a3g28312i1p252k282g39381b3q3h2o1h2b25271m3a392g211i233g3c1h281j1f2b3b3p343g2c2939381m343b3f1b3n1i2p2c2f3d3i3f2o371t1t_2m343o1f2l2i3a26291h3f341g382h3g2j3b1k1m31371t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+4307067</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2016-05-07 02:47:40</addtime>
+    <hits>
+58380</hits>
+    <username>
+andressamael</username>
+    <sex>
+m</sex>
+    <country>
+Mexico</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/373e2l3i1h3h223i3c3n3i243p232p3n2e2e2c231j2q2h27242j2l2n312m3c2527292k1p3d311o2b3e243i3c1m1f3g3e3i22233c241n3f3337313q2p3p363l2g1f1l3e3q382f282k1f352f2c3h2m1f2a1p261m3525371t1t_1j2q3e2a331p272i2b393n1p3d3d393g2h262g1h3p211t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/221l321o282f3k1j323j1j2k2a2k3f221f272q3j27323g3d3c36313d322a2o252c1b3j2q2q1l3o3f2e2936312p3l293i361p3h312k221j252n341g2p1j27291p1n341j392q3e312p2j3b2a3p1f3e213q1b3p322j3k211t1t_2n3j342f3b2o263o252i1p2p2j1f3m1o2c2j3e3f22211t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+4525651</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2016-09-06 08:51:17</addtime>
+    <hits>
+1961</hits>
+    <username>
+ignasiBCN</username>
+    <sex>
+m</sex>
+    <country>
+Spain</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/311n1m372b1p3g2i3g3m38393c3k1l35341h282h1b271p333l341p353i1g3b3p2e3l2933232b3a382p3e2a3c3d1g1j2k1b3a2g3o3j3c311f3c1o3q2g2l3i3b2j1b3h1b3k3p272l2h3329392q2k1b343l1b3n383a2d2h1t1t_3a2c2d36392e2j263m2n273p2c2435261n3g3j332i211t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3h2i1f3d2l2b312g2g232j22213q3m2p241p3a251j2f3i273i3e36283q373e3l2o3e2g1o3e3b3j3e3b1o273h2h353m3d252o2j1h2l351p3f2d3q2j1j3622353c1m1j1h321n1m1n3b3a1g3o1p1m2e3b1m213o1j1m27211t1t_2q2h2l1h292b3c3j1g2i3a1l2p21322q221n3i34232h1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+5120217</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2017-07-30 03:19:16</addtime>
+    <hits>
+2114</hits>
+    <username>
+EleazarOrtiz</username>
+    <sex>
+m</sex>
+    <country>
+Peru</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2j2o3k3f3e383d272k3n342n2d3j333621332b2l3d2l1o1b32392c2i353b2k372c2d3m253o2i2l3b233k1k2i2i1k3o2b253f28253a362k3j352f1b3l3d2m272f2j1m3o363g392f1h2o3i373h3a3e2e2k22341o1k2g211t1t_2f3c32252d2d372h2525211m393f282p1h1h2j382l371t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3d3b3k2m1m1m1o2a382g2e2e2k2b291i3o3o2m3i1o3p3g1m2e1o1n292q3j3g3j352n3o2p261h371i3d1j2m1i3m2k392e2k2i342i2a312e352e373h3h241h322m263d1j373n3a213m2m2n1j231o1l3h1i1o3c243n2o211t1t_32363i36271l2o311l282h3n352b252o362l252i3f371t1t</pathogg>
+    <rate>
+2</rate>
+    <num_votes>
+4</num_votes>
+    <num_positive_votes>
+3</num_positive_votes>
+  </item>
+  <item>
+    <id>
+5282270</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2017-10-24 19:20:41</addtime>
+    <hits>
+493</hits>
+    <username>
+Ymir</username>
+    <sex>
+f</sex>
+    <country>
+Mexico</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/221i282n25253p221l3o3f353d2g1f3e2f2b2p2k381i3i1p3l1b382i3i1o1g353h3d1n2h1f1l2a3c3n2a36293f2i262b3q3a2e1n1k1k38362p2h3d263a1m2a373h392h3a241j263c352m3m1j2m2g1h3237331i2p26371t1t_243b1g1g313o2g333g3l252l3c34242j2n3b2q2h372h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2i3p3p3o3a3p281m3j1i3p2n2e25253a1b343e1f3k2h2h241k3q2m1n1j3q383423363h37252a3f3i26331j2b3a1m3a2n1j2l1j35211m3i2h393f3j3l3j1m3f1f241n1n1l1j383n2n2o3l2c1k3a3m3d3c1k282k3o2g211t1t_3p3e2h1j2j2h2p1o312f3h3d3a2h2l3o2o2p3p2g2i2h1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+5283029</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2017-10-25 12:00:29</addtime>
+    <hits>
+2160</hits>
+    <username>
+Malvarez</username>
+    <sex>
+m</sex>
+    <country>
+Spain</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2b3c222j2b383f3n3l1b351m1b253f233c3i38222b1b2l2g241m2d222c271i1f222d3d3d393k223n2a1i2m3o3m2h2j1b2i2j341k272q21382b26243q3b3n1l1h1m3l2k3c1h2i2o232g3o1g29353e32332c3q3d1l34211t1t_3o1p1j2h37331m232k2n2e3m321n3p2d2n3p311m39211t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3m2n273a373g3n372j3b3n283b273g2e1k221k2g1i3i2e1o39342f3c2g1h24263k2c3b2a261b24272a1b2i1m3m323f312h292o3337221m1o2e2j283i1b2d351g3g2c2n3k3a1p232e2f3c2136333d342g27323q3a2f3n1t1t_2e3q282o3i2n2m3934383o332f322a3n3b392m3i2p211t1t</pathogg>
+    <rate>
+-1</rate>
+    <num_votes>
+5</num_votes>
+    <num_positive_votes>
+2</num_positive_votes>
+  </item>
+  <item>
+    <id>
+5547899</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2018-03-04 14:57:50</addtime>
+    <hits>
+1666</hits>
+    <username>
+beangil</username>
+    <sex>
+f</sex>
+    <country>
+Spain</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2426213l1f3l1j3j242b2j1l2n2n2135273535242h243b2i261f2o1j3k3p3b1p2c1h362o391j3n2334362g1l1i1j253b363i3i3m3q3h3k292h3n2m2l342l32343k37323e312f2b3n1i3d323b233o2b3n2f382d3f313n1t1t_2i2a3j3e1k3k2e29253c261k3a372d2l281l2a2o3b371t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/1l3i1l2e24353c34392q1k1g322g2q2o2j1o392h343j2a3b271i3p1p282d242q2d283i3q243p1n212g1b3j2734282a31322e29231n2m1m3k1p3i2a35263i212h3e3m371f253j342g381k2q312k371h37283e342o21371t1t_2c1i1k3g3d3q321j3n1k392i2p222a1g222e36223b371t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+5606812</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2018-04-04 17:15:34</addtime>
+    <hits>
+580</hits>
+    <username>
+cesardavidmor1</username>
+    <sex>
+m</sex>
+    <country>
+Colombia</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2823263929362j1f3k32282o2k1i1k2p39263f1l3m1n2p3h2m382b26313l281p1k3d1n2p2a3l3d1g2q3h2p2o3d2b3n231g2b3n1j313p213o1j3i1h2k372i3c2j2m273k2m3k3p2p353c2e3q1n1l2e362i261f3a22233n1t1t_25383a28363k2d3i2m1b1p2o243k1g263c2l1k2337211t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3c2a3l2g29352h3m2f313c1p1f383b1h1o263l313f3729333c383p363422263q1m3b2c2k3b1j1m3q243g38342n3l321p31241o3f3p2c1l2a1m1h2d36282j2f1h3h382o3j2f251n1i2h2a32262o3k292m383e27393a371t1t_2d3n2p3o3j3k322339243l2c3b282p231f38323m392h1t1t</pathogg>
+    <rate>
+1</rate>
+    <num_votes>
+1</num_votes>
+    <num_positive_votes>
+1</num_positive_votes>
+  </item>
+  <item>
+    <id>
+5657461</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2018-04-30 06:59:21</addtime>
+    <hits>
+517</hits>
+    <username>
+cancion35127</username>
+    <sex>
+m</sex>
+    <country>
+United States</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/1j352h3i263i391b282b2c1j333b3c2n242d321b1h3g3k2f2m3q2b2l2i3c3b251f2b3d1o2i3q262k3h1i3o231i3f2e38383q1j2d2o221i2739353g2p2o1m1h2p1k2n3o34381n3g292j372n261h2n1i29392l312f2o2h1t1t_241o252h382b1f1j3m24213b3b2e373q2f2d3c2m2d3n1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3o272h2a2a3f2h2c1m2i2p3o393o3k3o3p3k361h2q262b2c322h2b3e3g2d2n2f313c2d2j2k3f2k2d3m2139231k2l2e3b2l1m363f3o2p222e39382o1b3k223o2n2j272p3g3c353b2o28371p293f26232f2g3333242k371t1t_3k3o223g382e3k392l393d2b3a1l1p2g22211n2o212h1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+5748345</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2018-07-02 15:25:12</addtime>
+    <hits>
+361</hits>
+    <username>
+abnernick</username>
+    <sex>
+m</sex>
+    <country>
+Peru</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2h2a3c3p1k3n2a3j1p3h1i3p293n381h2g22313b2h3a3e333i2p2h3l262h1b1k2i343n391i2l3c3n3m1n3923382p213b2b3i3e1o1j2m363d1i31262g223g3a3h2a3o2536331p3b2k1n331g3a2f1j2i3m2q1f342h23371t1t_293k2a2o292d2f2m243q1n3b261k273q1o3m24313m371t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3b1k2c1l231h2c213q1l1h2n2h293l1f3i3c313h1p2o1f2c3e3a262g23253k2d293p222i2o1l2834262i2p2n3q1n2n1g2p2g313d1b1o3d2a1j3p26383o2q343j3q3i1i271f2b3j332o3j2b3f37352c2c1g373m3d36211t1t_3c3b392p1h3f1b28322h3l3i231n3522363p36382c3n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+5796264</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2018-08-10 02:21:35</addtime>
+    <hits>
+341</hits>
+    <username>
+adgonzalezl</username>
+    <sex>
+m</sex>
+    <country>
+Colombia</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/24231l1h38392l3b2n292c261f2m1j3j243h3g1f221i393e2p2h3j1l1f1h3g2q3q211h352p232e1p3h3f391b3e2e271p2o392f3b212p1i3n293k343d3p1g1l2i3l2a1l27343m3h272f1n3a3g2m3d1j3h1m262g2d1b3n1t1t_2b1f2j2j1b3k271b3f1n281m243h271n2b293f1l333n1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2p1g1k2e2o1i313c2m282o2h1p2c2a1j282m3n2d313c3g2o381n1o221b2k322d24323c292n3l3k2g391h3324382n3b2d2h38253p34293j331m213k2i383e1o3m3m1f243c342j3p1g3236351g23241b3o25282b2f1p371t1t_2f2a2f1k3n1f3k3n2b3p2k363f3i322l1p3h3j3334211t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+5821322</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2018-09-08 05:18:16</addtime>
+    <hits>
+378</hits>
+    <username>
+camilorosa</username>
+    <sex>
+m</sex>
+    <country>
+Chile</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/351h381j1b1g2h28361f3d2n3d1p35372p331j272h371m2j372h2i1g1h2i251b233k261k2j2j3p38293g2l322h1n363b3b3m39263226332o271j3c2a3m292j3c2q2e2o1n37342d1h1o2h2l1k32251p3a2f363c1m2k211t1t_33243j1m1b371p2531222e3o3h271b1f3i2n25351o2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/291i28362p232n352o3e1f233d232o2e31243c3i3f281k3i1j2c3d2e3g21272f3b1l3m26233e1i362f3h353e293j24251g3c1i2m2p3h3b243o1b3l2g2p222b282e37212d3q313e3q2k3k2326211m293j322h3o342p3n1t1t_2b2k2e2j2e3m3d1b362k2o23242h3h342c27363d2m3n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+5948082</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2018-12-22 18:13:27</addtime>
+    <hits>
+197</hits>
+    <username>
+SlowSpanish21</username>
+    <sex>
+m</sex>
+    <country>
+Peru</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2526391m313j263d2e2k1h2l3k2f3f3k2a1m1h3e1m2n3m3q3b3p3g3b3f2b31341p1g3i2h2n392a2p1p3g1m273a293e3d2b292m1j392429293a3i2n241j1o3e1p1o2m383i362d2o1j3136281i2k251h2k29313c3o3g211t1t_353c2q3a291b2l3f1l1b3b2p3f1k25262d34352l33211t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2d2g353j3f2l2h211i31383f1h3j2f3k2o1p2d3j1b3g1m2c1p2q1n3i3c2h383o1n212q1o212j3b3o3n2b2l33282f1g231f36392f2p333b3n2p272b1b26221m36352d3b2i391g2p2c34332d373o2o3n223o3c1k1b3b2h1t1t_2c1l253j3m2n3a1k313q2c1p3h1n2g291m2b311p2j3n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+6282732</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2019-08-28 23:22:50</addtime>
+    <hits>
+1077</hits>
+    <username>
+camarpi</username>
+    <sex>
+m</sex>
+    <country>
+Spain</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3f1l3b3k2229333e3n253o2b22232l1h253f2m283f2135343b3e373e2n2b2n362m3o3m2p2e363e1f322l353o2n2n3i3d3j3j2o3n3h2p262h323q1p3n3h2p2f1n2528342l2d3j2n2o3l1o241m25223p1n2j2q2l392i211t1t_3l293j2k3222271o232f3q2m1j3n2o3i3o3d263h3n2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/1l2c3h2d2e1h3e38392l2e2f1n2c2d2j372p362n3n1n2h3j24243c2i2q3g22292437392428222q3o1i283g2m3p34263n1n3k2k3i383l2o2a312c2i1g371h3d2g3o232m3d2e1h291n381j282h382g2k3f2g2j3q233b371t1t_3731372n3m1j3d243b3i3f313d2l1n3e3d3h253q1g2h1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+6383969</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2019-11-20 21:44:26</addtime>
+    <hits>
+97</hits>
+    <username>
+luisdamianprimo</username>
+    <sex>
+m</sex>
+    <country>
+Argentina</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2n3535312l3f2f361n3n2q1g1k22323i3a3k3k3a362g233e3m3c223o3a3626352e3k3l2k1b3e282q352c2j3o2l361h3g3c3q372n333h261p1m3f2m1p1g3c1b3g2p3j3k29223529291g2m272p382q3q2o2g2e1l1m2i211t1t_1l263931251l1o2g21242c1o2h3p3b2g32253b2b37211t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2c1f271b1k3b3g313j3k35353h383e22231p3p1l3e1h392n2a2a3c243d3j1l2l1i1h343i3b3i1j25213k3c3c333p3c243h341g261m2623361j1l3d29261b1i3b3p3m3j331j2i2i2i2d272h1m3p2l2f3h2q2g29381j371t1t_1m1f213f311i1l1b2m2b1g261g223g2b3k3f241m3q2h1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+6419322</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2019-12-13 02:19:09</addtime>
+    <hits>
+90</hits>
+    <username>
+Orphneus</username>
+    <sex>
+m</sex>
+    <country>
+Argentina</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3l2h2e3l2p393j2e3e3i272j3h1h2g3n271i353o1p2h1m3d1f1n312k292c3k26362l34353q1j283e2k292p23261p3m2e1g2a2g2c1l2f38282b1b2i283h2o3i1h1m362f1g2p3f292b3l223e3b1l272n21283n2g33222h1t1t_3l2q2n2g1m3h1o1i2l2a3l2n2h2q3k3b2h1h371m2d3n1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2g1l1p3p221j3631242j3n1o2m2k383f3p1j2f3o2k353e1m2p1k3i252i231p23382m2p3j371o232a1h2g34242b1p3d362f2j1i321l1l37251o2n1h2m3b3g3d1h2o2837332h3k1i27292b3n382128332k2i3e212d2q371t1t_3k351k1f37372e2f2n3g36361i3b293o1h2o212n39371t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+6469288</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2020-01-26 02:03:37</addtime>
+    <hits>
+92</hits>
+    <username>
+imasot</username>
+    <sex>
+m</sex>
+    <country>
+Chile</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/1p3l393n231l2m1i27342g392o3o3h2d293c2p212533293b2i2a2f1p1i2a283p2i1b211b3e3p1l3e3k25223g1g3e2m1j3a2m3n3l24253i2m2k3l1m2d211l1j3g1k3931313g2f3n2h2i2f2b1b1o2j2q1l3d392a2f24371t1t_3p242c272g2o333o3i2p3l21343a3m3a1j3m3c2935371t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2b2j282i25323c2k3j1b2e35353e2b25242k322l2a263b1p1g3i3p1i2k3j1n353f1f3m283h382p2n24323j3g3j223f26372g2o343j371i3b1n1f1o3j1i3h293h232o2g3j2p1m1j3i253627342p2o2l3o292i2d2j3a211t1t_1b2h1p3m363c39212g3k2i1p1n1j3i3c252a1m391j2h1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+7037574</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2020-04-25 11:25:22</addtime>
+    <hits>
+3318</hits>
+    <username>
+BrianF</username>
+    <sex>
+m</sex>
+    <country>
+Peru</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/1j2g321m3c2n2d3j3a2j232e212q1n2n313a1m1g271l372a251l2q3q1h2g2k1j372d3j3a1o2h251k1p3728263d1k3p2a1m253b2h3o3e2k231f3h3m291k2d1o3j293i1i1l2m293b2q1k3o313l1k1l2j3o1b311l3o1n3n1t1t_1p212m1m263a3k292k1f1j2h283b1p253e2e372a3k3n1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3l1p2b2l1j1i352g3j3g243d3g333l3f3d231b382l2p33231b2a2d1m1g1o322b332l3e361p2l2j2i3i2m312p312c3h1k1i25391p283f2e28222q263q332f23373d231o3e1n38251l2o2h333n3q252k2q1o1p221l372h1t1t_2c2b1h33331n2e2e213q2k3q373m2h3622212n3a28371t1t</pathogg>
+    <rate>
+3</rate>
+    <num_votes>
+3</num_votes>
+    <num_positive_votes>
+3</num_positive_votes>
+  </item>
+  <item>
+    <id>
+7088995</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2020-05-16 22:44:28</addtime>
+    <hits>
+121</hits>
+    <username>
+CristinaKity</username>
+    <sex>
+f</sex>
+    <country>
+Mexico</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3h1p2q2l3k2o2f3f3f292831341k3m38251g2f35223o2d3a282a1i1j3g3n3j2n27242h3e293931212c3k3l383k372c3m231j252h222f3a2e1l3m251j3i3a3a2n3h3f2n3d2o393q243p1f341m2b362j31342k2d1m2j371t1t_2o1g2d2o2h2l1k2j3o2k362m362f362o3h3j3d282q371t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2o3e3f2l272m3m2q2p293n1m362k1n1l2c2g2k2g231g322h3p233n1j232125241m2q1g1j231i3h3k3a2l1h363b3q382m1i1l3g323q32373h3f1j323p1o3l3p1h3h232c2o3d2c1o381h341l1k2o1f2l2n3i1j283b1j211t1t_1k293i2m353c1k3e28353g3q3q1b2p1b1i3d2i2a3l3n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+7530559</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2021-01-02 04:33:59</addtime>
+    <hits>
+518</hits>
+    <username>
+angelsparksub</username>
+    <sex>
+m</sex>
+    <country>
+Dominican Republic</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/352k3e391b2l2h1p3o3d243e1f2h293l3n3h273g1h383a3i342h34341m3i3b252o361j1g1p1h3q2a1j1p3l352m1l2i2q2e3p1p2i351o3m1o3o2d311i1n3431322m2p221p3a323b2b332n3b212n3f262h3i1o35393h2h1t1t_1o2821282e2i2423283j1l1g24213b1p2e2p3o2l2o2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2h2l312h3b211p352d262h1b3n3c2e2k3p2c2k393p2q2d3g352b232g3f2i2f37262b3f2o271n2c1o2l3l3k2a1p3j293f2a1g271g1f3c2c343m1k3a39352j3o333f3j3c34253f2a232d3a342i2e362i2q2j241j2m2i2h1t1t_2p22312i213a2l272c2c3d3e222a3p1o3a1o3m2l2l211t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+7700242</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2021-03-20 18:04:01</addtime>
+    <hits>
+31</hits>
+    <username>
+mirelladara2111</username>
+    <sex>
+f</sex>
+    <country>
+Peru</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3n2b2q3l28332n3e3n2b221k233q3b3f243p3g1m2h3h2j251j323a3l2g252f2138233o291f1p1j3j3o212h2i272b2m2i3e3q1j28343m1g3c32271k3g233j3n1i373f282d1g3k1o331p3n1i331i1k38252d2q1f262a2h1t1t_3k3l3a1o2q36312c2o33221n3d312b3i2a2q31391l371t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/221b261j2a251l253h2a2f2n392l1o322l2p3k3n3b313a26392a2121333o242n3q3f3l1n2c1i27253g392h2837392g1f3k3k362n2q2e1h1b32372f1h353f3l3q3f33281i1l38283h3e3l3p3p1o22273l222d3l2224371t1t_3l2e3c2p1g283c232g3e332e2e1g3k2j3a1g351g1g2h1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+7790702</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2021-05-15 04:29:08</addtime>
+    <hits>
+43</hits>
     <username>
 urso170</username>
     <sex>
@@ -1042,13 +2354,269 @@ m</sex>
     <country>
 Antarctica</country>
     <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/312o243b3f1l31253l2o2f3g33393e332g24291m3a1n3p3q1f2l2n3a2g371n222m2d243f2n2b2k2k3p1b273l3h2j3g2p272e3o3d3c1n2m3k3c272g2j2g1k273h2o232534253m3f3n1o3d2n2p2m232m22272c2m3g36211t1t_372g2b1h3i2k3q2d3j2e2o2m2a28372l3h2e1h3o1b3n1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/231h3a3i3m3g1m1n3g272c1m1b3a2n2k2h2b3l3p3g2o1k3q373g2k333e1f2k313i3k37291b2m322f1n2i372h2i1o3p1o2m332524283q3m3m312o2i363b242d2e381n26263p1k2b3a2p3n2a2q333p372d2p2j291o2i371t1t_2p3o262k2q1h341k243f321p3p1g35273m38211m313n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+7836561</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2021-06-14 22:34:43</addtime>
+    <hits>
+305</hits>
+    <username>
+Jules00</username>
+    <sex>
+f</sex>
+    <country>
+Nicaragua</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/1i1h263q3e29233m3j2l3l223e3m312j2n373b2k2m222l39253p2n1n24291k1m3q3a1i1f1b2a3a2i1o2k3h1h2g1n3q3k35272g243b1n2f32391n342i251b3a2o3d2e3i3j2j1l1f22373k2c321l3k3k3k3l373i3q23371t1t_3e3o223l2e291p1m3635251b3i3q263e1i2h3q3l3o211t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2n341g281g1o313a352l2e3a2c1j341j2i1p3j2p313b3g342j3e2e1i2d1m3j362k3k241o3k3e1o2a2a3b2j1o251i3q2i2a362k242e2q2b1p3f242d3i2o3l221h21292d2h3j3d313m332f2l2e242d2b1i1f1o3d1b332h1t1t_3n212m2q1b3h26293g3q3e3m2c393k3f2c1h1k383h211t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+7922102</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2021-08-29 04:34:06</addtime>
+    <hits>
+15</hits>
+    <username>
+randomlyno</username>
+    <sex>
+m</sex>
+    <country>
+Peru</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2o333a3m1g2p2d1p3m332g3f3b382b233n3m3e392o1p3k26223m3j3l2f2q3d27243k2n1o3c3e393q35392o2k1p2m1b33373f2i271l3n3k22291o33252c3n1n242q1n2333271h272k2k1p1n3e2b39333j3q2o2c3p2f3n1t1t_372q1j271i2g3p1h313j373c1n3b3k243j2a3f2j2j211t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3i3f342q1j3e3k1l3b253d1f2n2q2n1p2l3939382j1p1k312j3e1l1o2g1h2p243n2h351h291g1l281n2c312n2f2l341p3l2o3m1h3b2k393c29292p2p2j3128271b382c391n2d3g322m1j3e3m23311p21331k2a3k3g211t1t_2c2l2p2b1k1k2h25393f38392h3l213f2l32281o1l3n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+7997465</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2021-11-15 01:45:57</addtime>
+    <hits>
+3</hits>
+    <username>
+ProserpinaV</username>
+    <sex>
+f</sex>
+    <country>
+Venezuela</country>
+    <code>
+es</code>
+    <langname>
+Spanish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/1b1o3p1n2139212l222k3o3e3f3k2m3m3c1o3d3c1b1m2f2d2g3f2m1h1p223d331f2q1b2131233e3p2m382822363n2n213p3b24332a2q1i312b3k2l3l2l3n2i1k2c2a1i3j2a3e251o1h351o3m2k2i3k3d3k333g2p3f371t1t_1n2a2f2i2222283q2g243a1h383j1g3k2p2e1j3728211t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/23362h2j2i1g1m3c37311f2b3b2p373e3n2i3b2n2h2e3m383e1m3d2p2k292e1i3e3q32323g3e2m2g271f1p311k1g21212e3c2n31382o2o3228271g1o2b2e352d3i2m3a2n281h2i273m2e3q2l2k3i1g3h2e3b321k1b211t1t_2i3o1h1o2b3l1o1h29213p3n271k253e3l241p273a3n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+150736</id>
+    <word>
+holà</word>
+    <original>
+holà</original>
+    <addtime>
+2009-04-13 15:03:52</addtime>
+    <hits>
+1435</hits>
+    <username>
+spl0uf</username>
+    <sex>
+m</sex>
+    <country>
+France</country>
+    <code>
+fr</code>
+    <langname>
+French</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2h1m3e1i3j3k2l3l1j2e3i2j213h2m3d2k3q3a3g1m1n3p1g1m3n2h3f1m1k1b2e3e35252j262c3o2o29332k3c1g1p2p2j3n37372l1i2m21231h2q2325343b3a1n2k3b1j2h271h2o282o2j333e222d353b2e1n3d3f1n211t1t_3c1h1i3f23271o2l342n3j23372j1n2a391m361n2o2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/2h252a312g252b2j3c1o3h1g2q25242d2g1j3o1m1j3d1b1o1g3i1m213c1b3j212b2h271n262f1j2j1f3n1f2j241p323g1n3m2n3d2b2q3c382f2924243q3f3d3c2f2p3b1p2f1b2i3d3h34393l2o272k312g3b292m1l371t1t_1i2g1k1l353i33321f2p3n3h3o1i3n35261h23331n371t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+4388513</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2016-06-23 10:40:56</addtime>
+    <hits>
+2506</hits>
+    <username>
+yesi2016</username>
+    <sex>
+m</sex>
+    <country>
+Argentina</country>
+    <code>
+gn</code>
+    <langname>
+Guarani</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/3n1l1k2d1i1f25393o2i2c292l252h3b252131342l1n2e2e351j2j21252929261l1f23382624292c1f3a2i1o3j38333a1j382p3a2g3e3c1h3b2o1b1m1j1g2q1n3p2i2j3d3n1f3p383j342l3a3c293l273p262e3c31371t1t_3i1f1g2g3m1i2n3o261h1h22211b322m21272j3d2e2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/36291o393i3h3p1i272p2g3q2o2p3j332b26233b3a2d2o3j2c353h3c3a1l3l273o3n2b1j3d1n3o1b1h3j3p381m283l211n2c363a3g1i2p222l38321o253g2i233f3f3226381i1m3d34362l3f1g2p2o36233f21371f2h1t1t_361b2d232j373f2325291l2b1p291b1o3p332q2g3h3n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+7333978</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2020-09-20 15:36:03</addtime>
+    <hits>
+411</hits>
+    <username>
+show_rain</username>
+    <sex>
+m</sex>
+    <country>
+South Korea</country>
+    <code>
+ko</code>
+    <langname>
+Korean</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/1j2f3n1h1f1f2e3d3i1o2i2p1l2g32333p2q1o2i252c3b25393m372q2m1o222d1o3i241o2c3k351m2m3o2q1g2d342c2g21251h1g3k323p3p3438361l3f1n321o2f3j3h3c3m34362q25333p3g29363e2e2n1l1p2k223n1t1t_2c3n3m3p371h3m3q331l3h2f3n2p293n361j1p2a3h2h1t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/1n2e3q3f1n1j261l2j282k3a333a21253o3c3g1n3f39351n38222n3938373p1p3f2l261b3q1o2q1m2f233b27253e3p2o3e3e2b2g1g1b3h1h3i3j2o262p2e2n2o3j2j233b333a2g1b3c3n2q383l332935313g322a3o211t1t_1b333i372l253i1o2k2h243o2j3l1l3a212g3e2j2h3n1t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+3657772</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2015-06-04 14:29:56</addtime>
+    <hits>
+1061</hits>
+    <username>
+Wojtula</username>
+    <sex>
+m</sex>
+    <country>
+United States</country>
+    <code>
+pl</code>
+    <langname>
+Polish</langname>
+    <pathmp3>
+https://apifree.forvo.com/audio/2h2d1l1j3a283l3f1j253j3n391b223o1h1i2f2k1f3h1b1l3a2n1o2b2f1g2c1j2j3j2m322j2e223q1h1g3i3p1p1i2c352i253e2g273f3e2k36272j233f392e291p2j2b3p3e3j2c2o2c1k3l3p1j3c3o2g3e3f2n371n211t1t_263d2k2g1g2k2k241j3i223f1m2k3q2e2n1j3g2b2b371t1t</pathmp3>
+    <pathogg>
+https://apifree.forvo.com/audio/3b323f3a3p3d1m3d1i1k3c2h312l3j3f312d32321b2d2g37341b333k3n3i2d273l1m2q3j3i333b332h1b2c2g2g353j3i33241k222f25321n3j251b382b3p1k251i211b1m3b1l3q3p1p1b1b3g2h2j3m3g243b1g2q313n1t1t_213m3g3c1h3n23311p311p2g1b27262f22382q353f371t1t</pathogg>
+    <rate>
+0</rate>
+    <num_votes>
+0</num_votes>
+    <num_positive_votes>
+0</num_positive_votes>
+  </item>
+  <item>
+    <id>
+5826130</id>
+    <word>
+hola</word>
+    <original>
+hola</original>
+    <addtime>
+2018-09-12 10:26:30</addtime>
+    <hits>
+1888</hits>
+    <username>
+Objectivesea</username>
+    <sex>
+m</sex>
+    <country>
+Canada</country>
+    <code>
 eo</code>
     <langname>
 Esperanto</langname>
     <pathmp3>
-https://apifree.forvo.com/audio/253p2p2f3o1m3j36352c3q292k241b281l233k1n2k37252h2c2o213e3k2a2a313n1o3e2q212g262g371j212b1l1o1n2137293b1o1n2k3m2m3m2e2l3131231o1h2q1j3m2d1f3h3526242c263d372n3a2e3d272h2f2d211t1t_2n1p3c22391h321m3a3137252m333c27311m1b272n3n1t1t</pathmp3>
+https://apifree.forvo.com/audio/371f3d3j3f1k2m2n3f3f2k22311p1o2i1o223n1b2m3128281h3m323p1p252n1l2a213k2h361m3p381l2j332a381o3p242l1h233n3h3d3g253m32222j363l2e2935231g1l383p35273l3m1p2o3j2q1j2a1k213f213l2h1t1t_292i281p36363h2q3i23383b1m25393p361h1l1h3j211t1t</pathmp3>
     <pathogg>
-https://apifree.forvo.com/audio/382o2h292d2j3b24321j3e1h3c2h1n39281g3o1m2q342b1g2m26241m2p271m37313k3e26392m3a312e263d1l383q1g1i2m2n1f3i271i2j2j2p3621221f1n37342q3n2a2n1p2a1l3h3m3e3i3j1i261p3j2e2a1k2m382h1t1t_2b29372m3p1j2734313k342j3b3g292m2b3h222426211t1t</pathogg>
+https://apifree.forvo.com/audio/3f3i252p1b222h1m362p3c2j1f3h1m3c2d3a2o2a2g261l1p3k272q2k3d34263c24332q3931273i3c1b3f2j3k393i3q312e3k2i391k3l2q22242d3j3b24283j272l1h3n3m2b2q2d2m2d3q1n32292c36383d2i3c1i2f3n1t1t_3i3m291i1f2f1o1m3c3o331m1b3p272a3i23333f2o2h1t1t</pathogg>
     <rate>
 0</rate>
     <num_votes>
@@ -1058,93 +2626,29 @@ https://apifree.forvo.com/audio/382o2h292d2j3b24321j3e1h3c2h1n39281g3o1m2q342b1g
   </item>
   <item>
     <id>
-865366</id>
+4732755</id>
     <word>
-hí</word>
+hola</word>
     <original>
-hí</original>
+hola</original>
     <addtime>
-2010-11-07 11:28:01</addtime>
+2016-12-28 13:33:20</addtime>
     <hits>
-919</hits>
+1268</hits>
     <username>
-suicide</username>
+zovonoir</username>
     <sex>
 m</sex>
     <country>
-Czech Republic</country>
+China</country>
     <code>
-lkt</code>
+hsn</code>
     <langname>
-Lakota</langname>
+Xiang Chinese</langname>
     <pathmp3>
-https://apifree.forvo.com/audio/342f2k2i251i25222l333m2k3l2i1k1m3e32332e232q2k2q3o29351o3b3e1m39282c393k3e3h3421392m39352d3f2b3k3j1b2h3g1m292k221h1f2d313e373g3c391m352l3p1g233h2k242p1j2j1f353j2o3m21323j3n1t1t_2f2n24352a2h2h251k1j393k1l1b3b251k3g2h1l3e211t1t</pathmp3>
+https://apifree.forvo.com/audio/2g1i363f3f3b33223g2i291j3224291p34351o342n283e2837323p382k29271m1n2m3q3a1b2c272i3b331i3d2b3k1h373d2l2j3h3q1b282f2l3e2p3b293e322p2m2j2e2a2c3m1p3e2e3g241j3j32263p2q3k2q3q3e2h1t1t_3l3d2g2g2o2l2b1b2o3j2k233o2235312o3p1l2i3i211t1t</pathmp3>
     <pathogg>
-https://apifree.forvo.com/audio/293b3e262h262q352i363b3j393h1n3q3b1g231o1g1p3m3e3g363m343i3f2p372c32263i2623243g2n2p3c2a271j3e261h1l1h3b2628281b2q212m2j3i3m2c2n3g2q2l2m242d2b3p2c2l3n3o3p34352k1o2a291m1m211t1t_1i1h2q3f2g3p1n352b2n263j391f2n2l2f272d23293n1t1t</pathogg>
-    <rate>
-0</rate>
-    <num_votes>
-0</num_votes>
-    <num_positive_votes>
-0</num_positive_votes>
-  </item>
-  <item>
-    <id>
-1114382</id>
-    <word>
-hî</word>
-    <original>
-hî</original>
-    <addtime>
-2011-04-26 20:57:14</addtime>
-    <hits>
-191</hits>
-    <username>
-serhat213</username>
-    <sex>
-m</sex>
-    <country>
-Turkey</country>
-    <code>
-zza</code>
-    <langname>
-Zazaki</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/3a2q21262329342m373n1f2c263g3g3h2e3p3n3n2j2a2q2a3p281m373j1m1n273d3p1l1n281o3b3k2g2a2b2b3l283a1f1o262p1o1h211i2j312j391n2h3q1l383o352m3k1b3c1n2k2b342g2p283h2k2k2g2a342d2e2h1t1t_2o2f3h1g2f2c222k2n2p3k2f2m31362m3g3i1n3i3f371t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/1k3b3q353k29323h1i3q29272g3f2a1o34231k3n1j2n3j3c342c3q1j3p3m3d2d1g2a2l2m3n1f33322q292625243b2n3m2c353n21271h1k1g1n392b3b2h3d1b3g3n3f3n1l31233c3c3g3i322b3f2c1o3h2a1h3a2a1b211t1t_3g272p3k213f3i2m3d253l3e3l2326262k2a2i2g3k371t1t</pathogg>
-    <rate>
-0</rate>
-    <num_votes>
-0</num_votes>
-    <num_positive_votes>
-0</num_positive_votes>
-  </item>
-  <item>
-    <id>
-6058891</id>
-    <word>
-hi</word>
-    <original>
-Hi</original>
-    <addtime>
-2019-03-15 18:22:16</addtime>
-    <hits>
-215</hits>
-    <username>
-Mous31</username>
-    <sex>
-m</sex>
-    <country>
-Algeria</country>
-    <code>
-arq</code>
-    <langname>
-Algerian Arabic</langname>
-    <pathmp3>
-https://apifree.forvo.com/audio/1p1f2b2g2g1m1o382q2p1j3n1f2p3f2p1b1m3h1f3d1f2a242k3f1b2n1g2n1j372h273n32252d2j3a3a333n3j271m3e323m35222c233633332c263q1m2h221n1l2q3e2c2l392h3b2h212q331m383p241f2k3k1b2129371t1t_212a281j2j2k2h2d3b1f3k312g1m282f1n1g3n3d272h1t1t</pathmp3>
-    <pathogg>
-https://apifree.forvo.com/audio/2d223i1b2o3b233i1b3k1b2n2n321j2m2h28292b373l2d3a3e1f1j2l29362h1o35222a3m2m2h3f222p3e2j252n1b361p1g3c3p273o223j2l392g332b1l3h1f24382k29292a3e3m2h2231311b233q2l2l2p3m1o1f2e371t1t_2m2535262f3h2935242a1b2k2e2h2q293a2l3n3e2i3n1t1t</pathogg>
+https://apifree.forvo.com/audio/3h352a2q3q2e1l242p2m3i3c2h3j2f1g3n3n291o363f383h3e3h3635332o223o1l3i1b3l3g2k2m3o2m2l341h373d1i35263i3g2n1o3l3g1i241i2n1g1p1f1f23313j2i2g273m3d2n2f213i2k2a2q2p3o351k373i2h3n1t1t_1i1m393f2c1f3d1h1b2g3m263m2n2j3k373d352c1p3n1t1t</pathogg>
     <rate>
 0</rate>
     <num_votes>

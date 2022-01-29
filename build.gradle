@@ -1,9 +1,13 @@
 plugins {
     id 'java'
+
+    //For Heroku:
+    //id 'com.github.johnrengelman.shadow' version '6.1.0'
+    id 'com.github.johnrengelman.shadow' version '6.1.0' //it makes a fat jar file which contains all the dependencies inside only that fat jar file. It is required by Heroku deployment.
 }
 
-sourceCompatibility = 11
-targetCompatibility = 11
+sourceCompatibility = '17.0.1'
+targetCompatibility = '17.0.1'
 
 //without all of this encoding options, everything worked exceptionally better. otherwise "ISO-8859-1" or latter
 
@@ -60,14 +64,18 @@ dependencies {
 
     // JDA (Java Discord API)
     //implementation 'net.dv8tion:JDA:4.2.0_228'
-    compile("net.dv8tion:JDA:4.2.0_168")
+    //compile("net.dv8tion:JDA:4.2.0_168")
+    implementation("net.dv8tion:JDA:5.0.0-alpha.4")
 
     //-----------------------------------------------------------------------------------------------
 
     //google sheets API
-    compile 'com.google.api-client:google-api-client:1.30.4'
-    compile 'com.google.oauth-client:google-oauth-client-jetty:1.30.6'
-    compile 'com.google.apis:google-api-services-sheets:v4-rev581-1.25.0'
+    //compile 'com.google.api-client:google-api-client:1.30.4'
+    implementation 'com.google.api-client:google-api-client:1.30.4'
+    //compile 'com.google.oauth-client:google-oauth-client-jetty:1.30.6'
+    implementation 'com.google.oauth-client:google-oauth-client-jetty:1.30.6'
+    //compile 'com.google.apis:google-api-services-sheets:v4-rev581-1.25.0'
+    implementation 'com.google.apis:google-api-services-sheets:v4-rev581-1.25.0'
 
     //-----------------------------------------------------------------------------------------------
 
@@ -84,6 +92,20 @@ dependencies {
 
     //-----------------------------------------------------------------------------------------------
 
+    // Pruebas unitarias / Unit Tests
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+    implementation 'org.javacord:javacord:3.1.2'
+    runtimeOnly 'org.apache.logging.log4j:log4j-core:2.11.0'
+
+    //---------------------------------------------------------
+
+    // sdcf4j
+    //implementation 'de.btobastian.sdcf4j:sdcf4j-core:1.0.10'
+    //implementation 'de.btobastian.sdcf4j:sdcf4j-javacord:1.0.10'
+
+
+    //-----------------------------------------------------------------------------------------------
 
     //To fix the error: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
     // https://mvnrepository.com/artifact/org.slf4j/slf4j-api
@@ -118,4 +140,18 @@ dependencies {
 
 test {
     useJUnitPlatform()
+}
+
+
+//For Heroku
+//Heroku searches for a command to build the bot. And in this case it'd be staged by default all the java heroku apps. The stage is the change of changes.
+task stage(dependsOn: ['build','shadowJar', 'clean', 'test'])
+build.mustRunAfter clean
+build.mustRunAfter test
+
+//When you create a Jar file, it also creates a Manifest file. Manifest file has basic information about class path (where we find the jar file) and main class.
+jar {
+    manifest{
+        attributes 'Class-Path': '/libs/TextFetcher-1.0-SNAPSHOT-all.jar', 'Main-Class': 'discord_bot.Main0'
+    }
 }
