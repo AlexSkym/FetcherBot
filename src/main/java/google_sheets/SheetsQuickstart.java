@@ -13,6 +13,7 @@ import com.google.api.client.util.store.FileDataStoreFactory;
 import com.google.api.services.sheets.v4.Sheets;
 import com.google.api.services.sheets.v4.SheetsScopes;
 import com.google.api.services.sheets.v4.model.ValueRange;
+import discord_bot.submains.SubmainTextFetching;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -88,12 +89,35 @@ public class SheetsQuickstart {
                 .get(spreadsheetId, range)
                 .execute();
         List<List<Object>> values = response.getValues();
+        //If I cannot find a text...
         if (values == null || values.isEmpty()) {
             System.out.println("No data found.");
             theText = "";
             //theText = "No data found";
             theText = "Pido disculpas, no encontré ningún dato.";
-        } else {
+
+            //Restarting the counter of FetcherBot
+            if (myOwnRange.equalsIgnoreCase("Spanish - Easy")) {
+
+            }
+            switch (myOwnRange){
+                case "Spanish - Easy" : SubmainTextFetching.num_of_paragraph_esp_easy = 1;
+                break;
+                case "Spanish - Intermediate" : SubmainTextFetching.num_of_paragraph_esp_intermediate = 1;
+                break;
+                case "Spanish - Advanced" : SubmainTextFetching.num_of_paragraph_esp_advanced = 1;
+                break;
+                case "English - Easy" : SubmainTextFetching.num_of_paragraph_eng_easy = 1;
+                break;
+                case "English - Intermediate" : SubmainTextFetching.num_of_paragraph_eng_intermediate = 1;
+                break;
+                case "English - Advanced" : SubmainTextFetching.num_of_paragraph_eng_advanced = 1;
+                break;
+            }
+
+
+        }//If I find a text...
+        else {
         	theText = "";
             for (List row : values) {
                 // Print columns A and E, which correspond to indices 0 and 4.
@@ -112,7 +136,11 @@ public class SheetsQuickstart {
             }
         }
     }
-    
+
+
+    //SETTERS AND GETTERS
+
+
     /**
      * Treatment of the texts: 
      * 		here I have to get the text and remove every sign: "```" 
