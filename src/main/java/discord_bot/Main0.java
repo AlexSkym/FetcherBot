@@ -24,8 +24,8 @@ public class Main0 {
 
         //Actual token: ODE3ODIxMTUwODU1ODIzNDEy.YEPFTA.8ro0KnoOTUQ7y3IJqNfNl2Oank0     //to invite it: https://discord.com/api/oauth2/authorize?client_id=817821150855823412&permissions=2148005952&scope=bot
         jda = JDABuilder
-//                .createDefault("ODE3ODIxMTUwODU1ODIzNDEy.YEPFTA.8ro0KnoOTUQ7y3IJqNfNl2Oank0") //fetcherBot
-                .createDefault(System.getenv("TOKEN01")) //fetcherBot
+                .createDefault("ODE3ODIxMTUwODU1ODIzNDEy.YEPFTA.8ro0KnoOTUQ7y3IJqNfNl2Oank0") //fetcherBot
+//                .createDefault(System.getenv("TOKEN01")) //fetcherBot
                 //.createDefault(System.getenv().get("TOKEN01")) //fetcherBot
 //                .createDefault("ODU0NzUzODUyNTg1NDEwNTgw.YMohjw.LSDK__MCNBdXFNSOxbOk0cblGME") //pruebaBot
                 .addEventListeners(new Main_EventManager())

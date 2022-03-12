@@ -30,7 +30,7 @@ public class Library {
 		} else {
 			return getHelp();
 		}
-		;
+
 
 		if (level_treatment(command).equals("e")) {
 			name_of_sheet += " - Easy";

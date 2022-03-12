@@ -3,7 +3,6 @@ package discord_bot.submains;
 import discord_bot.GettingJDA;
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.JDA;
-import net.dv8tion.jda.api.entities.Message;
 import net.dv8tion.jda.api.entities.Role;
 import net.dv8tion.jda.api.entities.TextChannel;
 import wotd_scraping.GettingWordOfTheDay;
@@ -27,7 +26,7 @@ public class SubmainWOTD extends Thread{
 
     ZoneId zoneId = ZoneId.of("America/New_York");
     int theHour = 10, theMinute = 0;
-//    int theHour = 0, theMinute = 29; //testing...
+//    int theHour = 23, theMinute = 28; //testing...
     int sleepingTime = 1000 * 60 * 60 * 4;  //1000 milliseconds = 1 second . Here it is sleeping 4 hours.
 
 
@@ -80,11 +79,11 @@ public class SubmainWOTD extends Thread{
                     try {
                         //from spanishdict.com
                         channel_1.sendMessage(role.getAsMention()).queue();
-                        channel_1.sendMessage((Message) gettingWordOfTheDay.GettingWordOfTheDay(
+                        channel_1.sendMessageEmbeds( gettingWordOfTheDay.GettingWordOfTheDay(
                                 embedBuilder, role, theURL_1, 1).build()).queue();
                         //from ingles.com
                         channel_2.sendMessage(role.getAsMention()).queue();
-                        channel_2.sendMessage((Message) gettingWordOfTheDay.GettingWordOfTheDay(
+                        channel_2.sendMessageEmbeds( gettingWordOfTheDay.GettingWordOfTheDay(
                                 embedBuilder, role, theURL_2, 2).build()).queue();
 
                         //making the message above not working. Sleeping for some minutes

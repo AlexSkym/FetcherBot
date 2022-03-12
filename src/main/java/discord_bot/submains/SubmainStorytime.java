@@ -140,7 +140,7 @@ public class SubmainStorytime {
 
         //if reading the file went finely, let's send everything
         if (stringRequestHandler_firstPage.isAllRight()){
-            messageChannel.sendMessage((Message) new EmbedBuilder()
+            messageChannel.sendMessageEmbeds( new EmbedBuilder()
                     .setDescription(finalSimpleMessage + "\n" + finalCustomMessage)
                     .build()).queue();
 
@@ -148,7 +148,7 @@ public class SubmainStorytime {
         }
         //if something wrong, let's send the error message
         else {
-            messageChannel.sendMessage((Message) new EmbedBuilder()
+            messageChannel.sendMessageEmbeds( new EmbedBuilder()
                                     .setDescription(stringRequestHandler_firstPage.getFinalSimpleMessage())
                                     .build()).queue();
         }
@@ -198,7 +198,7 @@ public class SubmainStorytime {
                 if (message.getId().equalsIgnoreCase(event.getMessageId()) &&
                     event.getUser().equals(map_numOfMessageToBeEdited_and_nameOfUserWhoSentRequest.get(message))){
                     //editing the message
-                    message.editMessage((Message) new EmbedBuilder()
+                    message.editMessageEmbeds( new EmbedBuilder()
                             .setDescription(gettingParagraphs.getNextParagraph()).build()).queue();
                 }
             }
@@ -221,7 +221,7 @@ public class SubmainStorytime {
                 if (message.getId().equalsIgnoreCase(event.getMessageId()) &&
                         event.getUser().equals(map_numOfMessageToBeEdited_and_nameOfUserWhoSentRequest.get(message))){
                     //editing the message
-                    message.editMessage((Message) new EmbedBuilder()
+                    message.editMessageEmbeds( new EmbedBuilder()
                             .setDescription(gettingParagraphs.getPreviousParagraph()).build()).queue();
                 }
             }
@@ -243,7 +243,7 @@ public class SubmainStorytime {
                 if (message.getId().equalsIgnoreCase(event.getMessageId()) &&
                         event.getUser().equals(map_numOfMessageToBeEdited_and_nameOfUserWhoSentRequest.get(message))){
                     //editing the message
-                    message.editMessage((Message) new EmbedBuilder()
+                    message.editMessageEmbeds( new EmbedBuilder()
                             .setDescription("<:duowave:874469322947457075>").build()).queue();
                 }
             }
