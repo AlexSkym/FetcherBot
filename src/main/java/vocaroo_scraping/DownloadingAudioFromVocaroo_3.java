@@ -1,6 +1,6 @@
 package vocaroo_scraping;
 
-import zUtil.MyProperties;
+import zUtil.myProperties.MyProperties;
 
 import java.io.FileOutputStream;
 import java.io.IOException;

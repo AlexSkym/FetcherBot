@@ -6,6 +6,7 @@ import net.dv8tion.jda.api.entities.Message;
 import net.dv8tion.jda.api.entities.MessageChannel;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import org.apache.commons.lang3.StringUtils;
+import zUtil.myProperties.MyProperties;
 
 import java.io.File;
 
@@ -49,7 +50,7 @@ public class SubmainForvo {
                         new UserPetition_Handler_simpleMode(userMessage);
 
                 //getting the forvo audio file
-                zUtil.MyProperties myProperties = new zUtil.MyProperties();
+                MyProperties myProperties = new MyProperties();
                 File audioFile = new File(myProperties.
                         getMyProperties().
                         getProperty("forvoPathName"));

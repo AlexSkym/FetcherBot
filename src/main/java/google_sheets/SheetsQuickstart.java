@@ -24,18 +24,22 @@ import java.util.Collections;
 import java.util.List;
 
 public class SheetsQuickstart {
-	
-	//In order to send values to "Library.java"
-	private static String theText = "";
+
+	//In order to send values to "PreparingTextsToBeSent.java"
 	//range of cells I'll get from a sheet of my GoogleSheet.   ex.: //final String range = "Class Data!A2:E";
 	private static String myOwnRange;
-	
-	//Starting 
+	//Starting
     private static final String APPLICATION_NAME = "Google Sheets API Java Quickstart";
     private static final JsonFactory JSON_FACTORY = JacksonFactory.getDefaultInstance();
     private static final String TOKENS_DIRECTORY_PATH = "tokens";
 
+    //To be get latter
+    private static List<List<Object>> values;
 
+
+//    ************************************
+    //Don't touch these 3 following classes
+//    ************************************
     /**
      * Global instance of the scopes required by this quick start.
      * If modifying these scopes, delete your previously saved tokens/ folder.
@@ -68,77 +72,46 @@ public class SheetsQuickstart {
         return new AuthorizationCodeInstalledApp(flow, receiver).authorize("user");
     }
 
+
+
+
+
+
+
+
+
+//    Editable code:
+
+
     /**
      * Prints the names and majors of students in a sample spreadsheet:
      * https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit
      */
     //public static void main(String... args) throws IOException, GeneralSecurityException {
-    public static void Starting() throws IOException, GeneralSecurityException {
+    public static void Starting(String range) throws IOException, GeneralSecurityException {
     	    	
     	// Build a new authorized API client service.
         final NetHttpTransport HTTP_TRANSPORT = GoogleNetHttpTransport.newTrustedTransport();
         							//https://docs.google.com/spreadsheets/d/101O_Vi8KFvxQjPWFjI6_yptR7OTGJH0-J5xxzGfG4LQ/edit#gid=429461805
         //final String spreadsheetId = "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms";		//original
         final String spreadsheetId = "101O_Vi8KFvxQjPWFjI6_yptR7OTGJH0-J5xxzGfG4LQ";	//ours
-        //final String range = "Class Data!A2:E";       //original
-        final String range = myOwnRange;
+
         Sheets service = new Sheets.Builder(HTTP_TRANSPORT, JSON_FACTORY, getCredentials(HTTP_TRANSPORT))
                 .setApplicationName(APPLICATION_NAME)
                 .build();
         ValueRange response = service.spreadsheets().values()
-                .get(spreadsheetId, range)
+                .get(spreadsheetId, range) //range: name_of_sheet
                 .execute();
-        List<List<Object>> values = response.getValues();
-        //If I cannot find a text...
-        if (values == null || values.isEmpty()) {
-            System.out.println("No data found.");
-            theText = "";
-            //theText = "No data found";
-            theText = "Pido disculpas, no encontré ningún dato.";
-
-            //Restarting the counter of FetcherBot
-            if (myOwnRange.equalsIgnoreCase("Spanish - Easy")) {
-
-            }
-            switch (myOwnRange){
-                case "Spanish - Easy" : SubmainTextFetching.num_of_paragraph_esp_easy = 1;
-                break;
-                case "Spanish - Intermediate" : SubmainTextFetching.num_of_paragraph_esp_intermediate = 1;
-                break;
-                case "Spanish - Advanced" : SubmainTextFetching.num_of_paragraph_esp_advanced = 1;
-                break;
-                case "English - Easy" : SubmainTextFetching.num_of_paragraph_eng_easy = 1;
-                break;
-                case "English - Intermediate" : SubmainTextFetching.num_of_paragraph_eng_intermediate = 1;
-                break;
-                case "English - Advanced" : SubmainTextFetching.num_of_paragraph_eng_advanced = 1;
-                break;
-            }
-
-
-        }//If I find a text...
-        else {
-        	theText = "";
-            for (List row : values) {
-                // Print columns A and E, which correspond to indices 0 and 4.
-                //System.out.printf("%s, %s\n", row.get(1), row.get(4));
-            	System.out.printf("%s\n", row.get(0));	//Esta expresa el número de la columna del exel, pero... 
-															//hay que recordar que estoy tratando con un Array,
-															//entonces es directamente 0 la primer y única columna que nombré 
-															//y seleccioné .
-                theText += row;
-
-                //kick off the '[' and ']'
-                System.out.println("theText: " +theText);
-                theText = theText.substring(1,theText.length()-1);
-                System.out.println("theText: " +theText);
-
-            }
-        }
+        values = response.getValues();
     }
 
 
     //SETTERS AND GETTERS
+
+
+    public List<List<Object>> getValues() {
+        return values;
+    }
 
 
     /**
@@ -150,15 +123,6 @@ public class SheetsQuickstart {
     	//code...
     	return theText;
     }
-    
-	public String getTheText() {
-        return theText;
-	}
-
-	/*
-	 * public String getMyOwnRange() { return myOwnRange; }
-	 */
-	
 	
 	public void setMyOwnRange(String name_of_sheet) {
 		this.myOwnRange = name_of_sheet;

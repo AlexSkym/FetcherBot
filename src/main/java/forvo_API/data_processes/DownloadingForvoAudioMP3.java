@@ -1,19 +1,13 @@
 package forvo_API.data_processes;
 
+import zUtil.myProperties.MyProperties;
+
 import java.io.*;
-import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
 import java.net.URL;
-import java.net.URLConnection;
-import java.nio.channels.Channels;
-import java.nio.channels.FileChannel;
-import java.nio.channels.ReadableByteChannel;
-import java.util.Properties;
 
 public class DownloadingForvoAudioMP3 {
 
 
-    Properties properties = new Properties();
     String path = "";
 
     /**
@@ -24,7 +18,7 @@ public class DownloadingForvoAudioMP3 {
      */
     public DownloadingForvoAudioMP3(String url) throws IOException {
 
-        zUtil.MyProperties myProperties = new zUtil.MyProperties();
+        MyProperties myProperties = new MyProperties();
         path = myProperties.getMyProperties().getProperty("forvoPathName");
 
         download(url);

@@ -25,7 +25,7 @@ public class SubmainWOTD extends Thread{
     String theURL_2 = "https://www.ingles.com/palabradeldia";
 
     ZoneId zoneId = ZoneId.of("America/New_York");
-    int theHour = 10, theMinute = 0;
+    int theHour = 10, theMinute = 00;
 //    int theHour = 23, theMinute = 28; //testing...
     int sleepingTime = 1000 * 60 * 60 * 4;  //1000 milliseconds = 1 second . Here it is sleeping 4 hours.
 

@@ -2,12 +2,9 @@ package forvo_API.data_processes;
 
 import forvo_API.data_processes.xml_processes.WriterForXML;
 import forvo_API.data_processes.fixedVariables.MapperEnumFixedVar;
-import zUtil.MyProperties;
+import zUtil.myProperties.MyProperties;
 
-import java.io.File;
-import java.io.FileInputStream;
 import java.io.IOException;
-import java.util.Properties;
 
 
 public class CreatingTheURL_and_writing {
@@ -77,7 +74,10 @@ public class CreatingTheURL_and_writing {
      */
     private String addPersonalKey() {
         MyProperties myProperties = new MyProperties();
-        return "key/"+myProperties.getMyProperties().getProperty("forvoKey") + "/";
+        String strKeyPath = "key/"+System.getenv("forvoKey") + "/";
+        return strKeyPath;
+//        return "key/"+myProperties.getMyProperties().getProperty("forvoKey") + "/";
+
     }
 
     /**
