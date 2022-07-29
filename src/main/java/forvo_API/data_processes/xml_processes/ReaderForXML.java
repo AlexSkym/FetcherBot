@@ -22,7 +22,7 @@ public class ReaderForXML implements Reader_and_Writer_ForXML {
     /**
      * Read the values from XML File
      *
-     * @return This return a "List<ItemForXML>" containing every value got from the XML file
+     * @return This return a "{@code List<ItemForXML>}" containing every value got from the XML file
      */
     public List<ItemForXML> read_XMLFile() {
         List<ItemForXML> theItems = null;

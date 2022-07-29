@@ -15,7 +15,7 @@ public class MapperEnumFixedVar {
     /**
      * Complexes of the Male Sex
      *
-     * @return return an ArrayList (ArrayList<String> complexes)
+     * @return return an ArrayList {@code ArrayList<String> complexes}
      */
     public ArrayList<String> getAliasesComplexes(){
 
@@ -37,7 +37,7 @@ public class MapperEnumFixedVar {
     /**
      * Complexes of the Spanish Language
      *
-     * @return return an ArrayList (ArrayList<String> complexes)
+     * @return return an ArrayList {@code ArrayList<String> complexes}
      */
     public ArrayList<String> getSpanishComplexes(){
 
@@ -56,7 +56,7 @@ public class MapperEnumFixedVar {
     /**
      * Complexes of the English Language
      *
-     * @return return an ArrayList (ArrayList<String> complexes)
+     * @return return an ArrayList {@code ArrayList<String> complexes}
      */
     public ArrayList<String> getEnglishComplexes(){
 
@@ -79,7 +79,7 @@ public class MapperEnumFixedVar {
     /**
      * Complexes of the Male Sex
      *
-     * @return return an ArrayList (ArrayList<String> complexes)
+     * @return return an ArrayList {@code ArrayList<String> complexes}
      */
     public ArrayList<String> getMaleSexComplexes(){
 
@@ -98,7 +98,7 @@ public class MapperEnumFixedVar {
     /**
      * Complexes of the Female Sex
      *
-     * @return return an ArrayList (ArrayList<String> complexes)
+     * @return return an ArrayList {@code ArrayList<String> complexes}
      */
     public ArrayList<String> getFemaleSexComplexes(){
 
@@ -137,7 +137,7 @@ public class MapperEnumFixedVar {
     /**
      * PrettyName from the English Countries
      *
-     * @return return an ArrayList (ArrayList<String> complexes)
+     * @return return an ArrayList {@code ArrayList<String> complexes}
      */
     public ArrayList<String> getAll_EnglishCountries_PrettyName(){
         ArrayList<String> complexes = new ArrayList<>();
@@ -155,7 +155,7 @@ public class MapperEnumFixedVar {
     /**
      * Abbreviations from the English Countries
      *
-     * @return return an ArrayList (ArrayList<String> complexes)
+     * @return return an ArrayList {@code ArrayList<String> complexes}
      */
     public ArrayList<String> getAll_EnglishCountries_Abbreviations(){
 
@@ -174,7 +174,7 @@ public class MapperEnumFixedVar {
     /**
      * Abbreviation (Alpha-3 Code) from the English Countries
      *
-     * @return return an ArrayList (ArrayList<String> complexes)
+     * @return return an ArrayList {@code ArrayList<String> complexes}
      */
     public ArrayList<String> getAll_EnglishCountries_Abbreviation_alpha3Codes(){
 
@@ -241,7 +241,7 @@ public class MapperEnumFixedVar {
     /**
      * PrettyName from the Spanish Countries
      *
-     * @return return an ArrayList (ArrayList<String> complexes)
+     * @return return an ArrayList {@code ArrayList<String> complexes}
      */
     public ArrayList<String> getAll_SpanishCountries_PrettyName(){
 
@@ -260,7 +260,7 @@ public class MapperEnumFixedVar {
     /**
      * Abbreviations from the Spanish Countries
      *
-     * @return return an ArrayList (ArrayList<String> complexes)
+     * @return return an ArrayList {@code ArrayList<String> complexes}
      */
     public ArrayList<String> getAll_SpanishCountries_Abbreviations(){
 
@@ -277,9 +277,9 @@ public class MapperEnumFixedVar {
     }
 
     /**
-     * Abbreviation (Alpha-3 Code) from the Spanish Countries
+     * <h1> Abbreviation (Alpha-3 Code) from the Spanish Countries </h1>
      *
-     * @return return an ArrayList (ArrayList<String> complexes)
+     * @return return an ArrayList {@code ArrayList<String> complexes}
      */
     public ArrayList<String> getAll_SpanishCountries_Abbreviation_alpha3Codes(){
 

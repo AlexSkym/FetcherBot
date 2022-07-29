@@ -42,9 +42,9 @@ public abstract class Lists_Handler_strict {
 
 
     /**
-     * This class works to sort out a list<ItemForXML>
+     * This class works to sort out a {@code list<ItemForXML>}
      *
-     * @return every return will be a sorted List<ItemForXML>
+     * @return every return will be a sorted {@code List<ItemForXML>}
      */
     public static class GettingASortedList_withUserNeeds extends Lists_Handler_strict {
 

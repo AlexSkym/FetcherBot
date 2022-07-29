@@ -9,13 +9,20 @@ import java.nio.charset.StandardCharsets;
  */
 public class AddingNewStringUnicode {
 
+    /**
+     * Constructor
+     */
     public AddingNewStringUnicode() {
 
     }
 
 
     /**
-     * Encoding and decoding a string
+     * <h1>Encoding and decoding a string</h1>
+     *
+     * <p> getting a new UFT-8 unicode format for some Strings</p>
+     *
+     * @param str (any string)
      * @return a string into UTF-8
      */
     public String newUnicode_UTF_8(String str){
@@ -27,8 +34,12 @@ public class AddingNewStringUnicode {
     }
 
     /**
-     * Encoding and decoding a string
-     *  It's necessary because sometimes a string cannot be sent to Discord as the same encode as I use "System.out.println()"
+     * <h1>Encoding and decoding a string</h1>
+     *
+     * <p> Getting a new UFT-8 unicode format for some Strings</p>
+     * <p> It's necessary because sometimes a string cannot be sent to Discord as the same encode as I use "System.out.println()"</p>
+     *
+     * @param str (any string)
      * @return a string into UTF-8 or US-ASCII or ISO-8859-1
      */
     public String newUnicode_ISO_8859_1(String str){

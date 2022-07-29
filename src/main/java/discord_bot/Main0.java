@@ -2,6 +2,7 @@ package discord_bot;
 
 //JDA full guide: https://ci.dv8tion.net/job/JDA/javadoc/index.html
 // String spanish = "\u00E1\u00E9\u00ED\u00F3\u00FA"; = áéíóú
+// JavaDocs: https://ibb.co/dfTcjx2    / https://www.tutorialspoint.com/java/java_documentation.htm#
 
 import discord_bot.submains.SubmainWOTD;
 import net.dv8tion.jda.api.JDA;
@@ -16,18 +17,22 @@ import javax.security.auth.login.LoginException;
 //source: https://ci.dv8tion.net/job/JDA/javadoc/net/dv8tion/jda/api/entities
 public class Main0 {
 
-
     public static JDA jda;
     public static String prefix = ".,";
 
+    /**
+     * Main class of the whole project
+     *
+     * @param args
+     * @throws LoginException
+     */
     public static void main(String[] args) throws LoginException {
 
         //to invite it: https://discord.com/api/oauth2/authorize?client_id=817821150855823412&permissions=2148005952&scope=bot
         jda = JDABuilder
                 .createDefault(System.getenv("TOKEN01")) //FetcherBot's token
-
                 .addEventListeners(new Main_EventManager())
-                .setActivity(Activity.playing("Type " + prefix + " help"))
+                .setActivity(Activity.playing(" " + prefix + "ftxt"))
                 .build();
 
         System.out.println("-----------------------Starting-----------------------");

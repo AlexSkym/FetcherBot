@@ -41,10 +41,10 @@ public abstract class Searching_inside_ItemsList{
     abstract List<ItemForXML> SearchingFor_hits(String hits, List<ItemForXML> listParameter);
 
     /**
-     * This class works to search inside a list<ItemForXML>
+     * This class works to search inside a {@code list<ItemForXML>}
      *     That list is found within ReaderForXML.class -> readXMLFile() method
      *
-     * @return every return will be a specified List<ItemForXML>
+     * @return every return will be a specified {@code List<ItemForXML>}
      */
     public static class GettingAFilteredList_withUserSpecs extends Searching_inside_ItemsList{
 

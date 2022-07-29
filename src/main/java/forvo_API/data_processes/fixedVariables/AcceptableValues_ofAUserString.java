@@ -51,6 +51,7 @@ public class AcceptableValues_ofAUserString {
     /**
      * Verifier to be sure that the user wrote a right string to make our program work
      * @param userString the string a user sent to invoke the bot and its functionalities
+     * @return the variable: map_typeOfValue_and_value 's value
      */
     public Map verifying_aUserString(String userString){  //remember that this contains a random word name too
         //initialization of values

@@ -150,7 +150,7 @@ public class ReadingTxtFile_AsListOfParagraphs {
 
     /**
      * get a list
-     * @return List<String> with paragraphs
+     * @return {@code List<String>} with paragraphs
      */
     public List<String> getListString() {
         return listString;
